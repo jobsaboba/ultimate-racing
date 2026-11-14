@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T14:44:51+00:00",
+  "generated": "2026-11-14T14:46:32+00:00",
   "bank_start": 10.0,
   "stake_pct": 0.01,
   "window": 14,
@@ -20,6 +20,26 @@
     "bank": 10.23,
     "roi": 11.9
   },
+  "by_size": [
+    {
+      "size": "Singles",
+      "key": 1,
+      "lines": 16,
+      "won": 9,
+      "staked": 1.62,
+      "returned": 1.89,
+      "roi": 16.7
+    },
+    {
+      "size": "Doubles",
+      "key": 2,
+      "lines": 3,
+      "won": 1,
+      "staked": 0.31,
+      "returned": 0.27,
+      "roi": -12.9
+    }
+  ],
   "monthly": {
     "2026-01": 0.0,
     "2026-02": 0.0,
