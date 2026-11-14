@@ -1,0 +1,123 @@
+{
+  "date": "2026-09-04",
+  "generated": "2026-11-14T14:00:51+00:00",
+  "picks": [
+    {
+      "time": "13:15",
+      "meeting": "Bangor-on-Dee",
+      "race": "Genesis Wealth Management Novices' Handicap Chase",
+      "horse": "Delgany Second Now",
+      "odds": "4/9",
+      "dec": 1.4444444444444444,
+      "rank": 1,
+      "last_ran": 7,
+      "t_wins": 7,
+      "t_runs": 13,
+      "t_pct": 54,
+      "j_wins": 7,
+      "j_runs": 14,
+      "j_pct": 50,
+      "res": "WIN"
+    },
+    {
+      "time": "13:50",
+      "meeting": "Bangor-on-Dee",
+      "race": "Goffs Yorton Sale 10th September Handicap Chase (GBB Race)",
+      "horse": "Thickthorn Tom",
+      "odds": "85/40",
+      "dec": 3.125,
+      "rank": 2,
+      "last_ran": 8,
+      "t_wins": 7,
+      "t_runs": 13,
+      "t_pct": 54,
+      "j_wins": 7,
+      "j_runs": 14,
+      "j_pct": 50,
+      "res": "LOSE"
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "13:15",
+          "meeting": "Bangor-on-Dee",
+          "horse": "Delgany Second Now",
+          "odds": "4/9",
+          "res": "WIN"
+        }
+      ],
+      "dec": 1.44,
+      "res": "WIN",
+      "stake": 0.1,
+      "ret": 0.14
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "13:50",
+          "meeting": "Bangor-on-Dee",
+          "horse": "Thickthorn Tom",
+          "odds": "85/40",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 3.12,
+      "res": "LOSE",
+      "stake": 0.1,
+      "ret": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "time": "13:15",
+          "meeting": "Bangor-on-Dee",
+          "horse": "Delgany Second Now",
+          "odds": "4/9",
+          "res": "WIN"
+        },
+        {
+          "time": "13:50",
+          "meeting": "Bangor-on-Dee",
+          "horse": "Thickthorn Tom",
+          "odds": "85/40",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 4.51,
+      "res": "LOSE",
+      "stake": 0.1,
+      "ret": null
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "lines": 3,
+    "won": 1,
+    "lost": 2,
+    "nr": 0,
+    "pending": 0
+  },
+  "money": {
+    "bank_start": 10.0,
+    "staked": 0.3,
+    "returned": 0.14,
+    "bank_after": 9.84
+  },
+  "by_size": {
+    "1": {
+      "n": 2,
+      "returned": 0.14,
+      "won": 1
+    },
+    "2": {
+      "n": 1,
+      "returned": 0.0,
+      "won": 0
+    }
+  }
+}

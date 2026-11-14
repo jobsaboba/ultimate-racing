@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-11",
+  "generated": "2026-11-14T14:00:54+00:00",
+  "picks": [
+    {
+      "time": "14:30",
+      "meeting": "Dundalk",
+      "race": "Christmas Party Nights At Dundalk Stadium Handicap",
+      "horse": "Jordan Breeze",
+      "odds": "10/3",
+      "dec": 4.333333333333334,
+      "rank": 1,
+      "last_ran": 12,
+      "t_wins": 4,
+      "t_runs": 8,
+      "t_pct": 50,
+      "j_wins": 4,
+      "j_runs": 6,
+      "j_pct": 67,
+      "res": "LOSE"
+    },
+    {
+      "time": "17:02",
+      "meeting": "Dundalk",
+      "race": "Celebrate Your Special Occasion At Dundalk Stadium Handicap",
+      "horse": "Carrigans Grove",
+      "odds": "7/2",
+      "dec": 4.5,
+      "rank": 2,
+      "last_ran": 7,
+      "t_wins": 4,
+      "t_runs": 8,
+      "t_pct": 50,
+      "j_wins": 4,
+      "j_runs": 6,
+      "j_pct": 67,
+      "res": "LOSE"
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "14:30",
+          "meeting": "Dundalk",
+          "horse": "Jordan Breeze",
+          "odds": "10/3",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 4.33,
+      "res": "LOSE",
+      "stake": 0.1,
+      "ret": null
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "17:02",
+          "meeting": "Dundalk",
+          "horse": "Carrigans Grove",
+          "odds": "7/2",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 4.5,
+      "res": "LOSE",
+      "stake": 0.1,
+      "ret": null
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "time": "14:30",
+          "meeting": "Dundalk",
+          "horse": "Jordan Breeze",
+          "odds": "10/3",
+          "res": "LOSE"
+        },
+        {
+          "time": "17:02",
+          "meeting": "Dundalk",
+          "horse": "Carrigans Grove",
+          "odds": "7/2",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 19.5,
+      "res": "LOSE",
+      "stake": 0.1,
+      "ret": null
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "lines": 3,
+    "won": 0,
+    "lost": 3,
+    "nr": 0,
+    "pending": 0
+  },
+  "money": {
+    "bank_start": 10.32,
+    "staked": 0.3,
+    "returned": 0.0,
+    "bank_after": 10.02
+  },
+  "by_size": {
+    "1": {
+      "n": 2,
+      "returned": 0.0,
+      "won": 0
+    },
+    "2": {
+      "n": 1,
+      "returned": 0.0,
+      "won": 0
+    }
+  }
+}

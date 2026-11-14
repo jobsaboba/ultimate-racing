@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-04",
+  "generated": "2026-11-14T14:00:52+00:00",
+  "picks": [
+    {
+      "time": "15:05",
+      "meeting": "Kelso",
+      "race": "Scottish Racing Academy Handicap Chase (GBB Race)",
+      "horse": "Upfordebate",
+      "odds": "5/4",
+      "dec": 2.25,
+      "rank": 1,
+      "last_ran": 10,
+      "t_wins": 4,
+      "t_runs": 7,
+      "t_pct": 57,
+      "j_wins": 9,
+      "j_runs": 17,
+      "j_pct": 53,
+      "res": "WIN"
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "15:05",
+          "meeting": "Kelso",
+          "horse": "Upfordebate",
+          "odds": "5/4",
+          "res": "WIN"
+        }
+      ],
+      "dec": 2.25,
+      "res": "WIN",
+      "stake": 0.1,
+      "ret": 0.23
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 1,
+    "lost": 0,
+    "nr": 0,
+    "pending": 0
+  },
+  "money": {
+    "bank_start": 9.84,
+    "staked": 0.1,
+    "returned": 0.23,
+    "bank_after": 9.97
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "returned": 0.23,
+      "won": 1
+    }
+  }
+}

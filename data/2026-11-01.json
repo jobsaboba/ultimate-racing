@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-01",
+  "generated": "2026-11-14T14:00:53+00:00",
+  "picks": [
+    {
+      "time": "13:27",
+      "meeting": "Curragh",
+      "race": "Ryans Cleaning Race",
+      "horse": "Key Witness",
+      "odds": "7/1",
+      "dec": 8.0,
+      "rank": 4,
+      "last_ran": 14,
+      "t_wins": 4,
+      "t_runs": 8,
+      "t_pct": 50,
+      "j_wins": 4,
+      "j_runs": 6,
+      "j_pct": 67,
+      "res": "LOSE"
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "13:27",
+          "meeting": "Curragh",
+          "horse": "Key Witness",
+          "odds": "7/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 8.0,
+      "res": "LOSE",
+      "stake": 0.1,
+      "ret": null
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 0,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "money": {
+    "bank_start": 9.97,
+    "staked": 0.1,
+    "returned": 0.0,
+    "bank_after": 9.87
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "returned": 0.0,
+      "won": 0
+    }
+  }
+}

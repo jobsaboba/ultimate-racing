@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-14",
+  "generated": "2026-11-14T14:00:54+00:00",
+  "picks": [],
+  "combos": [],
+  "score": {
+    "picks": 0,
+    "lines": 0,
+    "won": 0,
+    "lost": 0,
+    "nr": 0,
+    "pending": 0
+  },
+  "money": {
+    "bank_start": 10.02,
+    "staked": 0.0,
+    "returned": 0.0,
+    "bank_after": 10.02
+  },
+  "by_size": {}
+}

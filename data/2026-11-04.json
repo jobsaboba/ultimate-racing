@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-04",
+  "generated": "2026-11-14T14:00:53+00:00",
+  "picks": [
+    {
+      "time": "18:45",
+      "meeting": "Dundalk",
+      "race": "Book Your Christmas Party At Dundalk Stadium Handicap (0-60)",
+      "horse": "Carrigans Grove",
+      "odds": "11/2",
+      "dec": 6.5,
+      "rank": 4,
+      "last_ran": 14,
+      "t_wins": 4,
+      "t_runs": 8,
+      "t_pct": 50,
+      "j_wins": 4,
+      "j_runs": 6,
+      "j_pct": 67,
+      "res": "WIN"
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "18:45",
+          "meeting": "Dundalk",
+          "horse": "Carrigans Grove",
+          "odds": "11/2",
+          "res": "WIN"
+        }
+      ],
+      "dec": 6.5,
+      "res": "WIN",
+      "stake": 0.1,
+      "ret": 0.65
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 1,
+    "lost": 0,
+    "nr": 0,
+    "pending": 0
+  },
+  "money": {
+    "bank_start": 9.87,
+    "staked": 0.1,
+    "returned": 0.65,
+    "bank_after": 10.42
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "returned": 0.65,
+      "won": 1
+    }
+  }
+}

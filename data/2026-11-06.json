@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-06",
+  "generated": "2026-11-14T14:00:53+00:00",
+  "picks": [
+    {
+      "time": "19:45",
+      "meeting": "Dundalk",
+      "race": "BAR 1 Betting '2Up Early Payout' Handicap",
+      "horse": "Daler",
+      "odds": "11/8",
+      "dec": 2.375,
+      "rank": 1,
+      "last_ran": 7,
+      "t_wins": 4,
+      "t_runs": 8,
+      "t_pct": 50,
+      "j_wins": 3,
+      "j_runs": 4,
+      "j_pct": 75,
+      "res": "LOSE"
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "19:45",
+          "meeting": "Dundalk",
+          "horse": "Daler",
+          "odds": "11/8",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 2.38,
+      "res": "LOSE",
+      "stake": 0.1,
+      "ret": null
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 0,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "money": {
+    "bank_start": 10.42,
+    "staked": 0.1,
+    "returned": 0.0,
+    "bank_after": 10.32
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "returned": 0.0,
+      "won": 0
+    }
+  }
+}
