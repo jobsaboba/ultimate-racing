@@ -1,0 +1,123 @@
+{
+  "date": "2026-06-11",
+  "generated": "2026-11-14T14:31:01+00:00",
+  "picks": [
+    {
+      "time": "16:08",
+      "meeting": "Worcester",
+      "race": "CopyBet And Worcester Here All Year Novices' Handicap Chase",
+      "horse": "Beorma",
+      "odds": "8/11",
+      "dec": 1.7272727272727273,
+      "rank": 1,
+      "last_ran": 2,
+      "t_wins": 12,
+      "t_runs": 23,
+      "t_pct": 52,
+      "j_wins": 11,
+      "j_runs": 20,
+      "j_pct": 55,
+      "res": "WIN"
+    },
+    {
+      "time": "18:42",
+      "meeting": "Worcester",
+      "race": "CopyBet For Your Daily Profit Boost Handicap Hurdle",
+      "horse": "Sunray Shadow",
+      "odds": "8/15",
+      "dec": 1.5333333333333332,
+      "rank": 1,
+      "last_ran": 14,
+      "t_wins": 12,
+      "t_runs": 23,
+      "t_pct": 52,
+      "j_wins": 11,
+      "j_runs": 20,
+      "j_pct": 55,
+      "res": "WIN"
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "16:08",
+          "meeting": "Worcester",
+          "horse": "Beorma",
+          "odds": "8/11",
+          "res": "WIN"
+        }
+      ],
+      "dec": 1.73,
+      "res": "WIN",
+      "stake": 0.1,
+      "ret": 0.17
+    },
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "18:42",
+          "meeting": "Worcester",
+          "horse": "Sunray Shadow",
+          "odds": "8/15",
+          "res": "WIN"
+        }
+      ],
+      "dec": 1.53,
+      "res": "WIN",
+      "stake": 0.1,
+      "ret": 0.15
+    },
+    {
+      "size": 2,
+      "legs": [
+        {
+          "time": "16:08",
+          "meeting": "Worcester",
+          "horse": "Beorma",
+          "odds": "8/11",
+          "res": "WIN"
+        },
+        {
+          "time": "18:42",
+          "meeting": "Worcester",
+          "horse": "Sunray Shadow",
+          "odds": "8/15",
+          "res": "WIN"
+        }
+      ],
+      "dec": 2.65,
+      "res": "WIN",
+      "stake": 0.1,
+      "ret": 0.27
+    }
+  ],
+  "score": {
+    "picks": 2,
+    "lines": 3,
+    "won": 3,
+    "lost": 0,
+    "nr": 0,
+    "pending": 0
+  },
+  "money": {
+    "bank_start": 9.94,
+    "staked": 0.3,
+    "returned": 0.59,
+    "bank_after": 10.23
+  },
+  "by_size": {
+    "1": {
+      "n": 2,
+      "returned": 0.32,
+      "won": 2
+    },
+    "2": {
+      "n": 1,
+      "returned": 0.27,
+      "won": 1
+    }
+  }
+}

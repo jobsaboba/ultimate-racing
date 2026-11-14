@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-17",
+  "generated": "2026-11-14T14:31:01+00:00",
+  "picks": [
+    {
+      "time": "13:40",
+      "meeting": "Worcester",
+      "race": "CopyBet Daily World Cup Profit Boost Maiden Hurdle (GBB Race) (Div 1)",
+      "horse": "Mystic Wind",
+      "odds": "18/1",
+      "dec": 19.0,
+      "rank": 5,
+      "last_ran": 6,
+      "t_wins": 17,
+      "t_runs": 31,
+      "t_pct": 55,
+      "j_wins": 15,
+      "j_runs": 26,
+      "j_pct": 58,
+      "res": "LOSE"
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "13:40",
+          "meeting": "Worcester",
+          "horse": "Mystic Wind",
+          "odds": "18/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 19.0,
+      "res": "LOSE",
+      "stake": 0.1,
+      "ret": null
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 0,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "money": {
+    "bank_start": 10.29,
+    "staked": 0.1,
+    "returned": 0.0,
+    "bank_after": 10.19
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "returned": 0.0,
+      "won": 0
+    }
+  }
+}

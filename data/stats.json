@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T14:00:54+00:00",
+  "generated": "2026-11-14T14:31:07+00:00",
   "bank_start": 10.0,
   "stake_pct": 0.01,
   "window": 14,
@@ -9,23 +9,28 @@
     "horse": "top 5 in the betting & ran ≤14d"
   },
   "season": {
-    "days": 6,
-    "picks": 10,
-    "lines": 10,
-    "won": 3,
-    "lost": 7,
+    "days": 13,
+    "picks": 19,
+    "lines": 19,
+    "won": 10,
+    "lost": 9,
     "nr": 0,
-    "staked": 1.0,
-    "returned": 1.02,
-    "bank": 10.02,
-    "roi": 2.0
+    "staked": 1.93,
+    "returned": 2.16,
+    "bank": 10.23,
+    "roi": 11.9
   },
   "monthly": {
-    "2026-07": 0.0,
+    "2026-02": 0.0,
+    "2026-03": 0.0,
+    "2026-04": -0.1,
+    "2026-05": 0.0,
+    "2026-06": 0.29,
+    "2026-07": 0.05,
     "2026-08": 0.0,
     "2026-09": -0.16,
     "2026-10": 0.13,
-    "2026-11": 0.05
+    "2026-11": 0.02
   },
   "best_day": {
     "date": "2026-11-04",
@@ -37,13 +42,1285 @@
     "pl": 0.55
   },
   "per_day": {
-    "2026-07-10": {
+    "2026-02-01": {
       "picks": 0,
       "lines": 0,
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
       "bank_after": 10.0
+    },
+    "2026-02-02": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-03": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-04": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-05": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-06": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-07": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-08": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-09": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-10": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-11": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-12": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-13": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-14": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-15": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-16": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-17": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-18": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-19": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-20": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-21": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-22": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-23": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-24": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-25": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-26": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-27": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-02-28": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-01": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-02": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-03": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-04": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-05": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-06": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-07": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-08": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-09": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-10": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-11": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-12": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-13": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-14": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-15": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-16": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-17": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-18": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-19": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-20": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-21": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-22": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-23": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-24": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-25": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-26": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-27": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-28": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-29": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-30": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-03-31": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-04-01": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-04-02": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-04-03": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-04-04": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-04-05": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-04-06": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-04-07": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-04-08": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-04-09": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-04-10": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-04-11": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-04-12": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-04-13": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-04-14": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-04-15": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-04-16": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-04-17": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-04-18": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-04-19": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-04-20": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-04-21": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-04-22": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-04-23": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.0
+    },
+    "2026-04-24": {
+      "picks": 1,
+      "lines": 1,
+      "won": 0,
+      "staked": 0.1,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-04-25": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-04-26": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-04-27": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-04-28": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-04-29": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-04-30": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-01": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-02": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-03": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-04": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-05": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-06": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-07": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-08": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-09": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-10": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-11": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-12": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-13": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-14": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-15": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-16": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-17": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-18": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-19": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-20": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-21": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-22": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-23": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-24": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-25": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-26": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-27": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-28": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-29": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-30": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-05-31": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-06-01": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-06-02": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-06-03": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-06-04": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-06-05": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-06-06": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-06-07": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-06-08": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.9
+    },
+    "2026-06-09": {
+      "picks": 1,
+      "lines": 1,
+      "won": 1,
+      "staked": 0.1,
+      "returned": 0.14,
+      "bank_after": 9.94
+    },
+    "2026-06-10": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 9.94
+    },
+    "2026-06-11": {
+      "picks": 2,
+      "lines": 3,
+      "won": 3,
+      "staked": 0.3,
+      "returned": 0.59,
+      "bank_after": 10.23
+    },
+    "2026-06-12": {
+      "picks": 1,
+      "lines": 1,
+      "won": 1,
+      "staked": 0.1,
+      "returned": 0.12,
+      "bank_after": 10.25
+    },
+    "2026-06-13": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.25
+    },
+    "2026-06-14": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.25
+    },
+    "2026-06-15": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.25
+    },
+    "2026-06-16": {
+      "picks": 1,
+      "lines": 1,
+      "won": 1,
+      "staked": 0.1,
+      "returned": 0.14,
+      "bank_after": 10.29
+    },
+    "2026-06-17": {
+      "picks": 1,
+      "lines": 1,
+      "won": 0,
+      "staked": 0.1,
+      "returned": 0.0,
+      "bank_after": 10.19
+    },
+    "2026-06-18": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.19
+    },
+    "2026-06-19": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.19
+    },
+    "2026-06-20": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.19
+    },
+    "2026-06-21": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.19
+    },
+    "2026-06-22": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.19
+    },
+    "2026-06-23": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.19
+    },
+    "2026-06-24": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.19
+    },
+    "2026-06-25": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.19
+    },
+    "2026-06-26": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.19
+    },
+    "2026-06-27": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.19
+    },
+    "2026-06-28": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.19
+    },
+    "2026-06-29": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.19
+    },
+    "2026-06-30": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.19
+    },
+    "2026-07-01": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.19
+    },
+    "2026-07-02": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.19
+    },
+    "2026-07-03": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.19
+    },
+    "2026-07-04": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.19
+    },
+    "2026-07-05": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.19
+    },
+    "2026-07-06": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.19
+    },
+    "2026-07-07": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.19
+    },
+    "2026-07-08": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.19
+    },
+    "2026-07-09": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.19
+    },
+    "2026-07-10": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.19
     },
     "2026-07-11": {
       "picks": 0,
@@ -51,7 +1328,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.19
     },
     "2026-07-12": {
       "picks": 0,
@@ -59,15 +1336,15 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.19
     },
     "2026-07-13": {
-      "picks": 0,
-      "lines": 0,
-      "won": 0,
-      "staked": 0.0,
-      "returned": 0.0,
-      "bank_after": 10.0
+      "picks": 1,
+      "lines": 1,
+      "won": 1,
+      "staked": 0.1,
+      "returned": 0.15,
+      "bank_after": 10.24
     },
     "2026-07-14": {
       "picks": 0,
@@ -75,7 +1352,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-07-15": {
       "picks": 0,
@@ -83,7 +1360,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-07-16": {
       "picks": 0,
@@ -91,7 +1368,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-07-17": {
       "picks": 0,
@@ -99,7 +1376,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-07-18": {
       "picks": 0,
@@ -107,7 +1384,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-07-19": {
       "picks": 0,
@@ -115,7 +1392,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-07-20": {
       "picks": 0,
@@ -123,7 +1400,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-07-21": {
       "picks": 0,
@@ -131,7 +1408,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-07-22": {
       "picks": 0,
@@ -139,7 +1416,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-07-23": {
       "picks": 0,
@@ -147,7 +1424,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-07-24": {
       "picks": 0,
@@ -155,7 +1432,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-07-25": {
       "picks": 0,
@@ -163,7 +1440,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-07-26": {
       "picks": 0,
@@ -171,7 +1448,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-07-27": {
       "picks": 0,
@@ -179,7 +1456,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-07-28": {
       "picks": 0,
@@ -187,7 +1464,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-07-29": {
       "picks": 0,
@@ -195,7 +1472,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-07-30": {
       "picks": 0,
@@ -203,7 +1480,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-07-31": {
       "picks": 0,
@@ -211,7 +1488,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-01": {
       "picks": 0,
@@ -219,7 +1496,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-02": {
       "picks": 0,
@@ -227,7 +1504,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-03": {
       "picks": 0,
@@ -235,7 +1512,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-04": {
       "picks": 0,
@@ -243,7 +1520,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-05": {
       "picks": 0,
@@ -251,7 +1528,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-06": {
       "picks": 0,
@@ -259,7 +1536,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-07": {
       "picks": 0,
@@ -267,7 +1544,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-08": {
       "picks": 0,
@@ -275,7 +1552,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-09": {
       "picks": 0,
@@ -283,7 +1560,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-10": {
       "picks": 0,
@@ -291,7 +1568,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-11": {
       "picks": 0,
@@ -299,7 +1576,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-12": {
       "picks": 0,
@@ -307,7 +1584,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-13": {
       "picks": 0,
@@ -315,7 +1592,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-14": {
       "picks": 0,
@@ -323,7 +1600,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-15": {
       "picks": 0,
@@ -331,7 +1608,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-16": {
       "picks": 0,
@@ -339,7 +1616,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-17": {
       "picks": 0,
@@ -347,7 +1624,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-18": {
       "picks": 0,
@@ -355,7 +1632,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-19": {
       "picks": 0,
@@ -363,7 +1640,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-20": {
       "picks": 0,
@@ -371,7 +1648,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-21": {
       "picks": 0,
@@ -379,7 +1656,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-22": {
       "picks": 0,
@@ -387,7 +1664,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-23": {
       "picks": 0,
@@ -395,7 +1672,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-24": {
       "picks": 0,
@@ -403,7 +1680,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-25": {
       "picks": 0,
@@ -411,7 +1688,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-26": {
       "picks": 0,
@@ -419,7 +1696,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-27": {
       "picks": 0,
@@ -427,7 +1704,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-28": {
       "picks": 0,
@@ -435,7 +1712,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-29": {
       "picks": 0,
@@ -443,7 +1720,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-30": {
       "picks": 0,
@@ -451,7 +1728,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-08-31": {
       "picks": 0,
@@ -459,7 +1736,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-09-01": {
       "picks": 0,
@@ -467,7 +1744,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-09-02": {
       "picks": 0,
@@ -475,7 +1752,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-09-03": {
       "picks": 0,
@@ -483,7 +1760,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.0
+      "bank_after": 10.24
     },
     "2026-09-04": {
       "picks": 2,
@@ -491,7 +1768,7 @@
       "won": 1,
       "staked": 0.3,
       "returned": 0.14,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-05": {
       "picks": 0,
@@ -499,7 +1776,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-06": {
       "picks": 0,
@@ -507,7 +1784,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-07": {
       "picks": 0,
@@ -515,7 +1792,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-08": {
       "picks": 0,
@@ -523,7 +1800,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-09": {
       "picks": 0,
@@ -531,7 +1808,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-10": {
       "picks": 0,
@@ -539,7 +1816,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-11": {
       "picks": 0,
@@ -547,7 +1824,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-12": {
       "picks": 0,
@@ -555,7 +1832,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-13": {
       "picks": 0,
@@ -563,7 +1840,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-14": {
       "picks": 0,
@@ -571,7 +1848,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-15": {
       "picks": 0,
@@ -579,7 +1856,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-16": {
       "picks": 0,
@@ -587,7 +1864,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-17": {
       "picks": 0,
@@ -595,7 +1872,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-18": {
       "picks": 0,
@@ -603,7 +1880,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-19": {
       "picks": 0,
@@ -611,7 +1888,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-20": {
       "picks": 0,
@@ -619,7 +1896,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-21": {
       "picks": 0,
@@ -627,7 +1904,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-22": {
       "picks": 0,
@@ -635,7 +1912,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-23": {
       "picks": 0,
@@ -643,7 +1920,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-24": {
       "picks": 0,
@@ -651,7 +1928,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-25": {
       "picks": 0,
@@ -659,7 +1936,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-26": {
       "picks": 0,
@@ -667,7 +1944,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-27": {
       "picks": 0,
@@ -675,7 +1952,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-28": {
       "picks": 0,
@@ -683,7 +1960,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-29": {
       "picks": 0,
@@ -691,7 +1968,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-09-30": {
       "picks": 0,
@@ -699,7 +1976,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-10-01": {
       "picks": 0,
@@ -707,7 +1984,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-10-02": {
       "picks": 0,
@@ -715,7 +1992,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-10-03": {
       "picks": 0,
@@ -723,7 +2000,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.84
+      "bank_after": 10.08
     },
     "2026-10-04": {
       "picks": 1,
@@ -731,7 +2008,7 @@
       "won": 1,
       "staked": 0.1,
       "returned": 0.23,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-05": {
       "picks": 0,
@@ -739,7 +2016,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-06": {
       "picks": 0,
@@ -747,7 +2024,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-07": {
       "picks": 0,
@@ -755,7 +2032,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-08": {
       "picks": 0,
@@ -763,7 +2040,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-09": {
       "picks": 0,
@@ -771,7 +2048,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-10": {
       "picks": 0,
@@ -779,7 +2056,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-11": {
       "picks": 0,
@@ -787,7 +2064,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-12": {
       "picks": 0,
@@ -795,7 +2072,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-13": {
       "picks": 0,
@@ -803,7 +2080,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-14": {
       "picks": 0,
@@ -811,7 +2088,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-15": {
       "picks": 0,
@@ -819,7 +2096,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-16": {
       "picks": 0,
@@ -827,7 +2104,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-17": {
       "picks": 0,
@@ -835,7 +2112,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-18": {
       "picks": 0,
@@ -843,7 +2120,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-19": {
       "picks": 0,
@@ -851,7 +2128,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-20": {
       "picks": 0,
@@ -859,7 +2136,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-21": {
       "picks": 0,
@@ -867,7 +2144,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-22": {
       "picks": 0,
@@ -875,7 +2152,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-23": {
       "picks": 0,
@@ -883,7 +2160,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-24": {
       "picks": 0,
@@ -891,7 +2168,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-25": {
       "picks": 0,
@@ -899,7 +2176,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-26": {
       "picks": 0,
@@ -907,7 +2184,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-27": {
       "picks": 0,
@@ -915,7 +2192,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-28": {
       "picks": 0,
@@ -923,7 +2200,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-29": {
       "picks": 0,
@@ -931,7 +2208,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-30": {
       "picks": 0,
@@ -939,7 +2216,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-10-31": {
       "picks": 0,
@@ -947,7 +2224,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.97
+      "bank_after": 10.21
     },
     "2026-11-01": {
       "picks": 1,
@@ -955,7 +2232,7 @@
       "won": 0,
       "staked": 0.1,
       "returned": 0.0,
-      "bank_after": 9.87
+      "bank_after": 10.11
     },
     "2026-11-02": {
       "picks": 0,
@@ -963,7 +2240,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.87
+      "bank_after": 10.11
     },
     "2026-11-03": {
       "picks": 0,
@@ -971,7 +2248,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 9.87
+      "bank_after": 10.11
     },
     "2026-11-04": {
       "picks": 1,
@@ -979,7 +2256,7 @@
       "won": 1,
       "staked": 0.1,
       "returned": 0.65,
-      "bank_after": 10.42
+      "bank_after": 10.66
     },
     "2026-11-05": {
       "picks": 0,
@@ -987,15 +2264,15 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.42
+      "bank_after": 10.66
     },
     "2026-11-06": {
       "picks": 1,
       "lines": 1,
       "won": 0,
-      "staked": 0.1,
+      "staked": 0.11,
       "returned": 0.0,
-      "bank_after": 10.32
+      "bank_after": 10.55
     },
     "2026-11-07": {
       "picks": 0,
@@ -1003,7 +2280,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.32
+      "bank_after": 10.55
     },
     "2026-11-08": {
       "picks": 0,
@@ -1011,7 +2288,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.32
+      "bank_after": 10.55
     },
     "2026-11-09": {
       "picks": 0,
@@ -1019,7 +2296,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.32
+      "bank_after": 10.55
     },
     "2026-11-10": {
       "picks": 0,
@@ -1027,15 +2304,15 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.32
+      "bank_after": 10.55
     },
     "2026-11-11": {
       "picks": 2,
       "lines": 3,
       "won": 0,
-      "staked": 0.3,
+      "staked": 0.32,
       "returned": 0.0,
-      "bank_after": 10.02
+      "bank_after": 10.23
     },
     "2026-11-12": {
       "picks": 0,
@@ -1043,7 +2320,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.02
+      "bank_after": 10.23
     },
     "2026-11-13": {
       "picks": 0,
@@ -1051,7 +2328,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.02
+      "bank_after": 10.23
     },
     "2026-11-14": {
       "picks": 0,
@@ -1059,7 +2336,7 @@
       "won": 0,
       "staked": 0.0,
       "returned": 0.0,
-      "bank_after": 10.02
+      "bank_after": 10.23
     }
   }
 }

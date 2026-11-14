@@ -1,0 +1,62 @@
+{
+  "date": "2026-04-24",
+  "generated": "2026-11-14T14:30:59+00:00",
+  "picks": [
+    {
+      "time": "17:28",
+      "meeting": "Kilbeggan",
+      "race": "William Hill Each Way Extra Challenge Series Handicap Hurdle (0-100)",
+      "horse": "Sean Mc",
+      "odds": "8/1",
+      "dec": 9.0,
+      "rank": 5,
+      "last_ran": 14,
+      "t_wins": 3,
+      "t_runs": 6,
+      "t_pct": 50,
+      "j_wins": 4,
+      "j_runs": 5,
+      "j_pct": 80,
+      "res": "LOSE"
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "17:28",
+          "meeting": "Kilbeggan",
+          "horse": "Sean Mc",
+          "odds": "8/1",
+          "res": "LOSE"
+        }
+      ],
+      "dec": 9.0,
+      "res": "LOSE",
+      "stake": 0.1,
+      "ret": null
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 0,
+    "lost": 1,
+    "nr": 0,
+    "pending": 0
+  },
+  "money": {
+    "bank_start": 10.0,
+    "staked": 0.1,
+    "returned": 0.0,
+    "bank_after": 9.9
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "returned": 0.0,
+      "won": 0
+    }
+  }
+}

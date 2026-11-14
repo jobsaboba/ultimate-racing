@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-09",
+  "generated": "2026-11-14T14:31:01+00:00",
+  "picks": [
+    {
+      "time": "14:00",
+      "meeting": "Southwell",
+      "race": "Sun Racing Summer Jumps Championship Handicap Chase",
+      "horse": "Beorma",
+      "odds": "4/11",
+      "dec": 1.3636363636363638,
+      "rank": 1,
+      "last_ran": 6,
+      "t_wins": 12,
+      "t_runs": 24,
+      "t_pct": 50,
+      "j_wins": 11,
+      "j_runs": 22,
+      "j_pct": 50,
+      "res": "WIN"
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "14:00",
+          "meeting": "Southwell",
+          "horse": "Beorma",
+          "odds": "4/11",
+          "res": "WIN"
+        }
+      ],
+      "dec": 1.36,
+      "res": "WIN",
+      "stake": 0.1,
+      "ret": 0.14
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 1,
+    "lost": 0,
+    "nr": 0,
+    "pending": 0
+  },
+  "money": {
+    "bank_start": 9.9,
+    "staked": 0.1,
+    "returned": 0.14,
+    "bank_after": 9.94
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "returned": 0.14,
+      "won": 1
+    }
+  }
+}

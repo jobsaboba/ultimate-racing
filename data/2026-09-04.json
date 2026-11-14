@@ -1,6 +1,6 @@
 {
   "date": "2026-09-04",
-  "generated": "2026-11-14T14:00:51+00:00",
+  "generated": "2026-11-14T14:31:04+00:00",
   "picks": [
     {
       "time": "13:15",
@@ -103,10 +103,10 @@
     "pending": 0
   },
   "money": {
-    "bank_start": 10.0,
+    "bank_start": 10.24,
     "staked": 0.3,
     "returned": 0.14,
-    "bank_after": 9.84
+    "bank_after": 10.08
   },
   "by_size": {
     "1": {

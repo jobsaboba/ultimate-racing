@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-12",
+  "generated": "2026-11-14T14:31:01+00:00",
+  "picks": [
+    {
+      "time": "19:10",
+      "meeting": "Newton Abbot",
+      "race": "Sun Racing The Favourite Pullout Every Day Handicap Chase (GBB Race)",
+      "horse": "Beorma",
+      "odds": "1/6",
+      "dec": 1.1666666666666667,
+      "rank": 1,
+      "last_ran": 1,
+      "t_wins": 12,
+      "t_runs": 24,
+      "t_pct": 50,
+      "j_wins": 11,
+      "j_runs": 21,
+      "j_pct": 52,
+      "res": "WIN"
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "19:10",
+          "meeting": "Newton Abbot",
+          "horse": "Beorma",
+          "odds": "1/6",
+          "res": "WIN"
+        }
+      ],
+      "dec": 1.17,
+      "res": "WIN",
+      "stake": 0.1,
+      "ret": 0.12
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 1,
+    "lost": 0,
+    "nr": 0,
+    "pending": 0
+  },
+  "money": {
+    "bank_start": 10.23,
+    "staked": 0.1,
+    "returned": 0.12,
+    "bank_after": 10.25
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "returned": 0.12,
+      "won": 1
+    }
+  }
+}

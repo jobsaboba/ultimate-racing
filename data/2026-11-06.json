@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated": "2026-11-14T14:00:53+00:00",
+  "generated": "2026-11-14T14:31:06+00:00",
   "picks": [
     {
       "time": "19:45",
@@ -34,7 +34,7 @@
       ],
       "dec": 2.38,
       "res": "LOSE",
-      "stake": 0.1,
+      "stake": 0.11,
       "ret": null
     }
   ],
@@ -47,10 +47,10 @@
     "pending": 0
   },
   "money": {
-    "bank_start": 10.42,
-    "staked": 0.1,
+    "bank_start": 10.66,
+    "staked": 0.11,
     "returned": 0.0,
-    "bank_after": 10.32
+    "bank_after": 10.55
   },
   "by_size": {
     "1": {

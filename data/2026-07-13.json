@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-13",
+  "generated": "2026-11-14T14:31:02+00:00",
+  "picks": [
+    {
+      "time": "13:42",
+      "meeting": "Newton Abbot",
+      "race": "Racing To School Reaches 250,000 Handicap Chase (GBB Race)",
+      "horse": "Gore Point",
+      "odds": "1/2",
+      "dec": 1.5,
+      "rank": 1,
+      "last_ran": 10,
+      "t_wins": 3,
+      "t_runs": 5,
+      "t_pct": 60,
+      "j_wins": 3,
+      "j_runs": 6,
+      "j_pct": 50,
+      "res": "WIN"
+    }
+  ],
+  "combos": [
+    {
+      "size": 1,
+      "legs": [
+        {
+          "time": "13:42",
+          "meeting": "Newton Abbot",
+          "horse": "Gore Point",
+          "odds": "1/2",
+          "res": "WIN"
+        }
+      ],
+      "dec": 1.5,
+      "res": "WIN",
+      "stake": 0.1,
+      "ret": 0.15
+    }
+  ],
+  "score": {
+    "picks": 1,
+    "lines": 1,
+    "won": 1,
+    "lost": 0,
+    "nr": 0,
+    "pending": 0
+  },
+  "money": {
+    "bank_start": 10.19,
+    "staked": 0.1,
+    "returned": 0.15,
+    "bank_after": 10.24
+  },
+  "by_size": {
+    "1": {
+      "n": 1,
+      "returned": 0.15,
+      "won": 1
+    }
+  }
+}
