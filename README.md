@@ -17,6 +17,15 @@ off, win-only at the published odds, a line pays only when every leg wins.
 Non-runners and void races refund. Staking defaults are one line in
 `ultimate_racing.py` (`START_BANK`, `STAKE_PCT`) if they ever need changing.
 
+**The season walk (1 Jan → now, all GB/IE racing from Sporting Life):**
+the rule fired on just **13 days — 16 selections → 19 perm lines ·
+10 won · 9 lost · 53% strike** · £1.93 staked → £2.16 · bank **£10 → £10.23**
+· ROI +11.9%. It's a rare-bird rule: hot trainer *and* hot jockey in the
+top five almost never coincide — 11 singles (+16.7% ROI, incl. Beorma 8/11
+and 4/11, Gore Point 1/2, Sunray Shadow 8/15) and 3 doubles (1 won).
+Best day 4 Nov (Carrigans Grove 11/8 Dundalk). Monthly: only April (−10p)
+and September (−16p) red.
+
 - Live app: https://jobsaboba.github.io/ultimate-racing/
 - Data: `data/<date>.json` (picks + every settled perm line at actual stake)
   + `data/stats.json` + `data/index.json` + `data/latest.json`
