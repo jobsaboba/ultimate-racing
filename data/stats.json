@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15T22:30:58+00:00",
+  "generated": "2026-11-16T05:55:24+00:00",
   "bank_start": 10.0,
   "stake_pct": 0.01,
   "window": 14,
@@ -2608,6 +2608,14 @@
       "bank_after": 10.23
     },
     "2026-11-15": {
+      "picks": 0,
+      "lines": 0,
+      "won": 0,
+      "staked": 0.0,
+      "returned": 0.0,
+      "bank_after": 10.23
+    },
+    "2026-11-16": {
       "picks": 0,
       "lines": 0,
       "won": 0,
