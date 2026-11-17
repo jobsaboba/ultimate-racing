@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17T19:32:21+00:00",
+  "generated": "2026-11-17T21:00:52+00:00",
   "season": {
     "start": 10.0,
     "bank": 17.37,
@@ -7,10 +7,10 @@
     "returned": 96.48,
     "bets": 294,
     "won": 68,
-    "placed": 82,
+    "placed": 83,
     "lost": 143,
     "refunds": 0,
-    "pending": 1,
+    "pending": 0,
     "days": 147,
     "roi": 8.3
   },

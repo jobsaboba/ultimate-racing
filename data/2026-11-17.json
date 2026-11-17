@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T20:00:53+00:00",
+  "generated": "2026-11-17T21:00:52+00:00",
   "max": 55,
   "money": {
     "bank_start": 21.15,
@@ -104,8 +104,8 @@
         "total": 21,
         "race_time": "20:30",
         "race_meeting": "Southwell",
-        "res": "PENDING",
-        "pos": 0,
+        "res": "PLACE",
+        "pos": 3,
         "stake": 0.42,
         "returned": 0.0
       }
@@ -4453,8 +4453,8 @@
           "profit": 0,
           "prof": -9.0,
           "total": 18,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 10
         },
         {
           "horse": "Amazonian Dream",
@@ -4482,8 +4482,8 @@
           "profit": 0,
           "prof": 0.0,
           "total": 20,
-          "res": null,
-          "pos": 0
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Judgment Call",
@@ -4511,8 +4511,8 @@
           "profit": 0,
           "prof": -3.0,
           "total": 14,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 12
         },
         {
           "horse": "Ormolulu",
@@ -4540,8 +4540,8 @@
           "profit": 0,
           "prof": -4.0,
           "total": 20,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Methgal",
@@ -4569,8 +4569,8 @@
           "profit": 0,
           "prof": -6.0,
           "total": 21,
-          "res": null,
-          "pos": 0
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Invincible Speed",
@@ -4598,8 +4598,8 @@
           "profit": 5,
           "prof": 18.0,
           "total": 17,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Courageous Sioux",
@@ -4627,8 +4627,8 @@
           "profit": 0,
           "prof": -3.3,
           "total": 15,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Perfect Location",
@@ -4656,8 +4656,8 @@
           "profit": 0,
           "prof": 0.0,
           "total": 12,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 11
         },
         {
           "horse": "Goldwork",
@@ -4685,8 +4685,8 @@
           "profit": 0,
           "prof": -1.0,
           "total": 14,
-          "res": null,
-          "pos": 0
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Numero Vingt",
@@ -4714,8 +4714,8 @@
           "profit": 0,
           "prof": 0.0,
           "total": 6,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Big Cyril",
@@ -4743,8 +4743,8 @@
           "profit": 0,
           "prof": 0.0,
           "total": 7,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Slot",
@@ -4772,8 +4772,8 @@
           "profit": 0,
           "prof": 0.0,
           "total": 4,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Project Wallace",
@@ -4801,8 +4801,8 @@
           "profit": 0,
           "prof": -3.0,
           "total": 2,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 13
         }
       ]
     }
