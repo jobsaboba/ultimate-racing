@@ -19,11 +19,16 @@ Racing Post stars come from their RPR ranks (highest RPR = 5★ …) — their o
 stars are Pro-gated. At The Races is not used. Jockey/trainer win counts and
 the profit check are computed from the book's own settled sheets.
 
-**The bank:** £10 start — **every race's top-panel horse priced 3/1–10/1** gets
-**1% of that day's balance**, win-only at the published odds, non-runners
-refund, the bank rolls forward. The band is the backfill's verdict: top horses
-priced odds-on lost −31% over the season, 3/1–10/1 made +17.8%. The app's
-"The run" tab shows the walk.
+**The bank:** £10 start — **every race's top-panel horse priced 3/1–10/1** is
+backed **win-only** at the published odds (non-runners refund, the bank rolls
+forward), staked by a **Jacobs ladder**: 1% of the day's balance a bet at
+rung 1 — a losing day climbs 1·2·2·3·4·5…, a winning day resets to 1. The band
+is the backfill's verdict: top horses priced odds-on lost −31% over the season,
+3/1–10/1 made +17.8%. Each-way at 365 place terms was tested on the same bets
+and lost (+7.8% vs +15.2%). Every horse's finishing position is in the day
+files — the app colours winners green, placed (2nd/3rd) orange, losers red.
+The bank card has a bank box that sizes today's stake for your own bank; the
+app's "The run" tab shows the walk.
 
 *(This app previously hosted the hot-trainer perm system — retired 17 Nov 2026.
 Its day files live on in this repo's git history.)*

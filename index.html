@@ -73,10 +73,18 @@
   .betrow .odds{color:var(--gold); font-weight:800; flex-shrink:0}
   .amt{flex-shrink:0; font-weight:900; font-size:.62rem; padding:2px 6px; border-radius:7px}
   .amt.won{background:#0b2e21; color:var(--em)}
+  .amt.place{background:#3a2410; color:#fb923c}
   .amt.lost{background:#331111; color:#fca5a5}
   .amt.pend{background:#2d2410; color:#fcd34d}
   .amt.nr{background:#1c2433; color:var(--grey)}
   .betlist{max-height:340px; overflow-y:auto}
+  .calc{display:flex; align-items:center; gap:7px; margin-top:9px; padding-top:9px; border-top:1px solid #1a2740}
+  .calc label{font-size:.6rem; color:var(--dim); text-transform:uppercase; letter-spacing:1px; white-space:nowrap}
+  .calc input{background:var(--panel2); border:1px solid var(--line); color:var(--ink);
+    border-radius:8px; padding:6px 8px; font-size:.8rem; width:92px; font-weight:700}
+  .calc input:focus{outline:none; border-color:var(--sky)}
+  .calc .stake{margin-left:auto; font-weight:900; font-size:.82rem; color:var(--sky2); text-align:right; line-height:1.3}
+  .calc .stake small{display:block; font-weight:600; font-size:.56rem; color:var(--dim)}
 
   .race{background:var(--panel); border:1px solid var(--line); border-radius:14px; margin-bottom:10px; overflow:hidden}
   .rhead{padding:10px 12px; cursor:pointer; display:flex; justify-content:space-between; align-items:center; gap:8px}
@@ -105,6 +113,12 @@
     border-radius:9px; padding:4px 0; font-weight:900; font-size:.82rem}
   .tot small{display:block; font-size:.5rem; color:var(--dim); font-weight:800; letter-spacing:.5px}
   .tot.top{border-color:#7c6412; color:var(--gold)}
+  .res-win{color:var(--em)} .res-place{color:#fb923c} .res-lose{color:#f87171}
+  .rtag{font-size:.52rem; font-weight:900; border-radius:6px; padding:1px 5px; margin-left:6px; vertical-align:1px}
+  .rtag.win{background:#0b2e21; color:var(--em)}
+  .rtag.place{background:#3a2410; color:#fb923c}
+  .rtag.lose{background:#331111; color:#f87171}
+  .rtag.nr{background:#1c2433; color:var(--dim)}
 
   .scard{background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:12px; margin-bottom:10px}
   .scard .label{font-size:.62rem; color:var(--dim); text-transform:uppercase; letter-spacing:1px; margin-bottom:6px}
@@ -158,7 +172,8 @@
   Stars: Timeform ★ + Racing Post ★ (RPR ranks) = 10 · Favouritism: 1st 10 · 2nd 7 · 3rd 5 · 4th 3<br>
   Course form: C&amp;D 10 · distance 5 · course 3 · Jockey/trainer 3+ wins: 7-day 5 · 14-day 3<br>
   Top course trainer/jockey 5-4-3-2-1 · trainer in 14-day profit 5 · <b>max 55</b><br>
-  Bank £10 · every race's top panel <b>priced 3/1–10/1</b> gets <b>1% of the day's balance</b> — win-only, NRs refund
+  Bank £10 · <b>Jacobs ladder</b> on 1% of the day's balance — a losing day climbs 1·2·2·3·4, a winning day resets<br>
+  every race's top panel <b>3/1–10/1</b>, win-only · NRs refund · winners green · placed orange · losers red
 </footer>
 
 <script>
@@ -172,6 +187,7 @@ const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c =>
   ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const gbp = n => "£" + Number(n ?? 0).toFixed(2);
+const posTxt = p => p ? (p === 1 ? "1st" : p === 2 ? "2nd" : p === 3 ? "3rd" : p + "th") : "";
 
 async function getIndex(){
   const r = await fetch("data/index.json", {cache:"no-store"});
@@ -222,11 +238,15 @@ function moneyCard(j){
   if (!m){ box.style.display = "none"; return; }
   box.style.display = "";
   const bets = m.bets || [];
-  const badge = b =>
-    b.res === "WIN" ? `<span class="amt won">+${gbp(b.returned)}</span>`
-    : b.res === "NR" ? `<span class="amt nr">refund</span>`
-    : b.res === "PENDING" ? `<span class="amt pend">${gbp(b.stake)} on</span>`
-    : `<span class="amt lost">−${gbp(b.stake)}</span>`;
+  const rung = m.rung || 1;
+  const badge = b => {
+    const net = Math.round(((b.returned || 0) - (b.stake || 0)) * 100) / 100;
+    return b.res === "WIN" ? `<span class="amt won">+${gbp(net)}</span>`
+      : b.res === "NR" ? `<span class="amt nr">refund</span>`
+      : b.res === "PENDING" ? `<span class="amt pend">${gbp(b.stake)} on</span>`
+      : b.res === "PLACE" ? `<span class="amt place">${net >= 0 ? "+" : "−"}${gbp(Math.abs(net))}</span>`
+      : `<span class="amt lost">−${gbp(b.stake)}</span>`;
+  };
   const rows = bets.length ? bets.map(b =>
     `<div class="betrow"><span class="bt">${esc(b.race_time)} ${esc(b.race_meeting)}</span>` +
     `<b title="${esc(b.horse)}">${esc(b.horse)}</b>` +
@@ -234,12 +254,35 @@ function moneyCard(j){
     : `<div class="betrow"><span class="bt">—</span><b>no priced runners today</b></div>`;
   const diff = m.bank_after - m.bank_start;
   const dir = diff > 0 ? "up" : diff < 0 ? "down" : "";
+  let myBank = "";
+  try { myBank = localStorage.getItem("ult-bank") || ""; } catch(e){}
   box.innerHTML =
-    `<div class="row"><span class="mlabel">bank · 1% a bet · 3/1–10/1 only</span>` +
+    `<div class="row"><span class="mlabel">bank · ladder rung ${rung} · 3/1–10/1 only</span>` +
     `<span class="bank">${gbp(m.bank_start)} <small>→</small> <span class="${dir}">${gbp(m.bank_after)}</span></span></div>` +
     `<div style="font-size:.62rem;color:var(--dim);margin-bottom:4px">${bets.length} bets · ${m.skipped || 0} skipped by price · staked ${gbp(m.staked)}${m.returned ? ` · returned ${gbp(m.returned)}` : ""}</div>` +
-    `<div class="betlist">${rows}</div>`;
+    `<div class="betlist">${rows}</div>` +
+    `<div class="calc"><label>your bank</label>` +
+    `<input id="myBank" type="number" inputmode="decimal" step="0.01" min="0" value="${myBank || m.bank_start}">` +
+    `<label>→ stake</label><span class="stake" id="myStake">—</span></div>`;
+  calcStake();
 }
+
+function calcStake(){
+  const m = (cache[CURRENT] || {}).money || {};
+  const rung = (m && m.rung) || 1;
+  const el = document.getElementById("myBank"), out = document.getElementById("myStake");
+  if (!el || !out) return;
+  const v = parseFloat(el.value);
+  const s = isFinite(v) && v > 0 ? Math.max(0.01, Math.round(v * 0.01 * rung * 100) / 100) : null;
+  out.innerHTML = s == null ? "—" : gbp(s) + ` a bet<small>rung ${rung} · 1% × ${rung} of the bank</small>`;
+}
+
+document.getElementById("moneyBox").addEventListener("input", e => {
+  if (e.target && e.target.id === "myBank"){
+    try { localStorage.setItem("ult-bank", e.target.value); } catch(err){}
+    calcStake();
+  }
+});
 
 function render(d){
   const j = cache[d];
@@ -280,15 +323,22 @@ function render(d){
         <div class="m">top panel <b>${rc.top_total}/${j.max || 55}</b><br>${rc.top_horse ? esc(rc.top_horse) : "—"}</div>
       </div>
       <div class="rbody">
-        ${rows.map((r,i) => `
+        ${rows.map((r,i) => {
+          const cls = r.res === "WIN" ? "res-win" : r.res === "PLACE" ? "res-place"
+            : r.res === "LOSE" ? "res-lose" : "";
+          const tag = r.res === "WIN" ? '<span class="rtag win">1st</span>'
+            : r.res === "PLACE" ? `<span class="rtag place">${posTxt(r.pos)}</span>`
+            : r.res === "LOSE" ? `<span class="rtag lose">${posTxt(r.pos) || "out"}</span>`
+            : r.res === "NR" ? '<span class="rtag nr">NR</span>' : "";
+          return `
         <div class="rrow">
           <div class="pos">${i+1}</div>
-          <div class="nm"><b>${esc(r.horse)}${r.odds ? ' <span class="odds">' + esc(r.odds) + '</span>' : ''}</b>
+          <div class="nm"><b class="${cls}">${esc(r.horse)}${r.odds ? ' <span class="odds">' + esc(r.odds) + '</span>' : ''}${tag}</b>
             <small>${breakdown(r)}</small></div>
           ${starPill("TF", r.tf ?? 0, 5)}
           ${starPill("RP", r.rp ?? 0, 5)}
           <div class="tot ${i === 0 ? 'top' : ''}">${r.total}<small>/${j.max || 55}</small></div>
-        </div>`).join("")}
+        </div>`; }).join("")}
       </div>
     </div>`;
   }).join("");
@@ -322,12 +372,13 @@ function renderRun(){
   const monthly = Object.entries(STATS.monthly || {});
   el.innerHTML = `
   <div class="scard">
-    <div class="label">the bank — £10 start · every race's top panel priced 3/1–10/1 gets 1% of the day's balance</div>
+    <div class="label">the bank — £10 start · Jacobs ladder on every race's top panel 3/1–10/1</div>
     <div class="big">${gbp(s.start)} → ${gbp(s.bank)}</div>
     <div class="chips">
       <span class="src ${s.roi >= 0 ? 'ok' : 'bad'}">ROI ${s.roi >= 0 ? '+' : ''}${s.roi}%</span>
       <span class="src">${s.bets} bets</span>
       <span class="src ok">${s.won} won</span>
+      <span class="src" style="color:#fb923c;border-color:#7c4a12">${s.placed ?? 0} placed</span>
       <span class="src bad">${s.lost} lost</span>
       ${s.refunds ? `<span class="src">${s.refunds} refunds</span>` : ""}
       ${s.pending ? `<span class="src" style="color:var(--gold);border-color:#7c6412">${s.pending} to run</span>` : ""}
@@ -347,9 +398,12 @@ function renderRun(){
     <div class="label">the rule</div>
     <div style="font-size:.72rem; line-height:1.7; color:var(--dim)">
       every race's <b style="color:var(--ink)">top panel</b> priced <b style="color:var(--ink)">3/1–10/1</b>
-      (highest points, shortest odds if tied) gets <b style="color:var(--ink)">1% of that day's balance</b> —
-      win-only at the published odds, non-runners refund, bank rolls forward.
+      (highest points, shortest odds if tied) is backed <b style="color:var(--ink)">win-only</b> —
+      non-runners refund, bank rolls forward. Stakes follow a <b style="color:var(--ink)">Jacobs ladder</b>:
+      1% of the day's balance a bet at rung 1 — a losing day climbs 1·2·2·3·4·5…, a winning day resets to 1.
       The band is the backfill's verdict: odds-on shots lost −31%, 3/1–10/1 made +17.8% flat.
+      Each-way at 365 place terms was tested on the same 285 bets and lost (+7.8% vs +15.2%) —
+      the winners at full odds pay the band's keep.
     </div>
   </div>`;
 }
