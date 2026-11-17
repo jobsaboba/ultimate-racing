@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T16:01:00+00:00",
+  "generated": "2026-11-17T17:01:01+00:00",
   "max": 55,
   "money": {
     "bank_start": 21.15,
@@ -71,8 +71,8 @@
         "total": 20,
         "race_time": "16:30",
         "race_meeting": "Southwell",
-        "res": "PENDING",
-        "pos": 0,
+        "res": "LOSE",
+        "pos": 6,
         "stake": 0.42,
         "returned": 0.0
       },
@@ -2461,8 +2461,8 @@
           "profit": 0,
           "prof": -4.0,
           "total": 15,
-          "res": null,
-          "pos": 0
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Beaumadier",
@@ -2490,8 +2490,8 @@
           "profit": 5,
           "prof": 18.0,
           "total": 13,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 11
         },
         {
           "horse": "Jax Edge",
@@ -2519,8 +2519,8 @@
           "profit": 0,
           "prof": 0.0,
           "total": 15,
-          "res": null,
-          "pos": 0
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Dark Kestrel",
@@ -2548,8 +2548,8 @@
           "profit": 0,
           "prof": 0.0,
           "total": 8,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 10
         },
         {
           "horse": "Opal Storm",
@@ -2577,8 +2577,8 @@
           "profit": 0,
           "prof": 0.0,
           "total": 14,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Grandlad",
@@ -2606,8 +2606,8 @@
           "profit": 0,
           "prof": -2.0,
           "total": 15,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Lion's House",
@@ -2635,8 +2635,8 @@
           "profit": 0,
           "prof": -3.0,
           "total": 15,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Brazilian Belle",
@@ -2664,8 +2664,8 @@
           "profit": 0,
           "prof": -6.0,
           "total": 12,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 13
         },
         {
           "horse": "Managing Director",
@@ -2693,8 +2693,8 @@
           "profit": 0,
           "prof": -1.0,
           "total": 20,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Bonnie's Boy",
@@ -2722,8 +2722,8 @@
           "profit": 0,
           "prof": -4.0,
           "total": 18,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Binadham",
@@ -2751,8 +2751,8 @@
           "profit": 5,
           "prof": 98.0,
           "total": 20,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 12
         },
         {
           "horse": "Anaisa",
@@ -2780,8 +2780,8 @@
           "profit": 5,
           "prof": 17.0,
           "total": 12,
-          "res": null,
-          "pos": 0
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Kinnalargy",
@@ -2809,8 +2809,8 @@
           "profit": 0,
           "prof": -9.0,
           "total": 12,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 9
         }
       ]
     },
