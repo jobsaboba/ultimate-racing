@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T19:32:21+00:00",
+  "generated": "2026-11-17T20:00:53+00:00",
   "max": 55,
   "money": {
     "bank_start": 21.15,
@@ -4179,8 +4179,8 @@
           "profit": 0,
           "prof": -4.0,
           "total": 29,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Lerwick",
@@ -4208,8 +4208,8 @@
           "profit": 5,
           "prof": 18.0,
           "total": 15,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Strong Voice",
@@ -4237,8 +4237,8 @@
           "profit": 0,
           "prof": -2.0,
           "total": 19,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Glorious Kitty",
@@ -4266,8 +4266,8 @@
           "profit": 0,
           "prof": -3.0,
           "total": 12,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "It'sneverjustone",
@@ -4295,8 +4295,8 @@
           "profit": 5,
           "prof": 14.0,
           "total": 24,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Oh So Perfect",
@@ -4324,8 +4324,8 @@
           "profit": 0,
           "prof": -7.2,
           "total": 12,
-          "res": null,
-          "pos": 0
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Comprador",
@@ -4353,8 +4353,8 @@
           "profit": 0,
           "prof": 0.0,
           "total": 3,
-          "res": null,
-          "pos": 0
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Anton Mauve",
@@ -4382,8 +4382,8 @@
           "profit": 5,
           "prof": 7.0,
           "total": 16,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Maldevious",
@@ -4411,8 +4411,8 @@
           "profit": 0,
           "prof": -8.0,
           "total": 4,
-          "res": null,
-          "pos": 0
+          "res": "WIN",
+          "pos": 1
         }
       ]
     },
