@@ -38,6 +38,11 @@
     border-radius:12px; padding:10px 12px; font-size:.78rem; margin-bottom:10px; line-height:1.5}
   .banner.show{display:block}
 
+  .views{display:flex; gap:6px; padding:0 0 10px}
+  .views button{flex:1; border:1px solid var(--line); background:var(--panel); color:var(--dim);
+    border-radius:10px; padding:8px 4px; font-size:.74rem; font-weight:800; cursor:pointer}
+  .views button.on{background:var(--sky); border-color:var(--sky); color:#06202f}
+
   .days{display:flex; gap:6px; overflow-x:auto; padding:2px 0 10px; scrollbar-width:none}
   .days::-webkit-scrollbar{display:none}
   .day{border:1px solid var(--line); background:var(--panel); color:var(--dim); border-radius:999px;
@@ -55,6 +60,24 @@
   .src.ok{color:var(--em); border-color:#1d5c46}
   .src.bad{color:var(--red); border-color:#6b1d1d}
 
+  .money{background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:10px 12px; margin-bottom:12px}
+  .money .row{display:flex; justify-content:space-between; align-items:center; gap:8px; margin-bottom:6px}
+  .money .mlabel{font-size:.62rem; color:var(--dim); text-transform:uppercase; letter-spacing:1px}
+  .money .bank{font-weight:900; font-size:.95rem}
+  .money .bank small{color:var(--dim); font-weight:600; font-size:.68rem}
+  .money .bank .down{color:var(--red)} .money .bank .up{color:var(--em)}
+  .betrow{display:flex; align-items:center; gap:6px; font-size:.7rem; padding:3px 0; border-bottom:1px solid #1a2740}
+  .betrow:last-child{border-bottom:none}
+  .betrow .bt{color:var(--dim); font-size:.6rem; width:96px; flex-shrink:0; white-space:nowrap; overflow:hidden; text-overflow:ellipsis}
+  .betrow b{flex:1; min-width:0; white-space:nowrap; overflow:hidden; text-overflow:ellipsis}
+  .betrow .odds{color:var(--gold); font-weight:800; flex-shrink:0}
+  .amt{flex-shrink:0; font-weight:900; font-size:.62rem; padding:2px 6px; border-radius:7px}
+  .amt.won{background:#0b2e21; color:var(--em)}
+  .amt.lost{background:#331111; color:#fca5a5}
+  .amt.pend{background:#2d2410; color:#fcd34d}
+  .amt.nr{background:#1c2433; color:var(--grey)}
+  .betlist{max-height:340px; overflow-y:auto}
+
   .race{background:var(--panel); border:1px solid var(--line); border-radius:14px; margin-bottom:10px; overflow:hidden}
   .rhead{padding:10px 12px; cursor:pointer; display:flex; justify-content:space-between; align-items:center; gap:8px}
   .rhead .t{font-weight:900; font-size:.95rem}
@@ -68,7 +91,7 @@
   .rrow:last-child{border-bottom:none}
   .rrow .pos{width:20px; color:var(--dim); font-weight:800; font-size:.7rem; text-align:center; flex-shrink:0}
   .rrow .nm{flex:1; min-width:0}
-  .rrow .nm b{display:block; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; font-size:.82rem}
+  .rrow .nm b{display:block; font-size:.82rem; line-height:1.35}
   .rrow .nm b .odds{color:var(--gold); font-size:.68rem; font-weight:800}
   .rrow .nm small{display:block; color:var(--dim); font-size:.6rem; line-height:1.5}
   .pt{display:inline-block; padding:0 4px; margin-right:3px; border-radius:6px; background:#1c2a44;
@@ -82,6 +105,17 @@
     border-radius:9px; padding:4px 0; font-weight:900; font-size:.82rem}
   .tot small{display:block; font-size:.5rem; color:var(--dim); font-weight:800; letter-spacing:.5px}
   .tot.top{border-color:#7c6412; color:var(--gold)}
+
+  .scard{background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:12px; margin-bottom:10px}
+  .scard .label{font-size:.62rem; color:var(--dim); text-transform:uppercase; letter-spacing:1px; margin-bottom:6px}
+  .scard .big{font-weight:900; font-size:1.25rem}
+  .scard .chips{display:flex; gap:6px; flex-wrap:wrap; margin-top:8px}
+  .stable{width:100%; border-collapse:collapse; font-size:.72rem; margin-top:4px}
+  .stable td,.stable th{padding:4px 6px; text-align:right; border-bottom:1px solid #1a2740}
+  .stable th{color:var(--dim); font-size:.58rem; text-transform:uppercase; letter-spacing:.5px}
+  .stable tr:last-child td{border-bottom:none}
+  .stable td:first-child,.stable th:first-child{text-align:left}
+  .pos{color:var(--em); font-weight:700} .neg{color:var(--red); font-weight:700}
 
   .none{padding:30px 10px; text-align:center; color:var(--dim); font-size:.8rem}
   footer{color:#3b4a66; font-size:.62rem; text-align:center; padding:18px 0 6px; line-height:1.6}
@@ -105,25 +139,39 @@
 
 <div class="banner" id="offline">You're offline — showing the last downloaded day.</div>
 
-<div class="days" id="days"></div>
-<div class="stats" id="stats"></div>
-<div class="srcs" id="srcs"></div>
-<div id="races"><div class="none">loading…</div></div>
+<div class="views">
+  <button id="v-day" class="on" onclick="setView('day')">The day</button>
+  <button id="v-run" onclick="setView('run')">The run</button>
+</div>
+
+<div id="dayView">
+  <div class="days" id="days"></div>
+  <div class="stats" id="stats"></div>
+  <div class="srcs" id="srcs"></div>
+  <div class="money" id="moneyBox" style="display:none"></div>
+  <div id="races"><div class="none">loading…</div></div>
+</div>
+
+<div id="runView" style="display:none"></div>
 
 <footer>
   Stars: Timeform ★ + Racing Post ★ (RPR ranks) = 10 · Favouritism: 1st 10 · 2nd 7 · 3rd 5 · 4th 3<br>
   Course form: C&amp;D 10 · distance 5 · course 3 · Jockey/trainer 3+ wins: 7-day 5 · 14-day 3<br>
-  Top course trainer/jockey 5-4-3-2-1 · trainer in 14-day profit 5 · <b>max 55</b>
+  Top course trainer/jockey 5-4-3-2-1 · trainer in 14-day profit 5 · <b>max 55</b><br>
+  Bank £10 · <b>every race's top panel</b> gets <b>1% of the day's balance</b> — win-only, NRs refund
 </footer>
 
 <script>
 let DAYS = [];
 let CURRENT = null;
 let cache = {};
+let STATS = null;
+let VIEW = "day";
 
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c =>
   ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const gbp = n => "£" + Number(n ?? 0).toFixed(2);
 
 async function getIndex(){
   const r = await fetch("data/index.json", {cache:"no-store"});
@@ -135,6 +183,16 @@ async function getDay(d){
   const j = await r.json();
   cache[d] = j;
   return j;
+}
+
+function setView(v){
+  VIEW = v;
+  document.getElementById("v-day").className = VIEW === "day" ? "on" : "";
+  document.getElementById("v-run").className = VIEW === "run" ? "on" : "";
+  document.getElementById("dayView").style.display = VIEW === "day" ? "" : "none";
+  document.getElementById("runView").style.display = VIEW === "run" ? "" : "none";
+  if (VIEW === "run") renderRun();
+  window.scrollTo(0, 0);
 }
 
 function starPill(src, n, max){
@@ -159,6 +217,30 @@ function breakdown(r){
   return bits.join("");
 }
 
+function moneyCard(j){
+  const m = j.money, box = document.getElementById("moneyBox");
+  if (!m){ box.style.display = "none"; return; }
+  box.style.display = "";
+  const bets = m.bets || [];
+  const badge = b =>
+    b.res === "WIN" ? `<span class="amt won">+${gbp(b.returned)}</span>`
+    : b.res === "NR" ? `<span class="amt nr">refund</span>`
+    : b.res === "PENDING" ? `<span class="amt pend">${gbp(b.stake)} on</span>`
+    : `<span class="amt lost">−${gbp(b.stake)}</span>`;
+  const rows = bets.length ? bets.map(b =>
+    `<div class="betrow"><span class="bt">${esc(b.race_time)} ${esc(b.race_meeting)}</span>` +
+    `<b title="${esc(b.horse)}">${esc(b.horse)}</b>` +
+    `<span class="odds">${esc(b.odds || "")}</span>${badge(b)}</div>`).join("")
+    : `<div class="betrow"><span class="bt">—</span><b>no priced runners today</b></div>`;
+  const diff = m.bank_after - m.bank_start;
+  const dir = diff > 0 ? "up" : diff < 0 ? "down" : "";
+  box.innerHTML =
+    `<div class="row"><span class="mlabel">bank · 1% of the day's balance a bet</span>` +
+    `<span class="bank">${gbp(m.bank_start)} <small>→</small> <span class="${dir}">${gbp(m.bank_after)}</span></span></div>` +
+    `<div style="font-size:.62rem;color:var(--dim);margin-bottom:4px">${bets.length} bets · staked ${gbp(m.staked)}${m.returned ? ` · returned ${gbp(m.returned)}` : ""}</div>` +
+    `<div class="betlist">${rows}</div>`;
+}
+
 function render(d){
   const j = cache[d];
   if (!j){ return; }
@@ -178,6 +260,8 @@ function render(d){
     `<span class="src ${v === 'ok' ? 'ok' : 'bad'}">${label} ${v === 'ok' ? '✓' : '✗'}</span>`;
   document.getElementById("srcs").innerHTML =
     chip("TIMEFORM", s.timeform) + chip("RACING POST", s.rp);
+
+  moneyCard(j);
 
   const box = document.getElementById("races");
   if (!races.length){
@@ -225,6 +309,50 @@ function dayStrip(){
     b.addEventListener("click", () => { CURRENT = b.dataset.d; render(CURRENT); }));
 }
 
+function renderRun(){
+  const el = document.getElementById("runView");
+  if (!STATS){
+    el.innerHTML = `<div class="none">loading the run…</div>`;
+    fetch("data/stats.json", {cache:"no-store"}).then(r => r.json())
+      .then(j => { STATS = j; renderRun(); })
+      .catch(() => { el.innerHTML = `<div class="none">no season data yet</div>`; });
+    return;
+  }
+  const s = STATS.season, bd = STATS.best_day;
+  const monthly = Object.entries(STATS.monthly || {});
+  el.innerHTML = `
+  <div class="scard">
+    <div class="label">the bank — £10 start · every race's top panel gets 1% of the day's balance</div>
+    <div class="big">${gbp(s.start)} → ${gbp(s.bank)}</div>
+    <div class="chips">
+      <span class="src ${s.roi >= 0 ? 'ok' : 'bad'}">ROI ${s.roi >= 0 ? '+' : ''}${s.roi}%</span>
+      <span class="src">${s.bets} bets</span>
+      <span class="src ok">${s.won} won</span>
+      <span class="src bad">${s.lost} lost</span>
+      ${s.refunds ? `<span class="src">${s.refunds} refunds</span>` : ""}
+      ${s.pending ? `<span class="src" style="color:var(--gold);border-color:#7c6412">${s.pending} to run</span>` : ""}
+    </div>
+    <div style="font-size:.66rem;color:var(--dim);margin-top:8px">
+      staked ${gbp(s.staked)} → returned ${gbp(s.returned)} over ${s.days} days${bd ? ` · best day <b style="color:var(--ink)">${esc(bd.date)}</b> +${gbp(bd.pl).slice(1)}` : ""}
+    </div>
+  </div>
+  <div class="scard">
+    <div class="label">the bank, month by month</div>
+    <table class="stable"><tr><th>month</th><th>P/L</th></tr>
+    ${monthly.map(([m, v]) =>
+      `<tr><td>${esc(m)}</td><td class="${v >= 0 ? 'pos' : 'neg'}">${v >= 0 ? '+' : '−'}${gbp(Math.abs(v))}</td></tr>`).join("")}
+    </table>
+  </div>
+  <div class="scard">
+    <div class="label">the rule</div>
+    <div style="font-size:.72rem; line-height:1.7; color:var(--dim)">
+      every race's <b style="color:var(--ink)">top panel</b> (highest points, shortest
+      odds if tied) gets <b style="color:var(--ink)">1% of that day's balance</b> —
+      win-only at the published odds, non-runners refund, bank rolls forward.
+    </div>
+  </div>`;
+}
+
 async function load(){
   const btn = document.getElementById("reload");
   btn.classList.add("spin");
@@ -253,7 +381,7 @@ if (window.matchMedia && !matchMedia("(display-mode: standalone)"))
   setTimeout(() => { if (!deferredInstall)
     document.getElementById("installBanner").classList.add("show"); }, 2500);
 
-document.getElementById("reload").addEventListener("click", () => { cache = {}; load(); });
+document.getElementById("reload").addEventListener("click", () => { cache = {}; STATS = null; load(); });
 load();
 </script>
 

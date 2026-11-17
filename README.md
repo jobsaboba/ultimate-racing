@@ -19,6 +19,11 @@ Racing Post stars come from their RPR ranks (highest RPR = 5★ …) — their o
 stars are Pro-gated. At The Races is not used. Jockey/trainer win counts and
 the profit check are computed from the book's own settled sheets.
 
+**The bank:** £10 start — **every race's top-panel horse** gets **1% of that
+day's balance**, win-only at the published odds, non-runners refund, the bank
+rolls forward. The whole season is backfilled; the app's "The run" tab shows
+the walk.
+
 *(This app previously hosted the hot-trainer perm system — retired 17 Nov 2026.
 Its day files live on in this repo's git history.)*
 
