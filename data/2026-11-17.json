@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T15:31:02+00:00",
+  "generated": "2026-11-17T16:01:00+00:00",
   "max": 55,
   "money": {
     "bank_start": 21.15,
@@ -2216,8 +2216,8 @@
           "profit": 0,
           "prof": -1.0,
           "total": 8,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Allez Yeats",
@@ -2245,8 +2245,8 @@
           "profit": 0,
           "prof": -1.0,
           "total": 1,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Marble Hill",
@@ -2274,8 +2274,8 @@
           "profit": 0,
           "prof": -10.5,
           "total": 20,
-          "res": null,
-          "pos": 0
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Todo Bien",
@@ -2303,8 +2303,8 @@
           "profit": 0,
           "prof": -7.3,
           "total": 20,
-          "res": null,
-          "pos": 0
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Native Deal",
@@ -2332,8 +2332,8 @@
           "profit": 0,
           "prof": -1.0,
           "total": 12,
-          "res": null,
-          "pos": 0
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Fred Mooser",
@@ -2361,8 +2361,8 @@
           "profit": 0,
           "prof": -5.0,
           "total": 4,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Heartbreak Prince",
@@ -2390,8 +2390,8 @@
           "profit": 0,
           "prof": -3.0,
           "total": 1,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Mister Bec",
@@ -2419,8 +2419,8 @@
           "profit": 0,
           "prof": 0.0,
           "total": 2,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 7
         }
       ]
     },
