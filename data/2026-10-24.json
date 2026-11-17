@@ -1,12 +1,13 @@
 {
   "date": "2026-10-24",
-  "generated": "2026-11-17T07:46:03+00:00",
+  "generated": "2026-11-17T07:54:04+00:00",
   "max": 55,
   "money": {
-    "bank_start": 11.44,
-    "staked": 0.11,
+    "bank_start": 15.33,
+    "staked": 0.15,
     "returned": 0.0,
-    "bank_after": 11.33,
+    "bank_after": 15.18,
+    "skipped": 0,
     "bets": [
       {
         "horse": "Bold Light",
@@ -15,7 +16,7 @@
         "race_time": "15:55",
         "race_meeting": "Kelso",
         "res": "LOSE",
-        "stake": 0.11,
+        "stake": 0.15,
         "returned": 0.0
       }
     ]

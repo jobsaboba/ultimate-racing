@@ -1,12 +1,13 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-11-17T07:46:02+00:00",
+  "generated": "2026-11-17T07:54:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 13.58,
-    "staked": 0.56,
-    "returned": 0.56,
-    "bank_after": 13.58,
+    "bank_start": 14.61,
+    "staked": 0.45,
+    "returned": 0.6,
+    "bank_after": 14.76,
+    "skipped": 1,
     "bets": [
       {
         "horse": "Cotai Starlight",
@@ -15,17 +16,7 @@
         "race_time": "13:45",
         "race_meeting": "Ayr",
         "res": "LOSE",
-        "stake": 0.14,
-        "returned": 0.0
-      },
-      {
-        "horse": "Runninsonofagun",
-        "odds": "8/15",
-        "total": 28,
-        "race_time": "14:45",
-        "race_meeting": "Ayr",
-        "res": "PLACE",
-        "stake": 0.14,
+        "stake": 0.15,
         "returned": 0.0
       },
       {
@@ -35,7 +26,7 @@
         "race_time": "15:45",
         "race_meeting": "Ayr",
         "res": "PLACE",
-        "stake": 0.14,
+        "stake": 0.15,
         "returned": 0.0
       },
       {
@@ -45,8 +36,8 @@
         "race_time": "16:20",
         "race_meeting": "Ayr",
         "res": "WIN",
-        "stake": 0.14,
-        "returned": 0.56
+        "stake": 0.15,
+        "returned": 0.6
       }
     ]
   },

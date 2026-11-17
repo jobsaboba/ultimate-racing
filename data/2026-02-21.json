@@ -1,23 +1,14 @@
 {
   "date": "2026-02-21",
-  "generated": "2026-11-17T07:46:01+00:00",
+  "generated": "2026-11-17T07:54:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 10.0,
-    "staked": 0.5,
-    "returned": 0.4,
-    "bank_after": 9.9,
+    "bank_start": 10.11,
+    "staked": 0.2,
+    "returned": 0.0,
+    "bank_after": 9.91,
+    "skipped": 3,
     "bets": [
-      {
-        "horse": "Marhaba Prince",
-        "odds": "7/5",
-        "total": 14,
-        "race_time": "13:40",
-        "race_meeting": "Chepstow",
-        "res": "WIN",
-        "stake": 0.1,
-        "returned": 0.24
-      },
       {
         "horse": "King Of The Lake",
         "odds": "5/1",
@@ -37,26 +28,6 @@
         "res": "PLACE",
         "stake": 0.1,
         "returned": 0.0
-      },
-      {
-        "horse": "Thorgath",
-        "odds": "11/5",
-        "total": 15,
-        "race_time": "16:48",
-        "race_meeting": "Chepstow",
-        "res": "LOSE",
-        "stake": 0.1,
-        "returned": 0.0
-      },
-      {
-        "horse": "Bande Organisee",
-        "odds": "8/13",
-        "total": 15,
-        "race_time": "17:18",
-        "race_meeting": "Chepstow",
-        "res": "WIN",
-        "stake": 0.1,
-        "returned": 0.16
       }
     ]
   },

@@ -1,23 +1,14 @@
 {
   "date": "2026-11-10",
-  "generated": "2026-11-17T07:46:03+00:00",
+  "generated": "2026-11-17T07:54:04+00:00",
   "max": 55,
   "money": {
-    "bank_start": 10.09,
-    "staked": 0.7,
-    "returned": 0.35,
-    "bank_after": 9.74,
+    "bank_start": 13.98,
+    "staked": 0.28,
+    "returned": 0.0,
+    "bank_after": 13.7,
+    "skipped": 5,
     "bets": [
-      {
-        "horse": "Quatre Saison",
-        "odds": "7/4",
-        "total": 30,
-        "race_time": "12:30",
-        "race_meeting": "Fairyhouse",
-        "res": "LOSE",
-        "stake": 0.1,
-        "returned": 0.0
-      },
       {
         "horse": "Western Shores",
         "odds": "7/2",
@@ -25,47 +16,7 @@
         "race_time": "13:00",
         "race_meeting": "Fairyhouse",
         "res": "PLACE",
-        "stake": 0.1,
-        "returned": 0.0
-      },
-      {
-        "horse": "Live To Laugh",
-        "odds": "5/2",
-        "total": 19,
-        "race_time": "13:30",
-        "race_meeting": "Fairyhouse",
-        "res": "WIN",
-        "stake": 0.1,
-        "returned": 0.35
-      },
-      {
-        "horse": "Ballyfad",
-        "odds": "7/4",
-        "total": 31,
-        "race_time": "14:00",
-        "race_meeting": "Fairyhouse",
-        "res": "PLACE",
-        "stake": 0.1,
-        "returned": 0.0
-      },
-      {
-        "horse": "Western Soldier",
-        "odds": "5/2",
-        "total": 25,
-        "race_time": "14:50",
-        "race_meeting": "Lingfield",
-        "res": "LOSE",
-        "stake": 0.1,
-        "returned": 0.0
-      },
-      {
-        "horse": "My Life Be Like",
-        "odds": "11/8",
-        "total": 25,
-        "race_time": "15:00",
-        "race_meeting": "Fairyhouse",
-        "res": "LOSE",
-        "stake": 0.1,
+        "stake": 0.14,
         "returned": 0.0
       },
       {
@@ -75,7 +26,7 @@
         "race_time": "15:30",
         "race_meeting": "Fairyhouse",
         "res": "LOSE",
-        "stake": 0.1,
+        "stake": 0.14,
         "returned": 0.0
       }
     ]

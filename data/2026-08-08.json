@@ -1,23 +1,14 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-11-17T07:46:02+00:00",
+  "generated": "2026-11-17T07:54:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 15.8,
-    "staked": 1.12,
-    "returned": 0.72,
-    "bank_after": 15.4,
+    "bank_start": 17.46,
+    "staked": 1.02,
+    "returned": 0.77,
+    "bank_after": 17.21,
+    "skipped": 1,
     "bets": [
-      {
-        "horse": "Beechwood Glory",
-        "odds": "13/8",
-        "total": 13,
-        "race_time": "16:27",
-        "race_meeting": "Ayr",
-        "res": "PLACE",
-        "stake": 0.16,
-        "returned": 0.0
-      },
       {
         "horse": "Harb",
         "odds": "4/1",
@@ -25,7 +16,7 @@
         "race_time": "17:00",
         "race_meeting": "Ayr",
         "res": "LOSE",
-        "stake": 0.16,
+        "stake": 0.17,
         "returned": 0.0
       },
       {
@@ -35,7 +26,7 @@
         "race_time": "17:30",
         "race_meeting": "Ayr",
         "res": "LOSE",
-        "stake": 0.16,
+        "stake": 0.17,
         "returned": 0.0
       },
       {
@@ -45,8 +36,8 @@
         "race_time": "18:00",
         "race_meeting": "Ayr",
         "res": "WIN",
-        "stake": 0.16,
-        "returned": 0.72
+        "stake": 0.17,
+        "returned": 0.77
       },
       {
         "horse": "Mr Cool",
@@ -55,7 +46,7 @@
         "race_time": "18:30",
         "race_meeting": "Ayr",
         "res": "PLACE",
-        "stake": 0.16,
+        "stake": 0.17,
         "returned": 0.0
       },
       {
@@ -65,7 +56,7 @@
         "race_time": "19:00",
         "race_meeting": "Ayr",
         "res": "LOSE",
-        "stake": 0.16,
+        "stake": 0.17,
         "returned": 0.0
       },
       {
@@ -75,7 +66,7 @@
         "race_time": "19:30",
         "race_meeting": "Ayr",
         "res": "LOSE",
-        "stake": 0.16,
+        "stake": 0.17,
         "returned": 0.0
       }
     ]

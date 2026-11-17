@@ -1,23 +1,14 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-11-17T07:46:02+00:00",
+  "generated": "2026-11-17T07:54:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 15.34,
-    "staked": 0.3,
+    "bank_start": 17.21,
+    "staked": 0.17,
     "returned": 0.0,
-    "bank_after": 15.04,
+    "bank_after": 17.04,
+    "skipped": 1,
     "bets": [
-      {
-        "horse": "The Coffee Pod",
-        "odds": "11/10",
-        "total": 19,
-        "race_time": "15:07",
-        "race_meeting": "Ffos Las",
-        "res": "PLACE",
-        "stake": 0.15,
-        "returned": 0.0
-      },
       {
         "horse": "Nammos",
         "odds": "3/1",
@@ -25,7 +16,7 @@
         "race_time": "16:10",
         "race_meeting": "Ffos Las",
         "res": "LOSE",
-        "stake": 0.15,
+        "stake": 0.17,
         "returned": 0.0
       }
     ]

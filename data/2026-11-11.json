@@ -1,12 +1,13 @@
 {
   "date": "2026-11-11",
-  "generated": "2026-11-17T07:46:04+00:00",
+  "generated": "2026-11-17T07:54:05+00:00",
   "max": 55,
   "money": {
-    "bank_start": 9.74,
-    "staked": 1.1,
-    "returned": 0.96,
-    "bank_after": 9.6,
+    "bank_start": 13.7,
+    "staked": 0.84,
+    "returned": 0.61,
+    "bank_after": 13.47,
+    "skipped": 5,
     "bets": [
       {
         "horse": "Mighty Fleur",
@@ -15,18 +16,8 @@
         "race_time": "13:00",
         "race_meeting": "Bangor-on-Dee",
         "res": "PLACE",
-        "stake": 0.1,
+        "stake": 0.14,
         "returned": 0.0
-      },
-      {
-        "horse": "Jet Of Stars",
-        "odds": "1/1",
-        "total": 29,
-        "race_time": "13:40",
-        "race_meeting": "Ayr",
-        "res": "WIN",
-        "stake": 0.1,
-        "returned": 0.2
       },
       {
         "horse": "Rickety Gate",
@@ -35,8 +26,8 @@
         "race_time": "14:13",
         "race_meeting": "Ayr",
         "res": "WIN",
-        "stake": 0.1,
-        "returned": 0.43
+        "stake": 0.14,
+        "returned": 0.61
       },
       {
         "horse": "Jordan Breeze",
@@ -45,47 +36,7 @@
         "race_time": "14:30",
         "race_meeting": "Dundalk",
         "res": "LOSE",
-        "stake": 0.1,
-        "returned": 0.0
-      },
-      {
-        "horse": "Ballynoe Boy",
-        "odds": "9/4",
-        "total": 28,
-        "race_time": "14:43",
-        "race_meeting": "Ayr",
-        "res": "WIN",
-        "stake": 0.1,
-        "returned": 0.33
-      },
-      {
-        "horse": "Invincible Irish",
-        "odds": "7/4",
-        "total": 15,
-        "race_time": "15:00",
-        "race_meeting": "Dundalk",
-        "res": "PLACE",
-        "stake": 0.1,
-        "returned": 0.0
-      },
-      {
-        "horse": "Justenzia",
-        "odds": "2/1",
-        "total": 22,
-        "race_time": "15:30",
-        "race_meeting": "Dundalk",
-        "res": "PLACE",
-        "stake": 0.1,
-        "returned": 0.0
-      },
-      {
-        "horse": "Resurgence",
-        "odds": "11/4",
-        "total": 14,
-        "race_time": "16:02",
-        "race_meeting": "Dundalk",
-        "res": "PLACE",
-        "stake": 0.1,
+        "stake": 0.14,
         "returned": 0.0
       },
       {
@@ -95,7 +46,7 @@
         "race_time": "16:32",
         "race_meeting": "Dundalk",
         "res": "PLACE",
-        "stake": 0.1,
+        "stake": 0.14,
         "returned": 0.0
       },
       {
@@ -105,7 +56,7 @@
         "race_time": "17:02",
         "race_meeting": "Dundalk",
         "res": "LOSE",
-        "stake": 0.1,
+        "stake": 0.14,
         "returned": 0.0
       },
       {
@@ -115,7 +66,7 @@
         "race_time": "17:32",
         "race_meeting": "Dundalk",
         "res": "LOSE",
-        "stake": 0.1,
+        "stake": 0.14,
         "returned": 0.0
       }
     ]

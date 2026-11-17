@@ -1,12 +1,13 @@
 {
   "date": "2026-11-06",
-  "generated": "2026-11-17T07:46:03+00:00",
+  "generated": "2026-11-17T07:54:04+00:00",
   "max": 55,
   "money": {
-    "bank_start": 10.45,
-    "staked": 2.0,
-    "returned": 0.8,
-    "bank_after": 9.25,
+    "bank_start": 14.18,
+    "staked": 1.26,
+    "returned": 0.63,
+    "bank_after": 13.55,
+    "skipped": 11,
     "bets": [
       {
         "horse": "The Mad Poet",
@@ -15,7 +16,7 @@
         "race_time": "12:50",
         "race_meeting": "Fontwell",
         "res": "LOSE",
-        "stake": 0.1,
+        "stake": 0.14,
         "returned": 0.0
       },
       {
@@ -25,7 +26,7 @@
         "race_time": "14:35",
         "race_meeting": "Fontwell",
         "res": "LOSE",
-        "stake": 0.1,
+        "stake": 0.14,
         "returned": 0.0
       },
       {
@@ -35,8 +36,8 @@
         "race_time": "14:45",
         "race_meeting": "Hexham",
         "res": "WIN",
-        "stake": 0.1,
-        "returned": 0.45
+        "stake": 0.14,
+        "returned": 0.63
       },
       {
         "horse": "Stoneacre Donny",
@@ -45,27 +46,7 @@
         "race_time": "14:53",
         "race_meeting": "Newcastle",
         "res": "PLACE",
-        "stake": 0.1,
-        "returned": 0.0
-      },
-      {
-        "horse": "Here Comes Georgie",
-        "odds": "5/2",
-        "total": 30,
-        "race_time": "15:35",
-        "race_meeting": "Aintree",
-        "res": "LOSE",
-        "stake": 0.1,
-        "returned": 0.0
-      },
-      {
-        "horse": "Winston's Oath",
-        "odds": "11/10",
-        "total": 18,
-        "race_time": "15:43",
-        "race_meeting": "Fontwell",
-        "res": "PLACE",
-        "stake": 0.1,
+        "stake": 0.14,
         "returned": 0.0
       },
       {
@@ -75,7 +56,7 @@
         "race_time": "15:52",
         "race_meeting": "Hexham",
         "res": "LOSE",
-        "stake": 0.1,
+        "stake": 0.14,
         "returned": 0.0
       },
       {
@@ -85,27 +66,7 @@
         "race_time": "16:00",
         "race_meeting": "Newcastle",
         "res": "PLACE",
-        "stake": 0.1,
-        "returned": 0.0
-      },
-      {
-        "horse": "Quaviste",
-        "odds": "11/8",
-        "total": 25,
-        "race_time": "16:05",
-        "race_meeting": "Aintree",
-        "res": "LOSE",
-        "stake": 0.1,
-        "returned": 0.0
-      },
-      {
-        "horse": "Capricious Star",
-        "odds": "9/4",
-        "total": 14,
-        "race_time": "17:00",
-        "race_meeting": "Newcastle",
-        "res": "PLACE",
-        "stake": 0.1,
+        "stake": 0.14,
         "returned": 0.0
       },
       {
@@ -115,37 +76,7 @@
         "race_time": "17:30",
         "race_meeting": "Newcastle",
         "res": "LOSE",
-        "stake": 0.1,
-        "returned": 0.0
-      },
-      {
-        "horse": "Sensational Filly",
-        "odds": "8/15",
-        "total": 15,
-        "race_time": "17:45",
-        "race_meeting": "Dundalk",
-        "res": "LOSE",
-        "stake": 0.1,
-        "returned": 0.0
-      },
-      {
-        "horse": "Oxford Circus",
-        "odds": "5/2",
-        "total": 19,
-        "race_time": "18:00",
-        "race_meeting": "Newcastle",
-        "res": "WIN",
-        "stake": 0.1,
-        "returned": 0.35
-      },
-      {
-        "horse": "Soaring Sun",
-        "odds": "9/4",
-        "total": 25,
-        "race_time": "18:15",
-        "race_meeting": "Dundalk",
-        "res": "LOSE",
-        "stake": 0.1,
+        "stake": 0.14,
         "returned": 0.0
       },
       {
@@ -155,17 +86,7 @@
         "race_time": "18:30",
         "race_meeting": "Newcastle",
         "res": "PLACE",
-        "stake": 0.1,
-        "returned": 0.0
-      },
-      {
-        "horse": "Carolina Jetstream",
-        "odds": "11/4",
-        "total": 24,
-        "race_time": "18:45",
-        "race_meeting": "Dundalk",
-        "res": "LOSE",
-        "stake": 0.1,
+        "stake": 0.14,
         "returned": 0.0
       },
       {
@@ -175,37 +96,7 @@
         "race_time": "19:00",
         "race_meeting": "Newcastle",
         "res": "LOSE",
-        "stake": 0.1,
-        "returned": 0.0
-      },
-      {
-        "horse": "On Just Terms",
-        "odds": "5/4",
-        "total": 15,
-        "race_time": "19:15",
-        "race_meeting": "Dundalk",
-        "res": "LOSE",
-        "stake": 0.1,
-        "returned": 0.0
-      },
-      {
-        "horse": "Daler",
-        "odds": "11/8",
-        "total": 25,
-        "race_time": "19:45",
-        "race_meeting": "Dundalk",
-        "res": "LOSE",
-        "stake": 0.1,
-        "returned": 0.0
-      },
-      {
-        "horse": "Hooves Your Daddy",
-        "odds": "9/4",
-        "total": 15,
-        "race_time": "20:15",
-        "race_meeting": "Dundalk",
-        "res": "LOSE",
-        "stake": 0.1,
+        "stake": 0.14,
         "returned": 0.0
       }
     ]

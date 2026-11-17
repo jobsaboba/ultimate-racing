@@ -1,63 +1,14 @@
 {
   "date": "2026-04-12",
-  "generated": "2026-11-17T07:46:01+00:00",
+  "generated": "2026-11-17T07:54:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 10.53,
-    "staked": 1.21,
-    "returned": 1.77,
-    "bank_after": 11.09,
+    "bank_start": 10.59,
+    "staked": 0.55,
+    "returned": 1.2,
+    "bank_after": 11.24,
+    "skipped": 6,
     "bets": [
-      {
-        "horse": "Miss Kassiopi",
-        "odds": "4/5",
-        "total": 20,
-        "race_time": "13:03",
-        "race_meeting": "Ffos Las",
-        "res": "PLACE",
-        "stake": 0.11,
-        "returned": 0.0
-      },
-      {
-        "horse": "Doujadou",
-        "odds": "11/4",
-        "total": 17,
-        "race_time": "13:38",
-        "race_meeting": "Ffos Las",
-        "res": "WIN",
-        "stake": 0.11,
-        "returned": 0.41
-      },
-      {
-        "horse": "Cinquenta",
-        "odds": "4/9",
-        "total": 15,
-        "race_time": "14:13",
-        "race_meeting": "Ffos Las",
-        "res": "WIN",
-        "stake": 0.11,
-        "returned": 0.16
-      },
-      {
-        "horse": "Blues And Royals",
-        "odds": "5/2",
-        "total": 20,
-        "race_time": "15:15",
-        "race_meeting": "Musselburgh",
-        "res": "PLACE",
-        "stake": 0.11,
-        "returned": 0.0
-      },
-      {
-        "horse": "Boston Joe",
-        "odds": "11/4",
-        "total": 30,
-        "race_time": "15:20",
-        "race_meeting": "Ffos Las",
-        "res": "LOSE",
-        "stake": 0.11,
-        "returned": 0.0
-      },
       {
         "horse": "Bellarchi",
         "odds": "9/2",
@@ -67,16 +18,6 @@
         "res": "WIN",
         "stake": 0.11,
         "returned": 0.6
-      },
-      {
-        "horse": "Sea Force",
-        "odds": "15/8",
-        "total": 20,
-        "race_time": "16:15",
-        "race_meeting": "Musselburgh",
-        "res": "LOSE",
-        "stake": 0.11,
-        "returned": 0.0
       },
       {
         "horse": "Glengolly",

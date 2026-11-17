@@ -1,33 +1,14 @@
 {
   "date": "2026-11-14",
-  "generated": "2026-11-17T07:46:04+00:00",
+  "generated": "2026-11-17T07:54:05+00:00",
   "max": 55,
   "money": {
-    "bank_start": 11.83,
-    "staked": 1.92,
-    "returned": 1.98,
-    "bank_after": 11.89,
+    "bank_start": 16.25,
+    "staked": 1.6,
+    "returned": 1.12,
+    "bank_after": 15.77,
+    "skipped": 6,
     "bets": [
-      {
-        "horse": "The Irish Avatar",
-        "odds": "9/4",
-        "total": 34,
-        "race_time": "11:52",
-        "race_meeting": "Navan",
-        "res": "LOSE",
-        "stake": 0.12,
-        "returned": 0.0
-      },
-      {
-        "horse": "Iconic Elsa",
-        "odds": "14/1",
-        "total": 12,
-        "race_time": "12:20",
-        "race_meeting": "Windsor",
-        "res": "LOSE",
-        "stake": 0.12,
-        "returned": 0.0
-      },
       {
         "horse": "Miners Bridge",
         "odds": "4/1",
@@ -35,7 +16,7 @@
         "race_time": "12:27",
         "race_meeting": "Navan",
         "res": "LOSE",
-        "stake": 0.12,
+        "stake": 0.16,
         "returned": 0.0
       },
       {
@@ -45,7 +26,7 @@
         "race_time": "12:35",
         "race_meeting": "Cheltenham",
         "res": "LOSE",
-        "stake": 0.12,
+        "stake": 0.16,
         "returned": 0.0
       },
       {
@@ -55,7 +36,7 @@
         "race_time": "13:02",
         "race_meeting": "Navan",
         "res": "LOSE",
-        "stake": 0.12,
+        "stake": 0.16,
         "returned": 0.0
       },
       {
@@ -65,18 +46,8 @@
         "race_time": "13:25",
         "race_meeting": "Windsor",
         "res": "LOSE",
-        "stake": 0.12,
+        "stake": 0.16,
         "returned": 0.0
-      },
-      {
-        "horse": "Thinkitdontjinxit",
-        "odds": "2/1",
-        "total": 34,
-        "race_time": "13:35",
-        "race_meeting": "Navan",
-        "res": "WIN",
-        "stake": 0.12,
-        "returned": 0.36
       },
       {
         "horse": "Savanna Storm",
@@ -85,18 +56,8 @@
         "race_time": "13:50",
         "race_meeting": "Uttoxeter",
         "res": "WIN",
-        "stake": 0.12,
-        "returned": 0.84
-      },
-      {
-        "horse": "Barafundle Bay",
-        "odds": "9/4",
-        "total": 19,
-        "race_time": "14:00",
-        "race_meeting": "Windsor",
-        "res": "WIN",
-        "stake": 0.12,
-        "returned": 0.39
+        "stake": 0.16,
+        "returned": 1.12
       },
       {
         "horse": "Blueking D'oroux",
@@ -105,7 +66,7 @@
         "race_time": "14:20",
         "race_meeting": "Cheltenham",
         "res": "PLACE",
-        "stake": 0.12,
+        "stake": 0.16,
         "returned": 0.0
       },
       {
@@ -115,7 +76,7 @@
         "race_time": "14:55",
         "race_meeting": "Cheltenham",
         "res": "LOSE",
-        "stake": 0.12,
+        "stake": 0.16,
         "returned": 0.0
       },
       {
@@ -125,7 +86,7 @@
         "race_time": "15:10",
         "race_meeting": "Windsor",
         "res": "LOSE",
-        "stake": 0.12,
+        "stake": 0.16,
         "returned": 0.0
       },
       {
@@ -135,17 +96,7 @@
         "race_time": "15:35",
         "race_meeting": "Uttoxeter",
         "res": "LOSE",
-        "stake": 0.12,
-        "returned": 0.0
-      },
-      {
-        "horse": "Waverley",
-        "odds": "2/1",
-        "total": 14,
-        "race_time": "15:45",
-        "race_meeting": "Windsor",
-        "res": "PLACE",
-        "stake": 0.12,
+        "stake": 0.16,
         "returned": 0.0
       },
       {
@@ -155,18 +106,8 @@
         "race_time": "15:53",
         "race_meeting": "Navan",
         "res": "LOSE",
-        "stake": 0.12,
+        "stake": 0.16,
         "returned": 0.0
-      },
-      {
-        "horse": "Elegantemente",
-        "odds": "9/4",
-        "total": 30,
-        "race_time": "16:00",
-        "race_meeting": "Cheltenham",
-        "res": "WIN",
-        "stake": 0.12,
-        "returned": 0.39
       }
     ]
   },

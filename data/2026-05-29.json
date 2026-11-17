@@ -1,12 +1,13 @@
 {
   "date": "2026-05-29",
-  "generated": "2026-11-17T07:46:02+00:00",
+  "generated": "2026-11-17T07:54:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 14.28,
-    "staked": 0.56,
-    "returned": 0.96,
-    "bank_after": 14.68,
+    "bank_start": 14.78,
+    "staked": 0.3,
+    "returned": 0.6,
+    "bank_after": 15.08,
+    "skipped": 2,
     "bets": [
       {
         "horse": "Oasis Sunrise",
@@ -15,28 +16,8 @@
         "race_time": "13:00",
         "race_meeting": "Chepstow",
         "res": "WIN",
-        "stake": 0.14,
-        "returned": 0.56
-      },
-      {
-        "horse": "Regulus Black",
-        "odds": "15/8",
-        "total": 20,
-        "race_time": "13:30",
-        "race_meeting": "Chepstow",
-        "res": "WIN",
-        "stake": 0.14,
-        "returned": 0.4
-      },
-      {
-        "horse": "Alfaraz",
-        "odds": "10/11",
-        "total": 15,
-        "race_time": "14:00",
-        "race_meeting": "Chepstow",
-        "res": "LOSE",
-        "stake": 0.14,
-        "returned": 0.0
+        "stake": 0.15,
+        "returned": 0.6
       },
       {
         "horse": "Romanovich",
@@ -45,7 +26,7 @@
         "race_time": "16:10",
         "race_meeting": "Chepstow",
         "res": "LOSE",
-        "stake": 0.14,
+        "stake": 0.15,
         "returned": 0.0
       }
     ]

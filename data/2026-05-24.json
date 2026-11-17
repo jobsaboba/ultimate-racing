@@ -1,23 +1,14 @@
 {
   "date": "2026-05-24",
-  "generated": "2026-11-17T07:46:02+00:00",
+  "generated": "2026-11-17T07:54:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 13.33,
-    "staked": 0.26,
-    "returned": 0.98,
-    "bank_after": 14.05,
+    "bank_start": 13.87,
+    "staked": 0.14,
+    "returned": 1.05,
+    "bank_after": 14.78,
+    "skipped": 1,
     "bets": [
-      {
-        "horse": "Chemistry",
-        "odds": "4/9",
-        "total": 15,
-        "race_time": "13:28",
-        "race_meeting": "Kelso",
-        "res": "PLACE",
-        "stake": 0.13,
-        "returned": 0.0
-      },
       {
         "horse": "Heart Above",
         "odds": "13/2",
@@ -25,8 +16,8 @@
         "race_time": "14:37",
         "race_meeting": "Kelso",
         "res": "WIN",
-        "stake": 0.13,
-        "returned": 0.98
+        "stake": 0.14,
+        "returned": 1.05
       }
     ]
   },

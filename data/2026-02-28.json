@@ -1,23 +1,14 @@
 {
   "date": "2026-02-28",
-  "generated": "2026-11-17T07:46:01+00:00",
+  "generated": "2026-11-17T07:54:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 9.86,
-    "staked": 0.3,
-    "returned": 0.41,
-    "bank_after": 9.97,
+    "bank_start": 9.81,
+    "staked": 0.1,
+    "returned": 0.0,
+    "bank_after": 9.71,
+    "skipped": 2,
     "bets": [
-      {
-        "horse": "Doyen Du Bar",
-        "odds": "2/1",
-        "total": 19,
-        "race_time": "13:10",
-        "race_meeting": "Kelso",
-        "res": "WIN",
-        "stake": 0.1,
-        "returned": 0.3
-      },
       {
         "horse": "Spectacularsunrise",
         "odds": "3/1",
@@ -27,16 +18,6 @@
         "res": "LOSE",
         "stake": 0.1,
         "returned": 0.0
-      },
-      {
-        "horse": "A Path To Ronda",
-        "odds": "1/10",
-        "total": 20,
-        "race_time": "16:35",
-        "race_meeting": "Kelso",
-        "res": "WIN",
-        "stake": 0.1,
-        "returned": 0.11
       }
     ]
   },

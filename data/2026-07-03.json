@@ -1,34 +1,14 @@
 {
   "date": "2026-07-03",
-  "generated": "2026-11-17T07:46:02+00:00",
+  "generated": "2026-11-17T07:54:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 12.76,
-    "staked": 0.26,
-    "returned": 0.33,
-    "bank_after": 12.83,
-    "bets": [
-      {
-        "horse": "Darkened Edge",
-        "odds": "6/4",
-        "total": 25,
-        "race_time": "17:45",
-        "race_meeting": "Chepstow",
-        "res": "WIN",
-        "stake": 0.13,
-        "returned": 0.33
-      },
-      {
-        "horse": "Moscow Power",
-        "odds": "11/8",
-        "total": 20,
-        "race_time": "18:53",
-        "race_meeting": "Chepstow",
-        "res": "LOSE",
-        "stake": 0.13,
-        "returned": 0.0
-      }
-    ]
+    "bank_start": 14.44,
+    "staked": 0,
+    "returned": 0,
+    "bank_after": 14.44,
+    "skipped": 2,
+    "bets": []
   },
   "sources": {
     "timeform": "ok",

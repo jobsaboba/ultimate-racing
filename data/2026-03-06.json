@@ -1,24 +1,14 @@
 {
   "date": "2026-03-06",
-  "generated": "2026-11-17T07:46:01+00:00",
+  "generated": "2026-11-17T07:54:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 9.87,
-    "staked": 0.1,
-    "returned": 0.0,
-    "bank_after": 9.77,
-    "bets": [
-      {
-        "horse": "Largy Go",
-        "odds": "8/13",
-        "total": 15,
-        "race_time": "15:20",
-        "race_meeting": "Ayr",
-        "res": "PLACE",
-        "stake": 0.1,
-        "returned": 0.0
-      }
-    ]
+    "bank_start": 9.71,
+    "staked": 0,
+    "returned": 0,
+    "bank_after": 9.71,
+    "skipped": 1,
+    "bets": []
   },
   "sources": {
     "timeform": "ok",

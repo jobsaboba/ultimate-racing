@@ -1,33 +1,14 @@
 {
   "date": "2026-10-08",
-  "generated": "2026-11-17T07:46:03+00:00",
+  "generated": "2026-11-17T07:54:04+00:00",
   "max": 55,
   "money": {
-    "bank_start": 11.71,
-    "staked": 0.6,
-    "returned": 0.36,
-    "bank_after": 11.47,
+    "bank_start": 16.12,
+    "staked": 0.32,
+    "returned": 0.0,
+    "bank_after": 15.8,
+    "skipped": 3,
     "bets": [
-      {
-        "horse": "Royal Blaze",
-        "odds": "28/1",
-        "total": 18,
-        "race_time": "12:45",
-        "race_meeting": "Ayr",
-        "res": "LOSE",
-        "stake": 0.12,
-        "returned": 0.0
-      },
-      {
-        "horse": "Launch Time",
-        "odds": "2/1",
-        "total": 20,
-        "race_time": "13:55",
-        "race_meeting": "Ayr",
-        "res": "WIN",
-        "stake": 0.12,
-        "returned": 0.36
-      },
       {
         "horse": "Eye Of Dubai",
         "odds": "10/3",
@@ -35,17 +16,7 @@
         "race_time": "14:30",
         "race_meeting": "Ayr",
         "res": "PLACE",
-        "stake": 0.12,
-        "returned": 0.0
-      },
-      {
-        "horse": "Empirestateofmind",
-        "odds": "11/8",
-        "total": 23,
-        "race_time": "15:05",
-        "race_meeting": "Ayr",
-        "res": "PLACE",
-        "stake": 0.12,
+        "stake": 0.16,
         "returned": 0.0
       },
       {
@@ -55,7 +26,7 @@
         "race_time": "15:38",
         "race_meeting": "Ayr",
         "res": "LOSE",
-        "stake": 0.12,
+        "stake": 0.16,
         "returned": 0.0
       }
     ]

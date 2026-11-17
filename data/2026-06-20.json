@@ -1,23 +1,14 @@
 {
   "date": "2026-06-20",
-  "generated": "2026-11-17T07:46:02+00:00",
+  "generated": "2026-11-17T07:54:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 11.9,
-    "staked": 0.72,
-    "returned": 0.85,
-    "bank_after": 12.03,
+    "bank_start": 13.37,
+    "staked": 0.26,
+    "returned": 0.65,
+    "bank_after": 13.76,
+    "skipped": 4,
     "bets": [
-      {
-        "horse": "Ski Angel",
-        "odds": "6/5",
-        "total": 25,
-        "race_time": "13:18",
-        "race_meeting": "Ayr",
-        "res": "PLACE",
-        "stake": 0.12,
-        "returned": 0.0
-      },
       {
         "horse": "Square Necker",
         "odds": "4/1",
@@ -25,38 +16,8 @@
         "race_time": "13:53",
         "race_meeting": "Ayr",
         "res": "WIN",
-        "stake": 0.12,
-        "returned": 0.6
-      },
-      {
-        "horse": "Lope Y Linda",
-        "odds": "11/10",
-        "total": 19,
-        "race_time": "14:28",
-        "race_meeting": "Ayr",
-        "res": "WIN",
-        "stake": 0.12,
-        "returned": 0.25
-      },
-      {
-        "horse": "Beautiful Diamond",
-        "odds": "11/8",
-        "total": 25,
-        "race_time": "15:08",
-        "race_meeting": "Ayr",
-        "res": "PLACE",
-        "stake": 0.12,
-        "returned": 0.0
-      },
-      {
-        "horse": "Milford Grange",
-        "odds": "7/4",
-        "total": 15,
-        "race_time": "15:48",
-        "race_meeting": "Ayr",
-        "res": "PLACE",
-        "stake": 0.12,
-        "returned": 0.0
+        "stake": 0.13,
+        "returned": 0.65
       },
       {
         "horse": "Eternal Sunshine",
@@ -65,7 +26,7 @@
         "race_time": "16:23",
         "race_meeting": "Ayr",
         "res": "LOSE",
-        "stake": 0.12,
+        "stake": 0.13,
         "returned": 0.0
       }
     ]

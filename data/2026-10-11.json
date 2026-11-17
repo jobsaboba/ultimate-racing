@@ -1,54 +1,14 @@
 {
   "date": "2026-10-11",
-  "generated": "2026-11-17T07:46:03+00:00",
+  "generated": "2026-11-17T07:54:04+00:00",
   "max": 55,
   "money": {
-    "bank_start": 11.31,
-    "staked": 0.44,
-    "returned": 1.0,
-    "bank_after": 11.87,
-    "bets": [
-      {
-        "horse": "Ugo Bingo",
-        "odds": "6/4",
-        "total": 20,
-        "race_time": "13:02",
-        "race_meeting": "Chepstow",
-        "res": "WIN",
-        "stake": 0.11,
-        "returned": 0.28
-      },
-      {
-        "horse": "Harbour Light",
-        "odds": "2/1",
-        "total": 15,
-        "race_time": "14:12",
-        "race_meeting": "Chepstow",
-        "res": "WIN",
-        "stake": 0.11,
-        "returned": 0.33
-      },
-      {
-        "horse": "Jury's In",
-        "odds": "9/4",
-        "total": 23,
-        "race_time": "14:47",
-        "race_meeting": "Chepstow",
-        "res": "LOSE",
-        "stake": 0.11,
-        "returned": 0.0
-      },
-      {
-        "horse": "Gower Prince",
-        "odds": "5/2",
-        "total": 23,
-        "race_time": "15:22",
-        "race_meeting": "Chepstow",
-        "res": "WIN",
-        "stake": 0.11,
-        "returned": 0.39
-      }
-    ]
+    "bank_start": 15.8,
+    "staked": 0,
+    "returned": 0,
+    "bank_after": 15.8,
+    "skipped": 4,
+    "bets": []
   },
   "sources": {
     "timeform": "ok",

@@ -1,12 +1,13 @@
 {
   "date": "2026-09-02",
-  "generated": "2026-11-17T07:46:03+00:00",
+  "generated": "2026-11-17T07:54:04+00:00",
   "max": 55,
   "money": {
-    "bank_start": 13.56,
-    "staked": 0.84,
-    "returned": 0.42,
-    "bank_after": 13.14,
+    "bank_start": 17.25,
+    "staked": 0.51,
+    "returned": 0.0,
+    "bank_after": 16.74,
+    "skipped": 3,
     "bets": [
       {
         "horse": "Iris Dancer",
@@ -15,27 +16,7 @@
         "race_time": "16:20",
         "race_meeting": "Hamilton",
         "res": "LOSE",
-        "stake": 0.14,
-        "returned": 0.0
-      },
-      {
-        "horse": "Perseus Way",
-        "odds": "2/1",
-        "total": 27,
-        "race_time": "16:50",
-        "race_meeting": "Hamilton",
-        "res": "WIN",
-        "stake": 0.14,
-        "returned": 0.42
-      },
-      {
-        "horse": "Harley",
-        "odds": "9/4",
-        "total": 21,
-        "race_time": "17:20",
-        "race_meeting": "Hamilton",
-        "res": "LOSE",
-        "stake": 0.14,
+        "stake": 0.17,
         "returned": 0.0
       },
       {
@@ -45,7 +26,7 @@
         "race_time": "17:50",
         "race_meeting": "Hamilton",
         "res": "LOSE",
-        "stake": 0.14,
+        "stake": 0.17,
         "returned": 0.0
       },
       {
@@ -55,17 +36,7 @@
         "race_time": "18:20",
         "race_meeting": "Hamilton",
         "res": "LOSE",
-        "stake": 0.14,
-        "returned": 0.0
-      },
-      {
-        "horse": "Annandale",
-        "odds": "5/2",
-        "total": 30,
-        "race_time": "18:50",
-        "race_meeting": "Hamilton",
-        "res": "LOSE",
-        "stake": 0.14,
+        "stake": 0.17,
         "returned": 0.0
       }
     ]

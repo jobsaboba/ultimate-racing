@@ -1,12 +1,13 @@
 {
   "date": "2026-10-14",
-  "generated": "2026-11-17T07:46:03+00:00",
+  "generated": "2026-11-17T07:54:04+00:00",
   "max": 55,
   "money": {
-    "bank_start": 11.59,
-    "staked": 0.12,
+    "bank_start": 15.48,
+    "staked": 0.15,
     "returned": 0.0,
-    "bank_after": 11.47,
+    "bank_after": 15.33,
+    "skipped": 0,
     "bets": [
       {
         "horse": "Il Est Francais",
@@ -15,7 +16,7 @@
         "race_time": "15:38",
         "race_meeting": "Ffos Las",
         "res": "LOSE",
-        "stake": 0.12,
+        "stake": 0.15,
         "returned": 0.0
       }
     ]

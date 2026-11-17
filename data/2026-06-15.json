@@ -1,23 +1,14 @@
 {
   "date": "2026-06-15",
-  "generated": "2026-11-17T07:46:02+00:00",
+  "generated": "2026-11-17T07:54:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 13.33,
-    "staked": 0.52,
-    "returned": 0.39,
-    "bank_after": 13.2,
+    "bank_start": 14.49,
+    "staked": 0.42,
+    "returned": 0.0,
+    "bank_after": 14.07,
+    "skipped": 1,
     "bets": [
-      {
-        "horse": "Pride Of Nepal",
-        "odds": "2/1",
-        "total": 20,
-        "race_time": "12:50",
-        "race_meeting": "Chepstow",
-        "res": "WIN",
-        "stake": 0.13,
-        "returned": 0.39
-      },
       {
         "horse": "San Francisco Bay",
         "odds": "9/2",
@@ -25,7 +16,7 @@
         "race_time": "13:20",
         "race_meeting": "Chepstow",
         "res": "LOSE",
-        "stake": 0.13,
+        "stake": 0.14,
         "returned": 0.0
       },
       {
@@ -35,7 +26,7 @@
         "race_time": "16:05",
         "race_meeting": "Chepstow",
         "res": "LOSE",
-        "stake": 0.13,
+        "stake": 0.14,
         "returned": 0.0
       },
       {
@@ -45,7 +36,7 @@
         "race_time": "16:35",
         "race_meeting": "Chepstow",
         "res": "PLACE",
-        "stake": 0.13,
+        "stake": 0.14,
         "returned": 0.0
       }
     ]

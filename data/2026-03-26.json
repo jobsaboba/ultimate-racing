@@ -1,12 +1,13 @@
 {
   "date": "2026-03-26",
-  "generated": "2026-11-17T07:46:01+00:00",
+  "generated": "2026-11-17T07:54:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 9.8,
-    "staked": 0.4,
-    "returned": 0.8,
-    "bank_after": 10.2,
+    "bank_start": 9.64,
+    "staked": 0.2,
+    "returned": 0.6,
+    "bank_after": 10.04,
+    "skipped": 2,
     "bets": [
       {
         "horse": "Tom Taggle",
@@ -27,26 +28,6 @@
         "res": "WIN",
         "stake": 0.1,
         "returned": 0.6
-      },
-      {
-        "horse": "Crystello",
-        "odds": "6/4",
-        "total": 20,
-        "race_time": "16:50",
-        "race_meeting": "Chepstow",
-        "res": "LOSE",
-        "stake": 0.1,
-        "returned": 0.0
-      },
-      {
-        "horse": "Stick To The Board",
-        "odds": "1/1",
-        "total": 15,
-        "race_time": "17:20",
-        "race_meeting": "Chepstow",
-        "res": "WIN",
-        "stake": 0.1,
-        "returned": 0.2
       }
     ]
   },

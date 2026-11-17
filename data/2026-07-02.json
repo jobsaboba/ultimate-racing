@@ -1,23 +1,14 @@
 {
   "date": "2026-07-02",
-  "generated": "2026-11-17T07:46:02+00:00",
+  "generated": "2026-11-17T07:54:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 12.09,
-    "staked": 0.36,
-    "returned": 1.03,
-    "bank_after": 12.76,
+    "bank_start": 13.81,
+    "staked": 0.28,
+    "returned": 0.91,
+    "bank_after": 14.44,
+    "skipped": 1,
     "bets": [
-      {
-        "horse": "Scriabin",
-        "odds": "11/10",
-        "total": 14,
-        "race_time": "13:18",
-        "race_meeting": "Perth",
-        "res": "WIN",
-        "stake": 0.12,
-        "returned": 0.25
-      },
       {
         "horse": "Malangen",
         "odds": "9/2",
@@ -25,7 +16,7 @@
         "race_time": "14:50",
         "race_meeting": "Perth",
         "res": "LOSE",
-        "stake": 0.12,
+        "stake": 0.14,
         "returned": 0.0
       },
       {
@@ -35,8 +26,8 @@
         "race_time": "16:00",
         "race_meeting": "Perth",
         "res": "WIN",
-        "stake": 0.12,
-        "returned": 0.78
+        "stake": 0.14,
+        "returned": 0.91
       }
     ]
   },

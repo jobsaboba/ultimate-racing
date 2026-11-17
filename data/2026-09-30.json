@@ -1,23 +1,14 @@
 {
   "date": "2026-09-30",
-  "generated": "2026-11-17T07:46:03+00:00",
+  "generated": "2026-11-17T07:54:04+00:00",
   "max": 55,
   "money": {
-    "bank_start": 12.07,
-    "staked": 0.36,
+    "bank_start": 16.44,
+    "staked": 0.32,
     "returned": 0.0,
-    "bank_after": 11.71,
+    "bank_after": 16.12,
+    "skipped": 1,
     "bets": [
-      {
-        "horse": "Kelpie Grey",
-        "odds": "11/8",
-        "total": 23,
-        "race_time": "13:48",
-        "race_meeting": "Musselburgh",
-        "res": "PLACE",
-        "stake": 0.12,
-        "returned": 0.0
-      },
       {
         "horse": "Inns And Out",
         "odds": "11/2",
@@ -25,7 +16,7 @@
         "race_time": "14:23",
         "race_meeting": "Musselburgh",
         "res": "LOSE",
-        "stake": 0.12,
+        "stake": 0.16,
         "returned": 0.0
       },
       {
@@ -35,7 +26,7 @@
         "race_time": "14:58",
         "race_meeting": "Musselburgh",
         "res": "LOSE",
-        "stake": 0.12,
+        "stake": 0.16,
         "returned": 0.0
       }
     ]

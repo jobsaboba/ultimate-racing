@@ -1,12 +1,13 @@
 {
   "date": "2026-08-15",
-  "generated": "2026-11-17T07:46:02+00:00",
+  "generated": "2026-11-17T07:54:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 15.04,
-    "staked": 0.3,
-    "returned": 0.67,
-    "bank_after": 15.41,
+    "bank_start": 17.04,
+    "staked": 0.34,
+    "returned": 0.77,
+    "bank_after": 17.47,
+    "skipped": 0,
     "bets": [
       {
         "horse": "Follow Charlie",
@@ -15,8 +16,8 @@
         "race_time": "13:50",
         "race_meeting": "Perth",
         "res": "WIN",
-        "stake": 0.15,
-        "returned": 0.67
+        "stake": 0.17,
+        "returned": 0.77
       },
       {
         "horse": "The Last Cloud",
@@ -25,7 +26,7 @@
         "race_time": "15:05",
         "race_meeting": "Perth",
         "res": "LOSE",
-        "stake": 0.15,
+        "stake": 0.17,
         "returned": 0.0
       }
     ]

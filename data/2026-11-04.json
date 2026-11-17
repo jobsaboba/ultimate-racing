@@ -1,12 +1,13 @@
 {
   "date": "2026-11-04",
-  "generated": "2026-11-17T07:46:03+00:00",
+  "generated": "2026-11-17T07:54:04+00:00",
   "max": 55,
   "money": {
-    "bank_start": 10.97,
-    "staked": 1.32,
-    "returned": 0.8,
-    "bank_after": 10.45,
+    "bank_start": 14.93,
+    "staked": 1.35,
+    "returned": 0.6,
+    "bank_after": 14.18,
+    "skipped": 3,
     "bets": [
       {
         "horse": "Wen Moon",
@@ -15,37 +16,7 @@
         "race_time": "12:05",
         "race_meeting": "Musselburgh",
         "res": "LOSE",
-        "stake": 0.11,
-        "returned": 0.0
-      },
-      {
-        "horse": "Red Acres Max",
-        "odds": "5/6",
-        "total": 15,
-        "race_time": "12:51",
-        "race_meeting": "Chepstow",
-        "res": "PLACE",
-        "stake": 0.11,
-        "returned": 0.0
-      },
-      {
-        "horse": "Flying Moonlight",
-        "odds": "9/4",
-        "total": 15,
-        "race_time": "13:10",
-        "race_meeting": "Musselburgh",
-        "res": "WIN",
-        "stake": 0.11,
-        "returned": 0.36
-      },
-      {
-        "horse": "Order On Time",
-        "odds": "1/2",
-        "total": 25,
-        "race_time": "13:25",
-        "race_meeting": "Chepstow",
-        "res": "PLACE",
-        "stake": 0.11,
+        "stake": 0.15,
         "returned": 0.0
       },
       {
@@ -55,7 +26,7 @@
         "race_time": "13:42",
         "race_meeting": "Musselburgh",
         "res": "LOSE",
-        "stake": 0.11,
+        "stake": 0.15,
         "returned": 0.0
       },
       {
@@ -65,7 +36,7 @@
         "race_time": "13:58",
         "race_meeting": "Chepstow",
         "res": "LOSE",
-        "stake": 0.11,
+        "stake": 0.15,
         "returned": 0.0
       },
       {
@@ -75,7 +46,7 @@
         "race_time": "14:15",
         "race_meeting": "Musselburgh",
         "res": "LOSE",
-        "stake": 0.11,
+        "stake": 0.15,
         "returned": 0.0
       },
       {
@@ -85,7 +56,7 @@
         "race_time": "14:45",
         "race_meeting": "Musselburgh",
         "res": "PLACE",
-        "stake": 0.11,
+        "stake": 0.15,
         "returned": 0.0
       },
       {
@@ -95,8 +66,8 @@
         "race_time": "15:17",
         "race_meeting": "Musselburgh",
         "res": "WIN",
-        "stake": 0.11,
-        "returned": 0.44
+        "stake": 0.15,
+        "returned": 0.6
       },
       {
         "horse": "Gimarias",
@@ -105,7 +76,7 @@
         "race_time": "15:40",
         "race_meeting": "Chepstow",
         "res": "PLACE",
-        "stake": 0.11,
+        "stake": 0.15,
         "returned": 0.0
       },
       {
@@ -115,7 +86,7 @@
         "race_time": "15:50",
         "race_meeting": "Musselburgh",
         "res": "LOSE",
-        "stake": 0.11,
+        "stake": 0.15,
         "returned": 0.0
       },
       {
@@ -125,7 +96,7 @@
         "race_time": "16:10",
         "race_meeting": "Chepstow",
         "res": "PLACE",
-        "stake": 0.11,
+        "stake": 0.15,
         "returned": 0.0
       }
     ]

@@ -1,34 +1,14 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-11-17T07:46:02+00:00",
+  "generated": "2026-11-17T07:54:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 12.03,
-    "staked": 0.24,
-    "returned": 0.0,
-    "bank_after": 11.79,
-    "bets": [
-      {
-        "horse": "Qazaq",
-        "odds": "9/4",
-        "total": 25,
-        "race_time": "14:15",
-        "race_meeting": "Musselburgh",
-        "res": "PLACE",
-        "stake": 0.12,
-        "returned": 0.0
-      },
-      {
-        "horse": "Wee Mary",
-        "odds": "5/6",
-        "total": 30,
-        "race_time": "15:15",
-        "race_meeting": "Musselburgh",
-        "res": "PLACE",
-        "stake": 0.12,
-        "returned": 0.0
-      }
-    ]
+    "bank_start": 13.76,
+    "staked": 0,
+    "returned": 0,
+    "bank_after": 13.76,
+    "skipped": 2,
+    "bets": []
   },
   "sources": {
     "timeform": "ok",

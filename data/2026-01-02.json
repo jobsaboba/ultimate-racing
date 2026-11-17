@@ -1,33 +1,14 @@
 {
   "date": "2026-01-02",
-  "generated": "2026-11-17T07:46:01+00:00",
+  "generated": "2026-11-17T07:54:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 9.98,
-    "staked": 0.6,
-    "returned": 1.73,
-    "bank_after": 11.11,
+    "bank_start": 9.9,
+    "staked": 0.4,
+    "returned": 1.35,
+    "bank_after": 10.85,
+    "skipped": 2,
     "bets": [
-      {
-        "horse": "Kings Champion",
-        "odds": "11/4",
-        "total": 15,
-        "race_time": "12:30",
-        "race_meeting": "Ayr",
-        "res": "WIN",
-        "stake": 0.1,
-        "returned": 0.38
-      },
-      {
-        "horse": "Wilstar",
-        "odds": "5/6",
-        "total": 20,
-        "race_time": "13:00",
-        "race_meeting": "Ayr",
-        "res": "PLACE",
-        "stake": 0.1,
-        "returned": 0.0
-      },
       {
         "horse": "So Many Roads",
         "odds": "4/1",

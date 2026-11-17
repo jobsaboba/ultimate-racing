@@ -1,74 +1,14 @@
 {
   "date": "2026-04-02",
-  "generated": "2026-11-17T07:46:01+00:00",
+  "generated": "2026-11-17T07:54:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 10.39,
-    "staked": 0.6,
-    "returned": 0.34,
-    "bank_after": 10.13,
-    "bets": [
-      {
-        "horse": "Hurricane Pat",
-        "odds": "2/9",
-        "total": 24,
-        "race_time": "13:30",
-        "race_meeting": "Chepstow",
-        "res": "WIN",
-        "stake": 0.1,
-        "returned": 0.12
-      },
-      {
-        "horse": "Word For Word",
-        "odds": "13/8",
-        "total": 30,
-        "race_time": "13:40",
-        "race_meeting": "Kelso",
-        "res": "LOSE",
-        "stake": 0.1,
-        "returned": 0.0
-      },
-      {
-        "horse": "Parish Star",
-        "odds": "15/8",
-        "total": 20,
-        "race_time": "14:10",
-        "race_meeting": "Kelso",
-        "res": "PLACE",
-        "stake": 0.1,
-        "returned": 0.0
-      },
-      {
-        "horse": "Marlacoo",
-        "odds": "9/4",
-        "total": 18,
-        "race_time": "15:07",
-        "race_meeting": "Chepstow",
-        "res": "LOSE",
-        "stake": 0.1,
-        "returned": 0.0
-      },
-      {
-        "horse": "The Italian Fox",
-        "odds": "4/11",
-        "total": 30,
-        "race_time": "15:39",
-        "race_meeting": "Chepstow",
-        "res": "PLACE",
-        "stake": 0.1,
-        "returned": 0.0
-      },
-      {
-        "horse": "Order On Time",
-        "odds": "6/5",
-        "total": 14,
-        "race_time": "16:15",
-        "race_meeting": "Chepstow",
-        "res": "WIN",
-        "stake": 0.1,
-        "returned": 0.22
-      }
-    ]
+    "bank_start": 9.94,
+    "staked": 0,
+    "returned": 0,
+    "bank_after": 9.94,
+    "skipped": 6,
+    "bets": []
   },
   "sources": {
     "timeform": "ok",

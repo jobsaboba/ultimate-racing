@@ -1,33 +1,14 @@
 {
   "date": "2026-03-31",
-  "generated": "2026-11-17T07:46:01+00:00",
+  "generated": "2026-11-17T07:54:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 10.2,
-    "staked": 0.3,
-    "returned": 0.49,
-    "bank_after": 10.39,
+    "bank_start": 10.04,
+    "staked": 0.1,
+    "returned": 0.0,
+    "bank_after": 9.94,
+    "skipped": 2,
     "bets": [
-      {
-        "horse": "Coumeenoole",
-        "odds": "15/8",
-        "total": 14,
-        "race_time": "13:45",
-        "race_meeting": "Bangor-on-Dee",
-        "res": "WIN",
-        "stake": 0.1,
-        "returned": 0.29
-      },
-      {
-        "horse": "Palamon",
-        "odds": "1/1",
-        "total": 13,
-        "race_time": "14:50",
-        "race_meeting": "Bangor-on-Dee",
-        "res": "WIN",
-        "stake": 0.1,
-        "returned": 0.2
-      },
       {
         "horse": "Good Work",
         "odds": "9/2",

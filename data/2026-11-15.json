@@ -1,33 +1,14 @@
 {
   "date": "2026-11-15",
-  "generated": "2026-11-17T07:46:04+00:00",
+  "generated": "2026-11-17T07:54:05+00:00",
   "max": 55,
   "money": {
-    "bank_start": 11.89,
-    "staked": 1.2,
-    "returned": 1.6,
-    "bank_after": 12.29,
+    "bank_start": 15.77,
+    "staked": 0.8,
+    "returned": 1.92,
+    "bank_after": 16.89,
+    "skipped": 5,
     "bets": [
-      {
-        "horse": "Norman Prince",
-        "odds": "5/2",
-        "total": 27,
-        "race_time": "11:40",
-        "race_meeting": "Navan",
-        "res": "LOSE",
-        "stake": 0.12,
-        "returned": 0.0
-      },
-      {
-        "horse": "La Valserine",
-        "odds": "5/2",
-        "total": 27,
-        "race_time": "12:10",
-        "race_meeting": "Navan",
-        "res": "PLACE",
-        "stake": 0.12,
-        "returned": 0.0
-      },
       {
         "horse": "Crypto Crash",
         "odds": "5/1",
@@ -35,8 +16,8 @@
         "race_time": "12:40",
         "race_meeting": "Navan",
         "res": "WIN",
-        "stake": 0.12,
-        "returned": 0.72
+        "stake": 0.16,
+        "returned": 0.96
       },
       {
         "horse": "Wolf Rayet",
@@ -45,18 +26,8 @@
         "race_time": "12:50",
         "race_meeting": "Cheltenham",
         "res": "PLACE",
-        "stake": 0.12,
+        "stake": 0.16,
         "returned": 0.0
-      },
-      {
-        "horse": "Bass Hunter",
-        "odds": "4/11",
-        "total": 15,
-        "race_time": "13:43",
-        "race_meeting": "Fontwell",
-        "res": "WIN",
-        "stake": 0.12,
-        "returned": 0.16
       },
       {
         "horse": "Sa Fureur",
@@ -65,7 +36,7 @@
         "race_time": "13:50",
         "race_meeting": "Navan",
         "res": "LOSE",
-        "stake": 0.12,
+        "stake": 0.16,
         "returned": 0.0
       },
       {
@@ -75,8 +46,8 @@
         "race_time": "15:00",
         "race_meeting": "Navan",
         "res": "WIN",
-        "stake": 0.12,
-        "returned": 0.72
+        "stake": 0.16,
+        "returned": 0.96
       },
       {
         "horse": "Let It Rain",
@@ -85,27 +56,7 @@
         "race_time": "15:10",
         "race_meeting": "Cheltenham",
         "res": "PLACE",
-        "stake": 0.12,
-        "returned": 0.0
-      },
-      {
-        "horse": "Sarahs Lawn",
-        "odds": "13/8",
-        "total": 20,
-        "race_time": "15:35",
-        "race_meeting": "Navan",
-        "res": "PLACE",
-        "stake": 0.12,
-        "returned": 0.0
-      },
-      {
-        "horse": "New Grange",
-        "odds": "11/4",
-        "total": 23,
-        "race_time": "15:45",
-        "race_meeting": "Cheltenham",
-        "res": "LOSE",
-        "stake": 0.12,
+        "stake": 0.16,
         "returned": 0.0
       }
     ]

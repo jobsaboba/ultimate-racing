@@ -1,12 +1,13 @@
 {
   "date": "2026-04-17",
-  "generated": "2026-11-17T07:46:01+00:00",
+  "generated": "2026-11-17T07:54:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 11.09,
-    "staked": 0.44,
-    "returned": 0.39,
-    "bank_after": 11.04,
+    "bank_start": 11.24,
+    "staked": 0.22,
+    "returned": 0.0,
+    "bank_after": 11.02,
+    "skipped": 2,
     "bets": [
       {
         "horse": "Lance Les Des",
@@ -15,26 +16,6 @@
         "race_time": "12:45",
         "race_meeting": "Ayr",
         "res": "PLACE",
-        "stake": 0.11,
-        "returned": 0.0
-      },
-      {
-        "horse": "Dropematthestation",
-        "odds": "5/2",
-        "total": 14,
-        "race_time": "13:55",
-        "race_meeting": "Ayr",
-        "res": "WIN",
-        "stake": 0.11,
-        "returned": 0.39
-      },
-      {
-        "horse": "Hoe Joly Smoke",
-        "odds": "9/4",
-        "total": 18,
-        "race_time": "14:30",
-        "race_meeting": "Ayr",
-        "res": "LOSE",
         "stake": 0.11,
         "returned": 0.0
       },

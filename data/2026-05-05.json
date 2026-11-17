@@ -1,23 +1,14 @@
 {
   "date": "2026-05-05",
-  "generated": "2026-11-17T07:46:02+00:00",
+  "generated": "2026-11-17T07:54:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 11.08,
-    "staked": 0.44,
-    "returned": 1.04,
-    "bank_after": 11.68,
+    "bank_start": 11.97,
+    "staked": 0.36,
+    "returned": 1.14,
+    "bank_after": 12.75,
+    "skipped": 1,
     "bets": [
-      {
-        "horse": "Harb",
-        "odds": "5/2",
-        "total": 23,
-        "race_time": "13:30",
-        "race_meeting": "Ayr",
-        "res": "LOSE",
-        "stake": 0.11,
-        "returned": 0.0
-      },
       {
         "horse": "Uncle Remus",
         "odds": "7/2",
@@ -25,7 +16,7 @@
         "race_time": "13:48",
         "race_meeting": "Ffos Las",
         "res": "LOSE",
-        "stake": 0.11,
+        "stake": 0.12,
         "returned": 0.0
       },
       {
@@ -35,8 +26,8 @@
         "race_time": "14:30",
         "race_meeting": "Ayr",
         "res": "WIN",
-        "stake": 0.11,
-        "returned": 0.55
+        "stake": 0.12,
+        "returned": 0.6
       },
       {
         "horse": "Lion Of The Desert",
@@ -45,8 +36,8 @@
         "race_time": "15:48",
         "race_meeting": "Ffos Las",
         "res": "WIN",
-        "stake": 0.11,
-        "returned": 0.49
+        "stake": 0.12,
+        "returned": 0.54
       }
     ]
   },

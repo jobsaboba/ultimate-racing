@@ -1,23 +1,14 @@
 {
   "date": "2026-08-18",
-  "generated": "2026-11-17T07:46:02+00:00",
+  "generated": "2026-11-17T07:54:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 15.41,
-    "staked": 0.45,
-    "returned": 0.33,
-    "bank_after": 15.29,
+    "bank_start": 17.47,
+    "staked": 0.17,
+    "returned": 0.0,
+    "bank_after": 17.3,
+    "skipped": 2,
     "bets": [
-      {
-        "horse": "Soeur De Flash",
-        "odds": "2/1",
-        "total": 15,
-        "race_time": "13:45",
-        "race_meeting": "Chepstow",
-        "res": "PLACE",
-        "stake": 0.15,
-        "returned": 0.0
-      },
       {
         "horse": "Ajrad",
         "odds": "7/2",
@@ -25,18 +16,8 @@
         "race_time": "14:50",
         "race_meeting": "Chepstow",
         "res": "LOSE",
-        "stake": 0.15,
+        "stake": 0.17,
         "returned": 0.0
-      },
-      {
-        "horse": "Arnaz",
-        "odds": "6/5",
-        "total": 30,
-        "race_time": "16:00",
-        "race_meeting": "Chepstow",
-        "res": "WIN",
-        "stake": 0.15,
-        "returned": 0.33
       }
     ]
   },

@@ -1,12 +1,13 @@
 {
   "date": "2026-09-19",
-  "generated": "2026-11-17T07:46:03+00:00",
+  "generated": "2026-11-17T07:54:04+00:00",
   "max": 55,
   "money": {
-    "bank_start": 12.24,
-    "staked": 0.48,
+    "bank_start": 16.53,
+    "staked": 0.68,
     "returned": 0.0,
-    "bank_after": 11.76,
+    "bank_after": 15.85,
+    "skipped": 0,
     "bets": [
       {
         "horse": "Thunder Roar",
@@ -15,7 +16,7 @@
         "race_time": "12:20",
         "race_meeting": "Ayr",
         "res": "LOSE",
-        "stake": 0.12,
+        "stake": 0.17,
         "returned": 0.0
       },
       {
@@ -25,7 +26,7 @@
         "race_time": "13:30",
         "race_meeting": "Ayr",
         "res": "LOSE",
-        "stake": 0.12,
+        "stake": 0.17,
         "returned": 0.0
       },
       {
@@ -35,7 +36,7 @@
         "race_time": "14:40",
         "race_meeting": "Ayr",
         "res": "LOSE",
-        "stake": 0.12,
+        "stake": 0.17,
         "returned": 0.0
       },
       {
@@ -45,7 +46,7 @@
         "race_time": "15:50",
         "race_meeting": "Ayr",
         "res": "LOSE",
-        "stake": 0.12,
+        "stake": 0.17,
         "returned": 0.0
       }
     ]

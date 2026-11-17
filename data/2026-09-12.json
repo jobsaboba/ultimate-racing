@@ -1,43 +1,14 @@
 {
   "date": "2026-09-12",
-  "generated": "2026-11-17T07:46:03+00:00",
+  "generated": "2026-11-17T07:54:04+00:00",
   "max": 55,
   "money": {
-    "bank_start": 13.36,
-    "staked": 0.78,
-    "returned": 0.52,
-    "bank_after": 13.1,
+    "bank_start": 16.74,
+    "staked": 0.51,
+    "returned": 0.68,
+    "bank_after": 16.91,
+    "skipped": 3,
     "bets": [
-      {
-        "horse": "Thats My Boy Luke",
-        "odds": "5/2",
-        "total": 18,
-        "race_time": "15:07",
-        "race_meeting": "Musselburgh",
-        "res": "PLACE",
-        "stake": 0.13,
-        "returned": 0.0
-      },
-      {
-        "horse": "Extragalactic",
-        "odds": "8/11",
-        "total": 15,
-        "race_time": "15:42",
-        "race_meeting": "Musselburgh",
-        "res": "PLACE",
-        "stake": 0.13,
-        "returned": 0.0
-      },
-      {
-        "horse": "Needin' U",
-        "odds": "11/4",
-        "total": 25,
-        "race_time": "16:20",
-        "race_meeting": "Musselburgh",
-        "res": "PLACE",
-        "stake": 0.13,
-        "returned": 0.0
-      },
       {
         "horse": "Sunriseontheboyne",
         "odds": "3/1",
@@ -45,8 +16,8 @@
         "race_time": "16:50",
         "race_meeting": "Musselburgh",
         "res": "WIN",
-        "stake": 0.13,
-        "returned": 0.52
+        "stake": 0.17,
+        "returned": 0.68
       },
       {
         "horse": "Carolus Magnus",
@@ -55,7 +26,7 @@
         "race_time": "17:20",
         "race_meeting": "Musselburgh",
         "res": "PLACE",
-        "stake": 0.13,
+        "stake": 0.17,
         "returned": 0.0
       },
       {
@@ -65,7 +36,7 @@
         "race_time": "18:20",
         "race_meeting": "Musselburgh",
         "res": "PLACE",
-        "stake": 0.13,
+        "stake": 0.17,
         "returned": 0.0
       }
     ]

@@ -1,12 +1,13 @@
 {
   "date": "2026-09-28",
-  "generated": "2026-11-17T07:46:03+00:00",
+  "generated": "2026-11-17T07:54:04+00:00",
   "max": 55,
   "money": {
-    "bank_start": 12.37,
-    "staked": 0.48,
+    "bank_start": 16.57,
+    "staked": 0.34,
     "returned": 0.0,
-    "bank_after": 11.89,
+    "bank_after": 16.23,
+    "skipped": 2,
     "bets": [
       {
         "horse": "Impartiality",
@@ -15,17 +16,7 @@
         "race_time": "14:29",
         "race_meeting": "Hamilton",
         "res": "LOSE",
-        "stake": 0.12,
-        "returned": 0.0
-      },
-      {
-        "horse": "Parisiac",
-        "odds": "11/1",
-        "total": 21,
-        "race_time": "15:04",
-        "race_meeting": "Hamilton",
-        "res": "PLACE",
-        "stake": 0.12,
+        "stake": 0.17,
         "returned": 0.0
       },
       {
@@ -35,17 +26,7 @@
         "race_time": "15:38",
         "race_meeting": "Hamilton",
         "res": "PLACE",
-        "stake": 0.12,
-        "returned": 0.0
-      },
-      {
-        "horse": "Uncle Liam",
-        "odds": "9/4",
-        "total": 24,
-        "race_time": "16:13",
-        "race_meeting": "Hamilton",
-        "res": "PLACE",
-        "stake": 0.12,
+        "stake": 0.17,
         "returned": 0.0
       }
     ]

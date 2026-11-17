@@ -1,33 +1,14 @@
 {
   "date": "2026-11-13",
-  "generated": "2026-11-17T07:46:04+00:00",
+  "generated": "2026-11-17T07:54:05+00:00",
   "max": 55,
   "money": {
-    "bank_start": 10.83,
-    "staked": 0.99,
-    "returned": 1.99,
-    "bank_after": 11.83,
+    "bank_start": 14.7,
+    "staked": 0.9,
+    "returned": 2.45,
+    "bank_after": 16.25,
+    "skipped": 3,
     "bets": [
-      {
-        "horse": "Golly Gosh",
-        "odds": "8/11",
-        "total": 35,
-        "race_time": "12:20",
-        "race_meeting": "Southwell",
-        "res": "WIN",
-        "stake": 0.11,
-        "returned": 0.19
-      },
-      {
-        "horse": "Glancing Jack",
-        "odds": "7/4",
-        "total": 25,
-        "race_time": "13:10",
-        "race_meeting": "Cheltenham",
-        "res": "PLACE",
-        "stake": 0.11,
-        "returned": 0.0
-      },
       {
         "horse": "Crooked Path",
         "odds": "9/2",
@@ -35,7 +16,7 @@
         "race_time": "16:00",
         "race_meeting": "Cheltenham",
         "res": "PLACE",
-        "stake": 0.11,
+        "stake": 0.15,
         "returned": 0.0
       },
       {
@@ -45,7 +26,7 @@
         "race_time": "17:30",
         "race_meeting": "Dundalk",
         "res": "LOSE",
-        "stake": 0.11,
+        "stake": 0.15,
         "returned": 0.0
       },
       {
@@ -55,8 +36,8 @@
         "race_time": "18:00",
         "race_meeting": "Dundalk",
         "res": "WIN",
-        "stake": 0.11,
-        "returned": 0.48
+        "stake": 0.15,
+        "returned": 0.65
       },
       {
         "horse": "Doctor Grace",
@@ -65,18 +46,8 @@
         "race_time": "19:00",
         "race_meeting": "Dundalk",
         "res": "WIN",
-        "stake": 0.11,
-        "returned": 0.88
-      },
-      {
-        "horse": "Sangreal",
-        "odds": "8/13",
-        "total": 15,
-        "race_time": "19:30",
-        "race_meeting": "Dundalk",
-        "res": "PLACE",
-        "stake": 0.11,
-        "returned": 0.0
+        "stake": 0.15,
+        "returned": 1.2
       },
       {
         "horse": "Serenity Blue",
@@ -85,7 +56,7 @@
         "race_time": "20:00",
         "race_meeting": "Dundalk",
         "res": "PLACE",
-        "stake": 0.11,
+        "stake": 0.15,
         "returned": 0.0
       },
       {
@@ -95,8 +66,8 @@
         "race_time": "20:30",
         "race_meeting": "Dundalk",
         "res": "WIN",
-        "stake": 0.11,
-        "returned": 0.44
+        "stake": 0.15,
+        "returned": 0.6
       }
     ]
   },

@@ -1,23 +1,14 @@
 {
   "date": "2026-04-20",
-  "generated": "2026-11-17T07:46:01+00:00",
+  "generated": "2026-11-17T07:54:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 10.79,
-    "staked": 0.33,
-    "returned": 1.05,
-    "bank_after": 11.51,
+    "bank_start": 10.91,
+    "staked": 0.11,
+    "returned": 0.77,
+    "bank_after": 11.57,
+    "skipped": 2,
     "bets": [
-      {
-        "horse": "Smoke Trail",
-        "odds": "6/4",
-        "total": 23,
-        "race_time": "13:00",
-        "race_meeting": "Kelso",
-        "res": "WIN",
-        "stake": 0.11,
-        "returned": 0.28
-      },
       {
         "horse": "Kilmore Rock",
         "odds": "6/1",
@@ -27,16 +18,6 @@
         "res": "WIN",
         "stake": 0.11,
         "returned": 0.77
-      },
-      {
-        "horse": "Looking Splendid",
-        "odds": "2/1",
-        "total": 25,
-        "race_time": "14:00",
-        "race_meeting": "Kelso",
-        "res": "PLACE",
-        "stake": 0.11,
-        "returned": 0.0
       }
     ]
   },

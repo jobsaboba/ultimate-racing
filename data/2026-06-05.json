@@ -1,12 +1,13 @@
 {
   "date": "2026-06-05",
-  "generated": "2026-11-17T07:46:02+00:00",
+  "generated": "2026-11-17T07:54:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 14.41,
-    "staked": 0.28,
+    "bank_start": 15.26,
+    "staked": 0.15,
     "returned": 0.0,
-    "bank_after": 14.13,
+    "bank_after": 15.11,
+    "skipped": 1,
     "bets": [
       {
         "horse": "Homestrait",
@@ -15,17 +16,7 @@
         "race_time": "14:00",
         "race_meeting": "Musselburgh",
         "res": "PLACE",
-        "stake": 0.14,
-        "returned": 0.0
-      },
-      {
-        "horse": "Amidst The Chaos",
-        "odds": "13/8",
-        "total": 25,
-        "race_time": "14:40",
-        "race_meeting": "Musselburgh",
-        "res": "PLACE",
-        "stake": 0.14,
+        "stake": 0.15,
         "returned": 0.0
       }
     ]

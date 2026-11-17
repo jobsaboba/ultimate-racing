@@ -1,23 +1,14 @@
 {
   "date": "2026-06-07",
-  "generated": "2026-11-17T07:46:02+00:00",
+  "generated": "2026-11-17T07:54:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 13.33,
-    "staked": 0.52,
-    "returned": 0.65,
-    "bank_after": 13.46,
+    "bank_start": 14.36,
+    "staked": 0.42,
+    "returned": 0.7,
+    "bank_after": 14.64,
+    "skipped": 1,
     "bets": [
-      {
-        "horse": "Allibaba",
-        "odds": "5/2",
-        "total": 19,
-        "race_time": "13:42",
-        "race_meeting": "Perth",
-        "res": "LOSE",
-        "stake": 0.13,
-        "returned": 0.0
-      },
       {
         "horse": "Scots Poet",
         "odds": "4/1",
@@ -25,8 +16,8 @@
         "race_time": "14:17",
         "race_meeting": "Perth",
         "res": "WIN",
-        "stake": 0.13,
-        "returned": 0.65
+        "stake": 0.14,
+        "returned": 0.7
       },
       {
         "horse": "Breizh River",
@@ -35,7 +26,7 @@
         "race_time": "15:27",
         "race_meeting": "Perth",
         "res": "PLACE",
-        "stake": 0.13,
+        "stake": 0.14,
         "returned": 0.0
       },
       {
@@ -45,7 +36,7 @@
         "race_time": "16:37",
         "race_meeting": "Perth",
         "res": "LOSE",
-        "stake": 0.13,
+        "stake": 0.14,
         "returned": 0.0
       }
     ]

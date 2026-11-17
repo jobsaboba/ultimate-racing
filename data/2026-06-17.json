@@ -1,44 +1,14 @@
 {
   "date": "2026-06-17",
-  "generated": "2026-11-17T07:46:02+00:00",
+  "generated": "2026-11-17T07:54:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 13.2,
-    "staked": 0.39,
-    "returned": 0.0,
-    "bank_after": 12.81,
-    "bets": [
-      {
-        "horse": "Montezuma",
-        "odds": "11/4",
-        "total": 26,
-        "race_time": "14:25",
-        "race_meeting": "Hamilton",
-        "res": "PLACE",
-        "stake": 0.13,
-        "returned": 0.0
-      },
-      {
-        "horse": "Stirrup Cup",
-        "odds": "5/2",
-        "total": 30,
-        "race_time": "15:02",
-        "race_meeting": "Hamilton",
-        "res": "LOSE",
-        "stake": 0.13,
-        "returned": 0.0
-      },
-      {
-        "horse": "Ziata",
-        "odds": "9/4",
-        "total": 20,
-        "race_time": "19:15",
-        "race_meeting": "Ffos Las",
-        "res": "PLACE",
-        "stake": 0.13,
-        "returned": 0.0
-      }
-    ]
+    "bank_start": 14.07,
+    "staked": 0,
+    "returned": 0,
+    "bank_after": 14.07,
+    "skipped": 3,
+    "bets": []
   },
   "sources": {
     "timeform": "ok",

@@ -1,34 +1,14 @@
 {
   "date": "2026-02-10",
-  "generated": "2026-11-17T07:46:01+00:00",
+  "generated": "2026-11-17T07:54:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 10.23,
-    "staked": 0.2,
-    "returned": 0.17,
-    "bank_after": 10.2,
-    "bets": [
-      {
-        "horse": "So Many Roads",
-        "odds": "9/4",
-        "total": 26,
-        "race_time": "13:35",
-        "race_meeting": "Ayr",
-        "res": "LOSE",
-        "stake": 0.1,
-        "returned": 0.0
-      },
-      {
-        "horse": "Apache Tribe",
-        "odds": "4/6",
-        "total": 20,
-        "race_time": "14:35",
-        "race_meeting": "Ayr",
-        "res": "WIN",
-        "stake": 0.1,
-        "returned": 0.17
-      }
-    ]
+    "bank_start": 10.31,
+    "staked": 0,
+    "returned": 0,
+    "bank_after": 10.31,
+    "skipped": 2,
+    "bets": []
   },
   "sources": {
     "timeform": "ok",

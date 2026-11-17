@@ -1,12 +1,13 @@
 {
   "date": "2026-06-26",
-  "generated": "2026-11-17T07:46:02+00:00",
+  "generated": "2026-11-17T07:54:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 12.08,
-    "staked": 0.12,
-    "returned": 0.52,
-    "bank_after": 12.48,
+    "bank_start": 13.62,
+    "staked": 0.14,
+    "returned": 0.61,
+    "bank_after": 14.09,
+    "skipped": 0,
     "bets": [
       {
         "horse": "Glenmalure Flyer",
@@ -15,8 +16,8 @@
         "race_time": "17:33",
         "race_meeting": "Bangor-on-Dee",
         "res": "WIN",
-        "stake": 0.12,
-        "returned": 0.52
+        "stake": 0.14,
+        "returned": 0.61
       }
     ]
   },

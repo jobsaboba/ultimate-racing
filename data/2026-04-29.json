@@ -1,12 +1,13 @@
 {
   "date": "2026-04-29",
-  "generated": "2026-11-17T07:46:02+00:00",
+  "generated": "2026-11-17T07:54:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 11.76,
-    "staked": 0.48,
+    "bank_start": 12.33,
+    "staked": 0.24,
     "returned": 0.0,
-    "bank_after": 11.28,
+    "bank_after": 12.09,
+    "skipped": 2,
     "bets": [
       {
         "horse": "Cougar",
@@ -23,26 +24,6 @@
         "odds": "4/1",
         "total": 20,
         "race_time": "14:15",
-        "race_meeting": "Musselburgh",
-        "res": "LOSE",
-        "stake": 0.12,
-        "returned": 0.0
-      },
-      {
-        "horse": "Carolus Magnus",
-        "odds": "12/1",
-        "total": 17,
-        "race_time": "14:50",
-        "race_meeting": "Musselburgh",
-        "res": "PLACE",
-        "stake": 0.12,
-        "returned": 0.0
-      },
-      {
-        "horse": "Filey Beach",
-        "odds": "6/4",
-        "total": 23,
-        "race_time": "16:00",
         "race_meeting": "Musselburgh",
         "res": "LOSE",
         "stake": 0.12,
