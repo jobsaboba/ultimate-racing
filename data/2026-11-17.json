@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T19:01:03+00:00",
+  "generated": "2026-11-17T19:32:21+00:00",
   "max": 55,
   "money": {
     "bank_start": 21.15,
@@ -93,8 +93,8 @@
         "total": 22,
         "race_time": "19:00",
         "race_meeting": "Southwell",
-        "res": "PENDING",
-        "pos": 0,
+        "res": "LOSE",
+        "pos": 11,
         "stake": 0.42,
         "returned": 0.0
       },
@@ -3847,8 +3847,8 @@
           "profit": 5,
           "prof": 17.0,
           "total": 22,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 11
         },
         {
           "horse": "Yaahobby",
@@ -3876,8 +3876,8 @@
           "profit": 0,
           "prof": 0.0,
           "total": 7,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Red Hat Eagle",
@@ -3905,8 +3905,8 @@
           "profit": 0,
           "prof": -7.2,
           "total": 20,
-          "res": null,
-          "pos": 0
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Ziggy's Condor",
@@ -3934,8 +3934,8 @@
           "profit": 0,
           "prof": -4.0,
           "total": 13,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Coolree",
@@ -3963,8 +3963,8 @@
           "profit": 0,
           "prof": -6.0,
           "total": 7,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Flowstate",
@@ -3992,8 +3992,8 @@
           "profit": 0,
           "prof": -9.0,
           "total": 11,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 10
         },
         {
           "horse": "Phoenix Of Dreams",
@@ -4021,8 +4021,8 @@
           "profit": 0,
           "prof": -5.0,
           "total": 15,
-          "res": null,
-          "pos": 0
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Packetofbiscuits",
@@ -4050,8 +4050,8 @@
           "profit": 0,
           "prof": -2.0,
           "total": 18,
-          "res": null,
-          "pos": 0
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Folkene",
@@ -4079,8 +4079,8 @@
           "profit": 0,
           "prof": 0.0,
           "total": 10,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Legacy Rock",
@@ -4108,8 +4108,8 @@
           "profit": 0,
           "prof": -1.0,
           "total": 3,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Whatever Bruce",
@@ -4137,8 +4137,8 @@
           "profit": 0,
           "prof": -4.0,
           "total": 1,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 4
         }
       ]
     },
