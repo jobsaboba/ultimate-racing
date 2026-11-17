@@ -1,18 +1,18 @@
 {
-  "generated": "2026-11-17T15:01:04+00:00",
+  "generated": "2026-11-17T15:31:02+00:00",
   "season": {
     "start": 10.0,
     "bank": 17.37,
-    "staked": 89.53,
-    "returned": 96.9,
-    "bets": 295,
+    "staked": 89.11,
+    "returned": 96.48,
+    "bets": 294,
     "won": 68,
-    "placed": 81,
+    "placed": 82,
     "lost": 140,
-    "refunds": 1,
-    "pending": 5,
+    "refunds": 0,
+    "pending": 4,
     "days": 147,
-    "roi": 8.2
+    "roi": 8.3
   },
   "monthly": {
     "2026-01": 1.35,

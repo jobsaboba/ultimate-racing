@@ -1,12 +1,12 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T15:01:04+00:00",
+  "generated": "2026-11-17T15:31:02+00:00",
   "max": 55,
   "money": {
     "bank_start": 21.15,
     "rung": 2,
-    "staked": 4.2,
-    "returned": 0.42,
+    "staked": 3.78,
+    "returned": 0.0,
     "bank_after": 17.37,
     "skipped": 6,
     "bets": [
@@ -60,21 +60,10 @@
         "total": 21,
         "race_time": "15:00",
         "race_meeting": "Carlisle",
-        "res": "PENDING",
-        "pos": 0,
+        "res": "PLACE",
+        "pos": 2,
         "stake": 0.42,
         "returned": 0.0
-      },
-      {
-        "horse": "Chanceitlucky",
-        "odds": "5/1",
-        "total": 20,
-        "race_time": "15:15",
-        "race_meeting": "Limerick",
-        "res": "NR",
-        "pos": null,
-        "stake": 0.42,
-        "returned": 0.42
       },
       {
         "horse": "Managing Director",
@@ -1924,8 +1913,8 @@
           "profit": 0,
           "prof": -3.0,
           "total": 8,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Raffles Wonder",
@@ -1953,8 +1942,8 @@
           "profit": 0,
           "prof": -6.0,
           "total": 11,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Le Fabuleux Buck's",
@@ -1982,8 +1971,8 @@
           "profit": 0,
           "prof": -1.0,
           "total": 21,
-          "res": null,
-          "pos": 0
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Justus",
@@ -2011,8 +2000,8 @@
           "profit": 0,
           "prof": -4.0,
           "total": 6,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 10
         },
         {
           "horse": "Holeheartedly",
@@ -2040,8 +2029,8 @@
           "profit": 0,
           "prof": -3.4,
           "total": 20,
-          "res": null,
-          "pos": 0
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Action Replay",
@@ -2069,8 +2058,8 @@
           "profit": 5,
           "prof": 0.5,
           "total": 12,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Breadalbane Lass",
@@ -2098,8 +2087,8 @@
           "profit": 0,
           "prof": -6.0,
           "total": 3,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Knockeranna Rose",
@@ -2127,8 +2116,8 @@
           "profit": 0,
           "prof": -3.0,
           "total": 6,
-          "res": null,
-          "pos": 0
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Dilly's Gunner",
@@ -2156,8 +2145,8 @@
           "profit": 0,
           "prof": -3.0,
           "total": 2,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Bollin Skittle",
@@ -2185,311 +2174,8 @@
           "profit": 0,
           "prof": -2.0,
           "total": 4,
-          "res": null,
-          "pos": 0
-        }
-      ]
-    },
-    {
-      "time": "15:15",
-      "meeting": "Limerick",
-      "name": "Follow Us On Facebook At Limerick Races Handicap Hurdle (0-100)",
-      "class": "",
-      "distance": "3m 155y",
-      "going": "Yielding",
-      "n": 10,
-      "top_horse": "Political Stance",
-      "top_total": 16,
-      "runners": [
-        {
-          "horse": "Spellacy's Cross",
-          "cloth": 3,
-          "odds": "6/1",
-          "tf": 3,
-          "rp": 3,
-          "rpr": 102,
-          "fav_rank": 4,
-          "fav": 3,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -1.0,
-          "total": 9,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "Jolly Potter",
-          "cloth": 4,
-          "odds": "4/1",
-          "tf": 3,
-          "rp": 1,
-          "rpr": 100,
-          "fav_rank": 1,
-          "fav": 10,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            1,
-            2
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -4.0,
-          "total": 14,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "Political Stance",
-          "cloth": 5,
-          "odds": "11/2",
-          "tf": 3,
-          "rp": 5,
-          "rpr": 106,
-          "fav_rank": 3,
-          "fav": 5,
-          "cd": 3,
-          "cd_kind": "crs",
-          "jk": 0,
-          "jkw": [
-            1,
-            1
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -4.0,
-          "total": 16,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "Rebel Queen",
-          "cloth": 6,
-          "odds": "20/1",
-          "tf": 2,
-          "rp": 1,
-          "rpr": 100,
-          "fav_rank": null,
-          "fav": 0,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            1,
-            1
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -1.0,
-          "total": 3,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "Shotgun Jack",
-          "cloth": 8,
-          "odds": "8/1",
-          "tf": 5,
-          "rp": 2,
-          "rpr": 101,
-          "fav_rank": null,
-          "fav": 0,
-          "cd": 3,
-          "cd_kind": "crs",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": 0.0,
-          "total": 10,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "Mullanour",
-          "cloth": 9,
-          "odds": "10/1",
-          "tf": 3,
-          "rp": 0,
-          "rpr": 98,
-          "fav_rank": null,
-          "fav": 0,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            1,
-            2
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": 0.0,
-          "total": 3,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "Inches Away",
-          "cloth": 10,
-          "odds": "20/1",
-          "tf": 3,
-          "rp": 1,
-          "rpr": 100,
-          "fav_rank": null,
-          "fav": 0,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            2,
-            2
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -1.0,
-          "total": 4,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "Creadan Grace",
-          "cloth": 11,
-          "odds": "10/1",
-          "tf": 3,
-          "rp": 0,
-          "rpr": null,
-          "fav_rank": null,
-          "fav": 0,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 5,
-          "trw": [
-            4,
-            7
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -7.3,
-          "total": 8,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "Kilkee Bay",
-          "cloth": 12,
-          "odds": "12/1",
-          "tf": 3,
-          "rp": 4,
-          "rpr": 103,
-          "fav_rank": null,
-          "fav": 0,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -2.0,
-          "total": 7,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "Hakensack",
-          "cloth": 14,
-          "odds": "33/1",
-          "tf": 2,
-          "rp": 0,
-          "rpr": null,
-          "fav_rank": null,
-          "fav": 0,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -14.0,
-          "total": 2,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 4
         }
       ]
     },
