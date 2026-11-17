@@ -1,0 +1,1844 @@
+{
+  "date": "2026-04-26",
+  "generated": "2026-11-17T06:51:05+00:00",
+  "max": 45,
+  "sources": {
+    "timeform": "ok",
+    "rp": "missing"
+  },
+  "races": [
+    {
+      "time": "14:45",
+      "meeting": "Musselburgh",
+      "name": "Sky Bet Proud To Support Young Lives Vs Cancer Apprentice Handicap",
+      "class": "4",
+      "distance": "1m 2y",
+      "going": "Good (Good to Firm in places)",
+      "n": 13,
+      "top_horse": "Ayr Poet",
+      "top_total": 17,
+      "runners": [
+        {
+          "horse": "Dwindling Funds",
+          "cloth": 1,
+          "odds": "9/4",
+          "tf": 4,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 33,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            2
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 5,
+          "prof": 5.5,
+          "total": 14
+        },
+        {
+          "horse": "Two B Tanned",
+          "cloth": 2,
+          "odds": "10/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 8
+        },
+        {
+          "horse": "Harry The Rogue",
+          "cloth": 3,
+          "odds": "13/2",
+          "tf": 5,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 17,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 10
+        },
+        {
+          "horse": "Ayr Poet",
+          "cloth": 4,
+          "odds": "50/1",
+          "tf": 2,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 10,
+          "cd_kind": "cd",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            2
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 5,
+          "prof": 5.5,
+          "total": 17
+        },
+        {
+          "horse": "Flying Fletcher",
+          "cloth": 5,
+          "odds": "13/2",
+          "tf": 2,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 11,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -5.0,
+          "total": 7
+        },
+        {
+          "horse": "Tilani",
+          "cloth": 6,
+          "odds": "11/1",
+          "tf": 4,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 9
+        },
+        {
+          "horse": "Swift Salian",
+          "cloth": 7,
+          "odds": "15/2",
+          "tf": 4,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 8,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -2.0,
+          "total": 9
+        },
+        {
+          "horse": "Detective",
+          "cloth": 8,
+          "odds": "50/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -4.0,
+          "total": 8
+        },
+        {
+          "horse": "Eazy On The Eye",
+          "cloth": 9,
+          "odds": "9/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 6,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 3
+        },
+        {
+          "horse": "Native Honey",
+          "cloth": 10,
+          "odds": "40/1",
+          "tf": 2,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            2
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 5,
+          "prof": 5.5,
+          "total": 7
+        },
+        {
+          "horse": "Barley",
+          "cloth": 11,
+          "odds": "25/1",
+          "tf": 2,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -3.0,
+          "total": 7
+        },
+        {
+          "horse": "Madame De Sevigne",
+          "cloth": 12,
+          "odds": "9/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 3
+        },
+        {
+          "horse": "Ashen",
+          "cloth": 13,
+          "odds": "12/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            2
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 5,
+          "prof": 5.5,
+          "total": 8
+        }
+      ]
+    },
+    {
+      "time": "15:15",
+      "meeting": "Musselburgh",
+      "name": "Enter ITV7 For Free EBF Restricted Maiden Stakes (GBB Race)",
+      "class": "3",
+      "distance": "5f 1y",
+      "going": "Good (Good to Firm in places)",
+      "n": 8,
+      "top_horse": "Pocket Change",
+      "top_total": 7,
+      "runners": [
+        {
+          "horse": "Seed Ya Later",
+          "cloth": 1,
+          "odds": "13/8",
+          "tf": 4,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 33,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 4
+        },
+        {
+          "horse": "Tamam Star",
+          "cloth": 2,
+          "odds": "9/1",
+          "tf": 4,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 8,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -2.0,
+          "total": 4
+        },
+        {
+          "horse": "Caturra Lights",
+          "cloth": 3,
+          "odds": "66/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -1.0,
+          "total": 3
+        },
+        {
+          "horse": "Donna Rumma",
+          "cloth": 4,
+          "odds": "5/2",
+          "tf": 5,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 17,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 5
+        },
+        {
+          "horse": "Furturra",
+          "cloth": 5,
+          "odds": "50/1",
+          "tf": 2,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -3.0,
+          "total": 2
+        },
+        {
+          "horse": "Super Alpha",
+          "cloth": 6,
+          "odds": "10/3",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 11,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            1
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -3.7,
+          "total": 3
+        },
+        {
+          "horse": "Stripes Of Glory",
+          "cloth": 7,
+          "odds": "9/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 6,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -3.0,
+          "total": 3
+        },
+        {
+          "horse": "Pocket Change",
+          "cloth": 8,
+          "odds": "33/1",
+          "tf": 2,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            1
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            1
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 5,
+          "prof": 8.0,
+          "total": 7
+        }
+      ]
+    },
+    {
+      "time": "15:45",
+      "meeting": "Musselburgh",
+      "name": "Sky Bet Club Fillies' Handicap",
+      "class": "5",
+      "distance": "1m 208y",
+      "going": "Good (Good to Firm in places)",
+      "n": 12,
+      "top_horse": "Polygram",
+      "top_total": 8,
+      "runners": [
+        {
+          "horse": "Lady Dora Mae",
+          "cloth": 1,
+          "odds": "2/1",
+          "tf": 5,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 33,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 5
+        },
+        {
+          "horse": "Polygram",
+          "cloth": 2,
+          "odds": "18/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            1
+          ],
+          "tr": 0,
+          "trw": [
+            1,
+            1
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 5,
+          "prof": 2.5,
+          "total": 8
+        },
+        {
+          "horse": "Sovereign Bright",
+          "cloth": 3,
+          "odds": "12/1",
+          "tf": 4,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            1
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -3.7,
+          "total": 4
+        },
+        {
+          "horse": "Salaria",
+          "cloth": 4,
+          "odds": "17/2",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 6,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            1
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 8
+        },
+        {
+          "horse": "Epidavros",
+          "cloth": 5,
+          "odds": "7/2",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 17,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -1.0,
+          "total": 8
+        },
+        {
+          "horse": "Krissy",
+          "cloth": 6,
+          "odds": "18/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            2
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 5,
+          "prof": 5.5,
+          "total": 8
+        },
+        {
+          "horse": "Glorious Kitty",
+          "cloth": 7,
+          "odds": "11/2",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 11,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            1,
+            1
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 5,
+          "prof": 1.4,
+          "total": 8
+        },
+        {
+          "horse": "Samra Star",
+          "cloth": 8,
+          "odds": "25/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -1.0,
+          "total": 8
+        },
+        {
+          "horse": "Fille Imbassee",
+          "cloth": 9,
+          "odds": "16/1",
+          "tf": 2,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 2
+        },
+        {
+          "horse": "Bearin Up",
+          "cloth": 10,
+          "odds": "10/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -3.0,
+          "total": 3
+        },
+        {
+          "horse": "Naturalia",
+          "cloth": 11,
+          "odds": "14/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -3.0,
+          "total": 8
+        },
+        {
+          "horse": "Storm On Jura",
+          "cloth": 12,
+          "odds": "40/1",
+          "tf": 2,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            2
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 5,
+          "prof": 5.5,
+          "total": 7
+        }
+      ]
+    },
+    {
+      "time": "16:15",
+      "meeting": "Musselburgh",
+      "name": "Sky Bet For The Fans Handicap (GBBPlus Race)",
+      "class": "4",
+      "distance": "1m 4f 104y",
+      "going": "Good (Good to Firm in places)",
+      "n": 9,
+      "top_horse": "Fast Fred",
+      "top_total": 19,
+      "runners": [
+        {
+          "horse": "Hamlet's Night",
+          "cloth": 1,
+          "odds": "11/8",
+          "tf": 5,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 33,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -3.0,
+          "total": 5
+        },
+        {
+          "horse": "Rising Sky",
+          "cloth": 2,
+          "odds": "18/1",
+          "tf": 2,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 8,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 2
+        },
+        {
+          "horse": "Night Breeze",
+          "cloth": 3,
+          "odds": "5/2",
+          "tf": 4,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 17,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            1
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 9
+        },
+        {
+          "horse": "Fast Fred",
+          "cloth": 4,
+          "odds": "3/1",
+          "tf": 4,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 11,
+          "fav": 0,
+          "cd": 10,
+          "cd_kind": "cd",
+          "jk": 0,
+          "jkw": [
+            0,
+            1
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            1
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 5,
+          "prof": 8.0,
+          "total": 19
+        },
+        {
+          "horse": "Letsbefrank",
+          "cloth": 5,
+          "odds": "20/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 6,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            2
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 5,
+          "prof": 5.5,
+          "total": 8
+        },
+        {
+          "horse": "Princess Niyla",
+          "cloth": 6,
+          "odds": "40/1",
+          "tf": 2,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 2
+        },
+        {
+          "horse": "Furhaan",
+          "cloth": 7,
+          "odds": "28/1",
+          "tf": 2,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            2
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 5,
+          "prof": 5.5,
+          "total": 7
+        },
+        {
+          "horse": "Motawaared",
+          "cloth": 8,
+          "odds": "40/1",
+          "tf": 1,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            2
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 5,
+          "prof": 5.5,
+          "total": 6
+        },
+        {
+          "horse": "Eroico",
+          "cloth": 9,
+          "odds": "33/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -1.0,
+          "total": 3
+        }
+      ]
+    },
+    {
+      "time": "16:45",
+      "meeting": "Musselburgh",
+      "name": "Sky Bet Price Boosts Handicap",
+      "class": "4",
+      "distance": "7f 15y",
+      "going": "Good (Good to Firm in places)",
+      "n": 11,
+      "top_horse": "Abduction",
+      "top_total": 19,
+      "runners": [
+        {
+          "horse": "Persuasion",
+          "cloth": 1,
+          "odds": "4/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 33,
+          "fav": 0,
+          "cd": 10,
+          "cd_kind": "cd",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -2.0,
+          "total": 13
+        },
+        {
+          "horse": "Abduction",
+          "cloth": 2,
+          "odds": "11/2",
+          "tf": 4,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 11,
+          "fav": 0,
+          "cd": 10,
+          "cd_kind": "cd",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            2
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 5,
+          "prof": 5.5,
+          "total": 19
+        },
+        {
+          "horse": "Aisling Oscar",
+          "cloth": 3,
+          "odds": "16/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -1.0,
+          "total": 8
+        },
+        {
+          "horse": "Master Richard",
+          "cloth": 4,
+          "odds": "11/2",
+          "tf": 5,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 17,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 10
+        },
+        {
+          "horse": "Little Empire",
+          "cloth": 5,
+          "odds": "6/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 8,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 8
+        },
+        {
+          "horse": "Benacre",
+          "cloth": 6,
+          "odds": "7/1",
+          "tf": 4,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 6,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            1
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -3.7,
+          "total": 9
+        },
+        {
+          "horse": "Mister Bluebird",
+          "cloth": 7,
+          "odds": "15/2",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 10,
+          "cd_kind": "cd",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 13
+        },
+        {
+          "horse": "Royalty Bay",
+          "cloth": 8,
+          "odds": "25/1",
+          "tf": 2,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 2
+        },
+        {
+          "horse": "Geo",
+          "cloth": 9,
+          "odds": "9/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            2
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 5,
+          "prof": 5.5,
+          "total": 13
+        },
+        {
+          "horse": "Salam Dubawi",
+          "cloth": 10,
+          "odds": "25/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            1
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            2
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 5,
+          "prof": 5.5,
+          "total": 8
+        },
+        {
+          "horse": "Backspin",
+          "cloth": 11,
+          "odds": "10/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 3
+        }
+      ]
+    },
+    {
+      "time": "17:45",
+      "meeting": "Musselburgh",
+      "name": "Sky Bet Extra Places Handicap",
+      "class": "4",
+      "distance": "5f 1y",
+      "going": "Good (Good to Firm in places)",
+      "n": 12,
+      "top_horse": "Montezuma",
+      "top_total": 20,
+      "runners": [
+        {
+          "horse": "I'm Next",
+          "cloth": 1,
+          "odds": "3/1",
+          "tf": 4,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 17,
+          "fav": 0,
+          "cd": 10,
+          "cd_kind": "cd",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -3.0,
+          "total": 14
+        },
+        {
+          "horse": "Montezuma",
+          "cloth": 2,
+          "odds": "5/2",
+          "tf": 5,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 33,
+          "fav": 0,
+          "cd": 10,
+          "cd_kind": "cd",
+          "jk": 0,
+          "jkw": [
+            0,
+            1
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            2
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 5,
+          "prof": 5.5,
+          "total": 20
+        },
+        {
+          "horse": "Ziggy's Triton",
+          "cloth": 3,
+          "odds": "16/1",
+          "tf": 2,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 10,
+          "cd_kind": "cd",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -1.0,
+          "total": 12
+        },
+        {
+          "horse": "Jer Batt",
+          "cloth": 4,
+          "odds": "4/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 11,
+          "fav": 0,
+          "cd": 10,
+          "cd_kind": "cd",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -2.0,
+          "total": 13
+        },
+        {
+          "horse": "Azuinthejungle",
+          "cloth": 5,
+          "odds": "33/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 8
+        },
+        {
+          "horse": "Mon Na Slieve",
+          "cloth": 6,
+          "odds": "9/2",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 8,
+          "fav": 0,
+          "cd": 10,
+          "cd_kind": "cd",
+          "jk": 0,
+          "jkw": [
+            0,
+            1
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 13
+        },
+        {
+          "horse": "Reigning Profit",
+          "cloth": 7,
+          "odds": "11/1",
+          "tf": 4,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 6,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -1.0,
+          "total": 9
+        },
+        {
+          "horse": "Albegone",
+          "cloth": 8,
+          "odds": "25/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 10,
+          "cd_kind": "cd",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -3.0,
+          "total": 13
+        },
+        {
+          "horse": "South Parade",
+          "cloth": 9,
+          "odds": "40/1",
+          "tf": 2,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 10,
+          "cd_kind": "cd",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -5.0,
+          "total": 12
+        },
+        {
+          "horse": "Pop Star",
+          "cloth": 10,
+          "odds": "50/1",
+          "tf": 2,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -8.0,
+          "total": 7
+        },
+        {
+          "horse": "Archduke Ferdinand",
+          "cloth": 11,
+          "odds": "33/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 3,
+          "cd_kind": "crs",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 6
+        },
+        {
+          "horse": "Arnhem",
+          "cloth": 12,
+          "odds": "40/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            2
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 5,
+          "prof": 5.5,
+          "total": 13
+        }
+      ]
+    }
+  ]
+}

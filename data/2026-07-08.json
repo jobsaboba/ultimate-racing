@@ -1,0 +1,240 @@
+{
+  "date": "2026-07-08",
+  "generated": "2026-11-17T06:51:06+00:00",
+  "max": 45,
+  "sources": {
+    "timeform": "ok",
+    "rp": "missing"
+  },
+  "races": [
+    {
+      "time": "18:36",
+      "meeting": "Chepstow",
+      "name": "Each Way Extra At bet365 Handicap",
+      "class": "6",
+      "distance": "1m 14y",
+      "going": "Good to Firm",
+      "n": 8,
+      "top_horse": "Bobby Dassler",
+      "top_total": 13,
+      "runners": [
+        {
+          "horse": "Mr Tony",
+          "cloth": 1,
+          "odds": "6/5",
+          "tf": 5,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 33,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 5
+        },
+        {
+          "horse": "Galactic Glow",
+          "cloth": 2,
+          "odds": "7/2",
+          "tf": 4,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 17,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -1.0,
+          "total": 4
+        },
+        {
+          "horse": "Denby's Dream",
+          "cloth": 3,
+          "odds": "9/2",
+          "tf": 4,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 11,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -1.0,
+          "total": 9
+        },
+        {
+          "horse": "Bobby Dassler",
+          "cloth": 4,
+          "odds": "7/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 6,
+          "fav": 0,
+          "cd": 10,
+          "cd_kind": "cd",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 13
+        },
+        {
+          "horse": "Nammos",
+          "cloth": 5,
+          "odds": "9/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 8
+        },
+        {
+          "horse": "Amathus",
+          "cloth": 6,
+          "odds": "20/1",
+          "tf": 2,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 2
+        },
+        {
+          "horse": "Fozzy Osbourne",
+          "cloth": 7,
+          "odds": "66/1",
+          "tf": 2,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -1.0,
+          "total": 2
+        },
+        {
+          "horse": "D Day Major Winter",
+          "cloth": 8,
+          "odds": "100/1",
+          "tf": 2,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -1.0,
+          "total": 2
+        }
+      ]
+    }
+  ]
+}

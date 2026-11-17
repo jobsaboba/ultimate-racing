@@ -1,125 +1,240 @@
 {
   "date": "2026-09-04",
-  "generated": "2026-11-17T05:55:20+00:00",
-  "picks": [
+  "generated": "2026-11-17T06:51:06+00:00",
+  "max": 45,
+  "sources": {
+    "timeform": "ok",
+    "rp": "missing"
+  },
+  "races": [
     {
-      "time": "13:15",
+      "time": "16:10",
       "meeting": "Bangor-on-Dee",
-      "race": "Genesis Wealth Management Novices' Handicap Chase",
-      "horse": "Delgany Second Now",
-      "odds": "4/9",
-      "dec": 1.4444444444444444,
-      "rank": 1,
-      "last_ran": 7,
-      "t_wins": 7,
-      "t_runs": 13,
-      "t_pct": 54,
-      "j_wins": 7,
-      "j_runs": 14,
-      "j_pct": 50,
-      "res": "WIN"
-    },
-    {
-      "time": "13:50",
-      "meeting": "Bangor-on-Dee",
-      "race": "Goffs Yorton Sale 10th September Handicap Chase (GBB Race)",
-      "horse": "Thickthorn Tom",
-      "odds": "85/40",
-      "dec": 3.125,
-      "rank": 2,
-      "last_ran": 8,
-      "t_wins": 7,
-      "t_runs": 13,
-      "t_pct": 54,
-      "j_wins": 7,
-      "j_runs": 14,
-      "j_pct": 50,
-      "res": "LOSE"
-    }
-  ],
-  "combos": [
-    {
-      "size": 1,
-      "legs": [
+      "name": "Sun Racing Summer Jumps Championship Handicap Hurdle",
+      "class": "5",
+      "distance": "2m 3f 123y",
+      "going": "Good",
+      "n": 8,
+      "top_horse": "Bobby Socks",
+      "top_total": 7,
+      "runners": [
         {
-          "time": "13:15",
-          "meeting": "Bangor-on-Dee",
-          "horse": "Delgany Second Now",
-          "odds": "4/9",
-          "res": "WIN"
-        }
-      ],
-      "dec": 1.44,
-      "res": "WIN",
-      "stake": 0.1,
-      "ret": 0.14
-    },
-    {
-      "size": 1,
-      "legs": [
-        {
-          "time": "13:50",
-          "meeting": "Bangor-on-Dee",
-          "horse": "Thickthorn Tom",
-          "odds": "85/40",
-          "res": "LOSE"
-        }
-      ],
-      "dec": 3.12,
-      "res": "LOSE",
-      "stake": 0.1,
-      "ret": null
-    },
-    {
-      "size": 2,
-      "legs": [
-        {
-          "time": "13:15",
-          "meeting": "Bangor-on-Dee",
-          "horse": "Delgany Second Now",
-          "odds": "4/9",
-          "res": "WIN"
+          "horse": "Ballynoe Boy",
+          "cloth": 1,
+          "odds": "3/1",
+          "tf": 4,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 33,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 4
         },
         {
-          "time": "13:50",
-          "meeting": "Bangor-on-Dee",
-          "horse": "Thickthorn Tom",
-          "odds": "85/40",
-          "res": "LOSE"
+          "horse": "Ashdown Forest",
+          "cloth": 2,
+          "odds": "3/1",
+          "tf": 5,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 17,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 5
+        },
+        {
+          "horse": "Dante's Inferno",
+          "cloth": 3,
+          "odds": "9/1",
+          "tf": 2,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 2
+        },
+        {
+          "horse": "Bobby Socks",
+          "cloth": 4,
+          "odds": "25/1",
+          "tf": 2,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 7
+        },
+        {
+          "horse": "Cawthorne Cracker",
+          "cloth": 5,
+          "odds": "15/2",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 6,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -1.0,
+          "total": 3
+        },
+        {
+          "horse": "La Lolita",
+          "cloth": 6,
+          "odds": "7/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 8,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 3
+        },
+        {
+          "horse": "Faded Fantasy",
+          "cloth": 8,
+          "odds": "40/1",
+          "tf": 2,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 7
+        },
+        {
+          "horse": "Eyeeye",
+          "cloth": 11,
+          "odds": "100/1",
+          "tf": 1,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": null,
+          "fav": 0,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 1
         }
-      ],
-      "dec": 4.51,
-      "res": "LOSE",
-      "stake": 0.1,
-      "ret": null
+      ]
     }
-  ],
-  "score": {
-    "picks": 2,
-    "lines": 3,
-    "won": 1,
-    "lost": 2,
-    "nr": 0,
-    "pending": 0
-  },
-  "money": {
-    "bank_start": 10.24,
-    "staked": 0.3,
-    "returned": 0.14,
-    "bank_after": 10.08
-  },
-  "by_size": {
-    "1": {
-      "n": 2,
-      "returned": 0.14,
-      "staked": 0.2,
-      "won": 1
-    },
-    "2": {
-      "n": 1,
-      "returned": 0.0,
-      "staked": 0.1,
-      "won": 0
-    }
-  }
+  ]
 }
