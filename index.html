@@ -158,7 +158,7 @@
   Stars: Timeform ★ + Racing Post ★ (RPR ranks) = 10 · Favouritism: 1st 10 · 2nd 7 · 3rd 5 · 4th 3<br>
   Course form: C&amp;D 10 · distance 5 · course 3 · Jockey/trainer 3+ wins: 7-day 5 · 14-day 3<br>
   Top course trainer/jockey 5-4-3-2-1 · trainer in 14-day profit 5 · <b>max 55</b><br>
-  Bank £10 · <b>every race's top panel</b> gets <b>1% of the day's balance</b> — win-only, NRs refund
+  Bank £10 · every race's top panel <b>priced 3/1–10/1</b> gets <b>1% of the day's balance</b> — win-only, NRs refund
 </footer>
 
 <script>
@@ -235,9 +235,9 @@ function moneyCard(j){
   const diff = m.bank_after - m.bank_start;
   const dir = diff > 0 ? "up" : diff < 0 ? "down" : "";
   box.innerHTML =
-    `<div class="row"><span class="mlabel">bank · 1% of the day's balance a bet</span>` +
+    `<div class="row"><span class="mlabel">bank · 1% a bet · 3/1–10/1 only</span>` +
     `<span class="bank">${gbp(m.bank_start)} <small>→</small> <span class="${dir}">${gbp(m.bank_after)}</span></span></div>` +
-    `<div style="font-size:.62rem;color:var(--dim);margin-bottom:4px">${bets.length} bets · staked ${gbp(m.staked)}${m.returned ? ` · returned ${gbp(m.returned)}` : ""}</div>` +
+    `<div style="font-size:.62rem;color:var(--dim);margin-bottom:4px">${bets.length} bets · ${m.skipped || 0} skipped by price · staked ${gbp(m.staked)}${m.returned ? ` · returned ${gbp(m.returned)}` : ""}</div>` +
     `<div class="betlist">${rows}</div>`;
 }
 
@@ -322,7 +322,7 @@ function renderRun(){
   const monthly = Object.entries(STATS.monthly || {});
   el.innerHTML = `
   <div class="scard">
-    <div class="label">the bank — £10 start · every race's top panel gets 1% of the day's balance</div>
+    <div class="label">the bank — £10 start · every race's top panel priced 3/1–10/1 gets 1% of the day's balance</div>
     <div class="big">${gbp(s.start)} → ${gbp(s.bank)}</div>
     <div class="chips">
       <span class="src ${s.roi >= 0 ? 'ok' : 'bad'}">ROI ${s.roi >= 0 ? '+' : ''}${s.roi}%</span>
@@ -346,9 +346,10 @@ function renderRun(){
   <div class="scard">
     <div class="label">the rule</div>
     <div style="font-size:.72rem; line-height:1.7; color:var(--dim)">
-      every race's <b style="color:var(--ink)">top panel</b> (highest points, shortest
-      odds if tied) gets <b style="color:var(--ink)">1% of that day's balance</b> —
+      every race's <b style="color:var(--ink)">top panel</b> priced <b style="color:var(--ink)">3/1–10/1</b>
+      (highest points, shortest odds if tied) gets <b style="color:var(--ink)">1% of that day's balance</b> —
       win-only at the published odds, non-runners refund, bank rolls forward.
+      The band is the backfill's verdict: odds-on shots lost −31%, 3/1–10/1 made +17.8% flat.
     </div>
   </div>`;
 }
