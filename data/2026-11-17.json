@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T18:00:50+00:00",
+  "generated": "2026-11-17T18:30:54+00:00",
   "max": 55,
   "money": {
     "bank_start": 21.15,
@@ -82,8 +82,8 @@
         "total": 18,
         "race_time": "18:00",
         "race_meeting": "Southwell",
-        "res": "PENDING",
-        "pos": 0,
+        "res": "LOSE",
+        "pos": 4,
         "stake": 0.42,
         "returned": 0.0
       },
@@ -3183,8 +3183,8 @@
           "profit": 0,
           "prof": -1.0,
           "total": 18,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Danseuse",
@@ -3212,8 +3212,8 @@
           "profit": 0,
           "prof": -2.0,
           "total": 15,
-          "res": null,
-          "pos": 0
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Triumph",
@@ -3241,8 +3241,8 @@
           "profit": 0,
           "prof": -3.0,
           "total": 3,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Seacole",
@@ -3270,8 +3270,8 @@
           "profit": 0,
           "prof": -6.0,
           "total": 6,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Allaire",
@@ -3299,8 +3299,8 @@
           "profit": 0,
           "prof": -10.0,
           "total": 8,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Sparkling Water",
@@ -3328,8 +3328,8 @@
           "profit": 0,
           "prof": -1.0,
           "total": 2,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Pure Theory",
@@ -3357,8 +3357,8 @@
           "profit": 0,
           "prof": 0.0,
           "total": 1,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Saaffya",
@@ -3386,8 +3386,8 @@
           "profit": 0,
           "prof": -2.5,
           "total": 5,
-          "res": null,
-          "pos": 0
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Don't Hurry Love",
@@ -3415,8 +3415,8 @@
           "profit": 0,
           "prof": -4.5,
           "total": 7,
-          "res": null,
-          "pos": 0
+          "res": "WIN",
+          "pos": 1
         }
       ]
     },
