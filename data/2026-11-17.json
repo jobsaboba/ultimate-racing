@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T17:01:01+00:00",
+  "generated": "2026-11-17T18:00:50+00:00",
   "max": 55,
   "money": {
     "bank_start": 21.15,
@@ -2851,8 +2851,8 @@
           "profit": 0,
           "prof": -2.0,
           "total": 9,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Without Compromise",
@@ -2880,8 +2880,8 @@
           "profit": 0,
           "prof": 0.0,
           "total": 21,
-          "res": null,
-          "pos": 0
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Almekarem",
@@ -2909,8 +2909,8 @@
           "profit": 0,
           "prof": -2.0,
           "total": 16,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Gloryous",
@@ -2938,8 +2938,8 @@
           "profit": 0,
           "prof": 0.0,
           "total": 9,
-          "res": null,
-          "pos": 0
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Fahidi",
@@ -2967,8 +2967,8 @@
           "profit": 0,
           "prof": -10.0,
           "total": 23,
-          "res": null,
-          "pos": 0
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Yaa Min",
@@ -2996,8 +2996,8 @@
           "profit": 0,
           "prof": 0.0,
           "total": 11,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Aravalli",
@@ -3025,8 +3025,8 @@
           "profit": 0,
           "prof": -1.0,
           "total": 11,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 10
         },
         {
           "horse": "First Ambition",
@@ -3054,8 +3054,8 @@
           "profit": 0,
           "prof": -2.0,
           "total": 9,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 11
         },
         {
           "horse": "Skipper",
@@ -3083,8 +3083,8 @@
           "profit": 0,
           "prof": 0.0,
           "total": 2,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Redbud Sixteen",
@@ -3112,8 +3112,8 @@
           "profit": 0,
           "prof": -1.0,
           "total": 5,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Enziya",
@@ -3141,8 +3141,8 @@
           "profit": 0,
           "prof": 0.0,
           "total": 6,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 6
         }
       ]
     },
