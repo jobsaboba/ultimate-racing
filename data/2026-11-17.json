@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T14:30:56+00:00",
+  "generated": "2026-11-17T15:01:04+00:00",
   "max": 55,
   "money": {
     "bank_start": 21.15,
@@ -38,8 +38,8 @@
         "total": 40,
         "race_time": "14:25",
         "race_meeting": "Carlisle",
-        "res": "PENDING",
-        "pos": 0,
+        "res": "PLACE",
+        "pos": 4,
         "stake": 0.42,
         "returned": 0.0
       },
@@ -49,8 +49,8 @@
         "total": 18,
         "race_time": "14:40",
         "race_meeting": "Limerick",
-        "res": "PENDING",
-        "pos": 0,
+        "res": "LOSE",
+        "pos": 5,
         "stake": 0.42,
         "returned": 0.0
       },
@@ -1230,7 +1230,7 @@
       "class": "4",
       "distance": "2m 1f 33y",
       "going": "Hurdle: good to soft-good in places; chase: good-good to soft in places (inspection 8am)",
-      "n": 16,
+      "n": 11,
       "top_horse": "Doyen Du Bar",
       "top_total": 40,
       "runners": [
@@ -1260,8 +1260,8 @@
           "profit": 5,
           "prof": 8.1,
           "total": 40,
-          "res": null,
-          "pos": 0
+          "res": "PLACE",
+          "pos": 4
         },
         {
           "horse": "Rewired",
@@ -1289,8 +1289,8 @@
           "profit": 5,
           "prof": 3.5,
           "total": 22,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Double Digits",
@@ -1318,8 +1318,8 @@
           "profit": 5,
           "prof": 2.5,
           "total": 31,
-          "res": null,
-          "pos": 0
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Two Auld Pals",
@@ -1347,37 +1347,8 @@
           "profit": 5,
           "prof": 6.5,
           "total": 23,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "An Mhi",
-          "cloth": 5,
-          "odds": "66/1",
-          "tf": 1,
-          "rp": 0,
-          "rpr": null,
-          "fav_rank": null,
-          "fav": 0,
-          "cd": 5,
-          "cd_kind": "dist",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -1.0,
-          "total": 6,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 11
         },
         {
           "horse": "Razors Edge",
@@ -1405,8 +1376,8 @@
           "profit": 0,
           "prof": -3.4,
           "total": 25,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Monaco Rules",
@@ -1434,37 +1405,8 @@
           "profit": 0,
           "prof": -4.0,
           "total": 5,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "Mick Collins",
-          "cloth": 8,
-          "odds": "16/1",
-          "tf": 3,
-          "rp": 0,
-          "rpr": 119,
-          "fav_rank": null,
-          "fav": 0,
-          "cd": 5,
-          "cd_kind": "dist",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -2.0,
-          "total": 8,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Travis Wheatley",
@@ -1492,8 +1434,8 @@
           "profit": 0,
           "prof": -7.0,
           "total": 18,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Dark Tide Rising",
@@ -1521,8 +1463,8 @@
           "profit": 0,
           "prof": -6.0,
           "total": 4,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 10
         },
         {
           "horse": "Foster's Fortune",
@@ -1550,66 +1492,8 @@
           "profit": 0,
           "prof": 0.0,
           "total": 7,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "Dee's Getaway",
-          "cloth": 13,
-          "odds": "33/1",
-          "tf": 2,
-          "rp": 0,
-          "rpr": 117,
-          "fav_rank": null,
-          "fav": 0,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -4.0,
-          "total": 2,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "Maree Verte",
-          "cloth": 14,
-          "odds": "8/1",
-          "tf": 3,
-          "rp": 0,
-          "rpr": null,
-          "fav_rank": 3,
-          "fav": 5,
-          "cd": 5,
-          "cd_kind": "dist",
-          "jk": 0,
-          "jkw": [
-            1,
-            1
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -10.0,
-          "total": 13,
-          "res": null,
-          "pos": 0
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Cavalier Du Luy",
@@ -1637,8 +1521,8 @@
           "profit": 0,
           "prof": -5.0,
           "total": 2,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Chisum",
@@ -1666,37 +1550,8 @@
           "profit": 5,
           "prof": 39.0,
           "total": 9,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "Colegram",
-          "cloth": 17,
-          "odds": "20/1",
-          "tf": 2,
-          "rp": 0,
-          "rpr": 112,
-          "fav_rank": null,
-          "fav": 0,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 5,
-          "trw": [
-            3,
-            8
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -3.4,
-          "total": 7,
-          "res": null,
-          "pos": 0
+          "res": "PLACE",
+          "pos": 2
         }
       ]
     },
@@ -1707,7 +1562,7 @@
       "class": "",
       "distance": "2m 5f",
       "going": "Yielding",
-      "n": 14,
+      "n": 11,
       "top_horse": "Cahirdown Boy",
       "top_total": 18,
       "runners": [
@@ -1737,8 +1592,8 @@
           "profit": 0,
           "prof": -2.0,
           "total": 18,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Kayla's Friend",
@@ -1766,8 +1621,8 @@
           "profit": 0,
           "prof": 0.0,
           "total": 17,
-          "res": null,
-          "pos": 0
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Quirt Evans",
@@ -1795,8 +1650,8 @@
           "profit": 0,
           "prof": -5.0,
           "total": 7,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Depalma",
@@ -1824,37 +1679,8 @@
           "profit": 0,
           "prof": 0.0,
           "total": 6,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "Glory Sky",
-          "cloth": 7,
-          "odds": "25/1",
-          "tf": 2,
-          "rp": 0,
-          "rpr": 92,
-          "fav_rank": null,
-          "fav": 0,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            1,
-            2
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -2.0,
-          "total": 2,
-          "res": null,
-          "pos": 0
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Finnicky Filly",
@@ -1882,8 +1708,8 @@
           "profit": 0,
           "prof": -4.0,
           "total": 6,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Wildhorserider",
@@ -1911,37 +1737,8 @@
           "profit": 0,
           "prof": -1.0,
           "total": 7,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "Jonzac",
-          "cloth": 10,
-          "odds": "9/2",
-          "tf": 3,
-          "rp": 0,
-          "rpr": 91,
-          "fav_rank": 3,
-          "fav": 5,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 5,
-          "trw": [
-            4,
-            7
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -7.3,
-          "total": 13,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 10
         },
         {
           "horse": "Bridge View Star",
@@ -1969,8 +1766,8 @@
           "profit": 0,
           "prof": -1.0,
           "total": 7,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Portetta",
@@ -1998,8 +1795,8 @@
           "profit": 0,
           "prof": -7.0,
           "total": 5,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 11
         },
         {
           "horse": "Mydreamtell",
@@ -2027,8 +1824,8 @@
           "profit": 0,
           "prof": -4.0,
           "total": 4,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Whiskey Serenade",
@@ -2056,8 +1853,8 @@
           "profit": 0,
           "prof": -2.0,
           "total": 7,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Lord De Choisel",
@@ -2085,37 +1882,8 @@
           "profit": 0,
           "prof": -1.0,
           "total": 8,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "Sum Story",
-          "cloth": 17,
-          "odds": "16/1",
-          "tf": 2,
-          "rp": 2,
-          "rpr": 97,
-          "fav_rank": null,
-          "fav": 0,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -14.0,
-          "total": 4,
-          "res": null,
-          "pos": 0
+          "res": "WIN",
+          "pos": 1
         }
       ]
     },
