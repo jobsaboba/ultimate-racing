@@ -1,20 +1,44 @@
 {
   "date": "2026-01-31",
-  "generated": "2026-11-17T07:41:30+00:00",
+  "generated": "2026-11-17T07:46:01+00:00",
   "max": 55,
   "money": {
-    "bank_start": 9.9,
-    "staked": 0.1,
-    "returned": 0.0,
-    "bank_after": 9.8,
-    "bet": {
-      "horse": "The Kalooki Kid",
-      "odds": "10/3",
-      "total": 25,
-      "race_time": "14:20",
-      "race_meeting": "Musselburgh",
-      "res": "LOSE"
-    }
+    "bank_start": 10.43,
+    "staked": 0.3,
+    "returned": 0.43,
+    "bank_after": 10.56,
+    "bets": [
+      {
+        "horse": "Afadil",
+        "odds": "4/1",
+        "total": 21,
+        "race_time": "13:43",
+        "race_meeting": "Musselburgh",
+        "res": "PLACE",
+        "stake": 0.1,
+        "returned": 0.0
+      },
+      {
+        "horse": "The Kalooki Kid",
+        "odds": "10/3",
+        "total": 25,
+        "race_time": "14:20",
+        "race_meeting": "Musselburgh",
+        "res": "LOSE",
+        "stake": 0.1,
+        "returned": 0.0
+      },
+      {
+        "horse": "Magna Victor",
+        "odds": "10/3",
+        "total": 25,
+        "race_time": "15:37",
+        "race_meeting": "Musselburgh",
+        "res": "WIN",
+        "stake": 0.1,
+        "returned": 0.43
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

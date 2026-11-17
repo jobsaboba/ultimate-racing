@@ -1,20 +1,24 @@
 {
   "date": "2026-07-08",
-  "generated": "2026-11-17T07:41:32+00:00",
+  "generated": "2026-11-17T07:46:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.42,
-    "staked": 0.08,
-    "returned": 0.18,
-    "bank_after": 8.52,
-    "bet": {
-      "horse": "Mr Tony",
-      "odds": "6/5",
-      "total": 15,
-      "race_time": "18:36",
-      "race_meeting": "Chepstow",
-      "res": "WIN"
-    }
+    "bank_start": 13.91,
+    "staked": 0.14,
+    "returned": 0.31,
+    "bank_after": 14.08,
+    "bets": [
+      {
+        "horse": "Mr Tony",
+        "odds": "6/5",
+        "total": 15,
+        "race_time": "18:36",
+        "race_meeting": "Chepstow",
+        "res": "WIN",
+        "stake": 0.14,
+        "returned": 0.31
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

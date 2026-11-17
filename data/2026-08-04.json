@@ -1,20 +1,54 @@
 {
   "date": "2026-08-04",
-  "generated": "2026-11-17T07:41:32+00:00",
+  "generated": "2026-11-17T07:46:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.67,
-    "staked": 0.09,
-    "returned": 0.0,
-    "bank_after": 8.58,
-    "bet": {
-      "horse": "Cypriot Diaspora",
-      "odds": "13/8",
-      "total": 23,
-      "race_time": "14:30",
-      "race_meeting": "Ffos Las",
-      "res": "PLACE"
-    }
+    "bank_start": 15.01,
+    "staked": 0.6,
+    "returned": 0.89,
+    "bank_after": 15.3,
+    "bets": [
+      {
+        "horse": "Cypriot Diaspora",
+        "odds": "13/8",
+        "total": 23,
+        "race_time": "14:30",
+        "race_meeting": "Ffos Las",
+        "res": "PLACE",
+        "stake": 0.15,
+        "returned": 0.0
+      },
+      {
+        "horse": "Kaleidoscope Eyes",
+        "odds": "3/1",
+        "total": 22,
+        "race_time": "15:00",
+        "race_meeting": "Ffos Las",
+        "res": "WIN",
+        "stake": 0.15,
+        "returned": 0.6
+      },
+      {
+        "horse": "Wootz",
+        "odds": "10/11",
+        "total": 14,
+        "race_time": "15:30",
+        "race_meeting": "Ffos Las",
+        "res": "WIN",
+        "stake": 0.15,
+        "returned": 0.29
+      },
+      {
+        "horse": "Condotti",
+        "odds": "13/8",
+        "total": 13,
+        "race_time": "16:30",
+        "race_meeting": "Ffos Las",
+        "res": "LOSE",
+        "stake": 0.15,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

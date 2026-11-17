@@ -1,20 +1,24 @@
 {
   "date": "2026-08-27",
-  "generated": "2026-11-17T07:41:33+00:00",
+  "generated": "2026-11-17T07:46:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 9.43,
-    "staked": 0.09,
-    "returned": 0.39,
-    "bank_after": 9.73,
-    "bet": {
-      "horse": "Grand Pier",
-      "odds": "10/3",
-      "total": 15,
-      "race_time": "16:07",
-      "race_meeting": "Ffos Las",
-      "res": "WIN"
-    }
+    "bank_start": 13.23,
+    "staked": 0.13,
+    "returned": 0.56,
+    "bank_after": 13.66,
+    "bets": [
+      {
+        "horse": "Grand Pier",
+        "odds": "10/3",
+        "total": 15,
+        "race_time": "16:07",
+        "race_meeting": "Ffos Las",
+        "res": "WIN",
+        "stake": 0.13,
+        "returned": 0.56
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

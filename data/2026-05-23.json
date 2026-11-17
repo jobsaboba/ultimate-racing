@@ -1,20 +1,44 @@
 {
   "date": "2026-05-23",
-  "generated": "2026-11-17T07:41:31+00:00",
+  "generated": "2026-11-17T07:46:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.3,
-    "staked": 0.08,
-    "returned": 0.0,
-    "bank_after": 8.22,
-    "bet": {
-      "horse": "Orange Diamond",
-      "odds": "11/4",
-      "total": 18,
-      "race_time": "14:00",
-      "race_meeting": "Bangor-on-Dee",
-      "res": "LOSE"
-    }
+    "bank_start": 12.79,
+    "staked": 0.39,
+    "returned": 0.93,
+    "bank_after": 13.33,
+    "bets": [
+      {
+        "horse": "Orange Diamond",
+        "odds": "11/4",
+        "total": 18,
+        "race_time": "14:00",
+        "race_meeting": "Bangor-on-Dee",
+        "res": "LOSE",
+        "stake": 0.13,
+        "returned": 0.0
+      },
+      {
+        "horse": "Camshaft",
+        "odds": "10/3",
+        "total": 15,
+        "race_time": "15:45",
+        "race_meeting": "Bangor-on-Dee",
+        "res": "WIN",
+        "stake": 0.13,
+        "returned": 0.56
+      },
+      {
+        "horse": "Lady Coco",
+        "odds": "15/8",
+        "total": 13,
+        "race_time": "16:20",
+        "race_meeting": "Bangor-on-Dee",
+        "res": "WIN",
+        "stake": 0.13,
+        "returned": 0.37
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

@@ -1,20 +1,84 @@
 {
   "date": "2026-06-30",
-  "generated": "2026-11-17T07:41:32+00:00",
+  "generated": "2026-11-17T07:46:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.31,
-    "staked": 0.08,
-    "returned": 0.0,
-    "bank_after": 8.23,
-    "bet": {
-      "horse": "Wee Mary",
-      "odds": "2/1",
-      "total": 33,
-      "race_time": "16:05",
-      "race_meeting": "Musselburgh",
-      "res": "LOSE"
-    }
+    "bank_start": 12.24,
+    "staked": 0.84,
+    "returned": 0.69,
+    "bank_after": 12.09,
+    "bets": [
+      {
+        "horse": "Dwindling Funds",
+        "odds": "12/1",
+        "total": 18,
+        "race_time": "14:00",
+        "race_meeting": "Musselburgh",
+        "res": "PLACE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Classy Clarets",
+        "odds": "2/1",
+        "total": 23,
+        "race_time": "14:30",
+        "race_meeting": "Musselburgh",
+        "res": "WIN",
+        "stake": 0.12,
+        "returned": 0.36
+      },
+      {
+        "horse": "The Gay Blade",
+        "odds": "7/1",
+        "total": 25,
+        "race_time": "15:00",
+        "race_meeting": "Musselburgh",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Wee Mary",
+        "odds": "2/1",
+        "total": 33,
+        "race_time": "16:05",
+        "race_meeting": "Musselburgh",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Dark Whisper",
+        "odds": "7/4",
+        "total": 14,
+        "race_time": "17:39",
+        "race_meeting": "Ffos Las",
+        "res": "WIN",
+        "stake": 0.12,
+        "returned": 0.33
+      },
+      {
+        "horse": "King of The Dance",
+        "odds": "6/4",
+        "total": 19,
+        "race_time": "18:09",
+        "race_meeting": "Ffos Las",
+        "res": "PLACE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Dappled Light",
+        "odds": "5/2",
+        "total": 15,
+        "race_time": "18:39",
+        "race_meeting": "Ffos Las",
+        "res": "PLACE",
+        "stake": 0.12,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

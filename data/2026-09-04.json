@@ -1,20 +1,24 @@
 {
   "date": "2026-09-04",
-  "generated": "2026-11-17T07:41:33+00:00",
+  "generated": "2026-11-17T07:46:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 9.71,
-    "staked": 0.1,
-    "returned": 0.4,
-    "bank_after": 10.01,
-    "bet": {
-      "horse": "Ballynoe Boy",
-      "odds": "3/1",
-      "total": 14,
-      "race_time": "16:10",
-      "race_meeting": "Bangor-on-Dee",
-      "res": "WIN"
-    }
+    "bank_start": 13.14,
+    "staked": 0.13,
+    "returned": 0.52,
+    "bank_after": 13.53,
+    "bets": [
+      {
+        "horse": "Ballynoe Boy",
+        "odds": "3/1",
+        "total": 14,
+        "race_time": "16:10",
+        "race_meeting": "Bangor-on-Dee",
+        "res": "WIN",
+        "stake": 0.13,
+        "returned": 0.52
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

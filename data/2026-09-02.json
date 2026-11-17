@@ -1,20 +1,74 @@
 {
   "date": "2026-09-02",
-  "generated": "2026-11-17T07:41:33+00:00",
+  "generated": "2026-11-17T07:46:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 9.81,
-    "staked": 0.1,
-    "returned": 0.0,
-    "bank_after": 9.71,
-    "bet": {
-      "horse": "Annandale",
-      "odds": "5/2",
-      "total": 30,
-      "race_time": "18:50",
-      "race_meeting": "Hamilton",
-      "res": "LOSE"
-    }
+    "bank_start": 13.56,
+    "staked": 0.84,
+    "returned": 0.42,
+    "bank_after": 13.14,
+    "bets": [
+      {
+        "horse": "Iris Dancer",
+        "odds": "13/2",
+        "total": 22,
+        "race_time": "16:20",
+        "race_meeting": "Hamilton",
+        "res": "LOSE",
+        "stake": 0.14,
+        "returned": 0.0
+      },
+      {
+        "horse": "Perseus Way",
+        "odds": "2/1",
+        "total": 27,
+        "race_time": "16:50",
+        "race_meeting": "Hamilton",
+        "res": "WIN",
+        "stake": 0.14,
+        "returned": 0.42
+      },
+      {
+        "horse": "Harley",
+        "odds": "9/4",
+        "total": 21,
+        "race_time": "17:20",
+        "race_meeting": "Hamilton",
+        "res": "LOSE",
+        "stake": 0.14,
+        "returned": 0.0
+      },
+      {
+        "horse": "Mae Amor",
+        "odds": "4/1",
+        "total": 25,
+        "race_time": "17:50",
+        "race_meeting": "Hamilton",
+        "res": "LOSE",
+        "stake": 0.14,
+        "returned": 0.0
+      },
+      {
+        "horse": "Penelope's Sister",
+        "odds": "6/1",
+        "total": 20,
+        "race_time": "18:20",
+        "race_meeting": "Hamilton",
+        "res": "LOSE",
+        "stake": 0.14,
+        "returned": 0.0
+      },
+      {
+        "horse": "Annandale",
+        "odds": "5/2",
+        "total": 30,
+        "race_time": "18:50",
+        "race_meeting": "Hamilton",
+        "res": "LOSE",
+        "stake": 0.14,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

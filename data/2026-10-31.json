@@ -1,20 +1,54 @@
 {
   "date": "2026-10-31",
-  "generated": "2026-11-17T07:41:34+00:00",
+  "generated": "2026-11-17T07:46:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.55,
-    "staked": 0.09,
-    "returned": 0.0,
-    "bank_after": 8.46,
-    "bet": {
-      "horse": "Ck O'mara",
-      "odds": "5/2",
-      "total": 25,
-      "race_time": "16:10",
-      "race_meeting": "Ayr",
-      "res": "PLACE"
-    }
+    "bank_start": 10.93,
+    "staked": 0.44,
+    "returned": 0.48,
+    "bank_after": 10.97,
+    "bets": [
+      {
+        "horse": "Torosay",
+        "odds": "13/2",
+        "total": 17,
+        "race_time": "13:18",
+        "race_meeting": "Ayr",
+        "res": "LOSE",
+        "stake": 0.11,
+        "returned": 0.0
+      },
+      {
+        "horse": "Tommy Combats",
+        "odds": "10/3",
+        "total": 16,
+        "race_time": "14:28",
+        "race_meeting": "Ayr",
+        "res": "WIN",
+        "stake": 0.11,
+        "returned": 0.48
+      },
+      {
+        "horse": "She's Notjoeking",
+        "odds": "5/2",
+        "total": 23,
+        "race_time": "15:03",
+        "race_meeting": "Ayr",
+        "res": "PLACE",
+        "stake": 0.11,
+        "returned": 0.0
+      },
+      {
+        "horse": "Ck O'mara",
+        "odds": "5/2",
+        "total": 25,
+        "race_time": "16:10",
+        "race_meeting": "Ayr",
+        "res": "PLACE",
+        "stake": 0.11,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

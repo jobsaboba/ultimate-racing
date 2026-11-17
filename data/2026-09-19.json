@@ -1,20 +1,54 @@
 {
   "date": "2026-09-19",
-  "generated": "2026-11-17T07:41:33+00:00",
+  "generated": "2026-11-17T07:46:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 9.41,
-    "staked": 0.09,
+    "bank_start": 12.24,
+    "staked": 0.48,
     "returned": 0.0,
-    "bank_after": 9.32,
-    "bet": {
-      "horse": "Binhareer",
-      "odds": "4/1",
-      "total": 30,
-      "race_time": "14:40",
-      "race_meeting": "Ayr",
-      "res": "LOSE"
-    }
+    "bank_after": 11.76,
+    "bets": [
+      {
+        "horse": "Thunder Roar",
+        "odds": "11/2",
+        "total": 20,
+        "race_time": "12:20",
+        "race_meeting": "Ayr",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Deep Havana",
+        "odds": "10/3",
+        "total": 19,
+        "race_time": "13:30",
+        "race_meeting": "Ayr",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Binhareer",
+        "odds": "4/1",
+        "total": 30,
+        "race_time": "14:40",
+        "race_meeting": "Ayr",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Jannas Journey",
+        "odds": "3/1",
+        "total": 20,
+        "race_time": "15:50",
+        "race_meeting": "Ayr",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

@@ -1,20 +1,24 @@
 {
   "date": "2026-02-25",
-  "generated": "2026-11-17T07:41:30+00:00",
+  "generated": "2026-11-17T07:46:01+00:00",
   "max": 55,
   "money": {
-    "bank_start": 9.22,
-    "staked": 0.09,
-    "returned": 0.15,
-    "bank_after": 9.28,
-    "bet": {
-      "horse": "Halftheworldaway",
-      "odds": "8/13",
-      "total": 19,
-      "race_time": "14:00",
-      "race_meeting": "Bangor-on-Dee",
-      "res": "WIN"
-    }
+    "bank_start": 9.8,
+    "staked": 0.1,
+    "returned": 0.16,
+    "bank_after": 9.86,
+    "bets": [
+      {
+        "horse": "Halftheworldaway",
+        "odds": "8/13",
+        "total": 19,
+        "race_time": "14:00",
+        "race_meeting": "Bangor-on-Dee",
+        "res": "WIN",
+        "stake": 0.1,
+        "returned": 0.16
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

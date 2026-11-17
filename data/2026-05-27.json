@@ -1,20 +1,24 @@
 {
   "date": "2026-05-27",
-  "generated": "2026-11-17T07:41:31+00:00",
+  "generated": "2026-11-17T07:46:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.74,
-    "staked": 0.09,
-    "returned": 0.24,
-    "bank_after": 8.89,
-    "bet": {
-      "horse": "Tricky Tel",
-      "odds": "13/8",
-      "total": 19,
-      "race_time": "14:05",
-      "race_meeting": "Hamilton",
-      "res": "WIN"
-    }
+    "bank_start": 14.05,
+    "staked": 0.14,
+    "returned": 0.37,
+    "bank_after": 14.28,
+    "bets": [
+      {
+        "horse": "Tricky Tel",
+        "odds": "13/8",
+        "total": 19,
+        "race_time": "14:05",
+        "race_meeting": "Hamilton",
+        "res": "WIN",
+        "stake": 0.14,
+        "returned": 0.37
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

@@ -1,20 +1,104 @@
 {
   "date": "2026-08-21",
-  "generated": "2026-11-17T07:41:33+00:00",
+  "generated": "2026-11-17T07:46:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 9.36,
-    "staked": 0.09,
-    "returned": 0.36,
-    "bank_after": 9.63,
-    "bet": {
-      "horse": "City Captain",
-      "odds": "3/1",
-      "total": 29,
-      "race_time": "18:45",
-      "race_meeting": "Hamilton",
-      "res": "WIN"
-    }
+    "bank_start": 15.29,
+    "staked": 1.35,
+    "returned": 0.6,
+    "bank_after": 14.54,
+    "bets": [
+      {
+        "horse": "Willowinghurn",
+        "odds": "5/1",
+        "total": 21,
+        "race_time": "14:55",
+        "race_meeting": "Ffos Las",
+        "res": "PLACE",
+        "stake": 0.15,
+        "returned": 0.0
+      },
+      {
+        "horse": "Gert Lush",
+        "odds": "5/2",
+        "total": 15,
+        "race_time": "15:30",
+        "race_meeting": "Ffos Las",
+        "res": "PLACE",
+        "stake": 0.15,
+        "returned": 0.0
+      },
+      {
+        "horse": "Buck Barrow",
+        "odds": "11/2",
+        "total": 22,
+        "race_time": "16:02",
+        "race_meeting": "Ffos Las",
+        "res": "LOSE",
+        "stake": 0.15,
+        "returned": 0.0
+      },
+      {
+        "horse": "Wild Dahlia",
+        "odds": "15/8",
+        "total": 15,
+        "race_time": "16:07",
+        "race_meeting": "Hamilton",
+        "res": "LOSE",
+        "stake": 0.15,
+        "returned": 0.0
+      },
+      {
+        "horse": "Tiernan",
+        "odds": "10/3",
+        "total": 17,
+        "race_time": "17:15",
+        "race_meeting": "Hamilton",
+        "res": "LOSE",
+        "stake": 0.15,
+        "returned": 0.0
+      },
+      {
+        "horse": "Canon's House",
+        "odds": "4/1",
+        "total": 25,
+        "race_time": "17:45",
+        "race_meeting": "Hamilton",
+        "res": "LOSE",
+        "stake": 0.15,
+        "returned": 0.0
+      },
+      {
+        "horse": "Sir Garfield",
+        "odds": "3/1",
+        "total": 25,
+        "race_time": "18:15",
+        "race_meeting": "Hamilton",
+        "res": "LOSE",
+        "stake": 0.15,
+        "returned": 0.0
+      },
+      {
+        "horse": "City Captain",
+        "odds": "3/1",
+        "total": 29,
+        "race_time": "18:45",
+        "race_meeting": "Hamilton",
+        "res": "WIN",
+        "stake": 0.15,
+        "returned": 0.6
+      },
+      {
+        "horse": "Tanjen",
+        "odds": "11/8",
+        "total": 25,
+        "race_time": "19:15",
+        "race_meeting": "Hamilton",
+        "res": "PLACE",
+        "stake": 0.15,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

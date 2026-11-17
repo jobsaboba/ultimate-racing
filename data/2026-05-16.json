@@ -1,20 +1,44 @@
 {
   "date": "2026-05-16",
-  "generated": "2026-11-17T07:41:31+00:00",
+  "generated": "2026-11-17T07:46:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 7.78,
-    "staked": 0.08,
-    "returned": 0.32,
-    "bank_after": 8.02,
-    "bet": {
-      "horse": "Special John",
-      "odds": "3/1",
-      "total": 20,
-      "race_time": "15:30",
-      "race_meeting": "Bangor-on-Dee",
-      "res": "WIN"
-    }
+    "bank_start": 11.47,
+    "staked": 0.33,
+    "returned": 0.83,
+    "bank_after": 11.97,
+    "bets": [
+      {
+        "horse": "Mr Mojo Risin",
+        "odds": "1/1",
+        "total": 15,
+        "race_time": "13:10",
+        "race_meeting": "Bangor-on-Dee",
+        "res": "PLACE",
+        "stake": 0.11,
+        "returned": 0.0
+      },
+      {
+        "horse": "Dream's Ka",
+        "odds": "5/2",
+        "total": 15,
+        "race_time": "13:45",
+        "race_meeting": "Bangor-on-Dee",
+        "res": "WIN",
+        "stake": 0.11,
+        "returned": 0.39
+      },
+      {
+        "horse": "Special John",
+        "odds": "3/1",
+        "total": 20,
+        "race_time": "15:30",
+        "race_meeting": "Bangor-on-Dee",
+        "res": "WIN",
+        "stake": 0.11,
+        "returned": 0.44
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

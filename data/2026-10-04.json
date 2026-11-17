@@ -1,13 +1,13 @@
 {
   "date": "2026-10-04",
-  "generated": "2026-11-17T07:41:33+00:00",
+  "generated": "2026-11-17T07:46:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 9.2,
-    "staked": 0.0,
-    "returned": 0.0,
-    "bank_after": 9.2,
-    "bet": null
+    "bank_start": 11.71,
+    "staked": 0,
+    "returned": 0,
+    "bank_after": 11.71,
+    "bets": []
   },
   "sources": {
     "timeform": "ok",

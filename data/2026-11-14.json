@@ -1,20 +1,174 @@
 {
   "date": "2026-11-14",
-  "generated": "2026-11-17T07:41:35+00:00",
+  "generated": "2026-11-17T07:46:04+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.36,
-    "staked": 0.08,
-    "returned": 0.24,
-    "bank_after": 8.52,
-    "bet": {
-      "horse": "Thinkitdontjinxit",
-      "odds": "2/1",
-      "total": 34,
-      "race_time": "13:35",
-      "race_meeting": "Navan",
-      "res": "WIN"
-    }
+    "bank_start": 11.83,
+    "staked": 1.92,
+    "returned": 1.98,
+    "bank_after": 11.89,
+    "bets": [
+      {
+        "horse": "The Irish Avatar",
+        "odds": "9/4",
+        "total": 34,
+        "race_time": "11:52",
+        "race_meeting": "Navan",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Iconic Elsa",
+        "odds": "14/1",
+        "total": 12,
+        "race_time": "12:20",
+        "race_meeting": "Windsor",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Miners Bridge",
+        "odds": "4/1",
+        "total": 20,
+        "race_time": "12:27",
+        "race_meeting": "Navan",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Herakles Westwood",
+        "odds": "9/2",
+        "total": 21,
+        "race_time": "12:35",
+        "race_meeting": "Cheltenham",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Radiator Springs",
+        "odds": "9/2",
+        "total": 18,
+        "race_time": "13:02",
+        "race_meeting": "Navan",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Kildinan Prince",
+        "odds": "4/1",
+        "total": 25,
+        "race_time": "13:25",
+        "race_meeting": "Windsor",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Thinkitdontjinxit",
+        "odds": "2/1",
+        "total": 34,
+        "race_time": "13:35",
+        "race_meeting": "Navan",
+        "res": "WIN",
+        "stake": 0.12,
+        "returned": 0.36
+      },
+      {
+        "horse": "Savanna Storm",
+        "odds": "6/1",
+        "total": 15,
+        "race_time": "13:50",
+        "race_meeting": "Uttoxeter",
+        "res": "WIN",
+        "stake": 0.12,
+        "returned": 0.84
+      },
+      {
+        "horse": "Barafundle Bay",
+        "odds": "9/4",
+        "total": 19,
+        "race_time": "14:00",
+        "race_meeting": "Windsor",
+        "res": "WIN",
+        "stake": 0.12,
+        "returned": 0.39
+      },
+      {
+        "horse": "Blueking D'oroux",
+        "odds": "4/1",
+        "total": 32,
+        "race_time": "14:20",
+        "race_meeting": "Cheltenham",
+        "res": "PLACE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Rambo T",
+        "odds": "5/1",
+        "total": 14,
+        "race_time": "14:55",
+        "race_meeting": "Cheltenham",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Misterdoc",
+        "odds": "5/1",
+        "total": 28,
+        "race_time": "15:10",
+        "race_meeting": "Windsor",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Hannah's Kitchen",
+        "odds": "3/1",
+        "total": 19,
+        "race_time": "15:35",
+        "race_meeting": "Uttoxeter",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Waverley",
+        "odds": "2/1",
+        "total": 14,
+        "race_time": "15:45",
+        "race_meeting": "Windsor",
+        "res": "PLACE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Kanzler",
+        "odds": "4/1",
+        "total": 26,
+        "race_time": "15:53",
+        "race_meeting": "Navan",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Elegantemente",
+        "odds": "9/4",
+        "total": 30,
+        "race_time": "16:00",
+        "race_meeting": "Cheltenham",
+        "res": "WIN",
+        "stake": 0.12,
+        "returned": 0.39
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

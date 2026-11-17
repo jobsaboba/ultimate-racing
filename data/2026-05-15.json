@@ -1,20 +1,54 @@
 {
   "date": "2026-05-15",
-  "generated": "2026-11-17T07:41:31+00:00",
+  "generated": "2026-11-17T07:46:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 7.86,
-    "staked": 0.08,
-    "returned": 0.0,
-    "bank_after": 7.78,
-    "bet": {
-      "horse": "Thornaby Pearl",
-      "odds": "9/4",
-      "total": 24,
-      "race_time": "16:30",
-      "race_meeting": "Hamilton",
-      "res": "PLACE"
-    }
+    "bank_start": 11.56,
+    "staked": 0.48,
+    "returned": 0.39,
+    "bank_after": 11.47,
+    "bets": [
+      {
+        "horse": "Thornaby Pearl",
+        "odds": "9/4",
+        "total": 24,
+        "race_time": "16:30",
+        "race_meeting": "Hamilton",
+        "res": "PLACE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Draupnir",
+        "odds": "18/5",
+        "total": 14,
+        "race_time": "18:50",
+        "race_meeting": "Hamilton",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Welbury",
+        "odds": "11/10",
+        "total": 20,
+        "race_time": "19:25",
+        "race_meeting": "Hamilton",
+        "res": "PLACE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Perfidia",
+        "odds": "9/4",
+        "total": 20,
+        "race_time": "20:00",
+        "race_meeting": "Hamilton",
+        "res": "WIN",
+        "stake": 0.12,
+        "returned": 0.39
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

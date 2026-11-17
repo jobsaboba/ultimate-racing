@@ -1,20 +1,44 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-11-17T07:41:32+00:00",
+  "generated": "2026-11-17T07:46:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.76,
-    "staked": 0.09,
+    "bank_start": 14.0,
+    "staked": 0.42,
     "returned": 0.0,
-    "bank_after": 8.67,
-    "bet": {
-      "horse": "Prince Ali",
-      "odds": "11/2",
-      "total": 27,
-      "race_time": "18:36",
-      "race_meeting": "Chepstow",
-      "res": "PLACE"
-    }
+    "bank_after": 13.58,
+    "bets": [
+      {
+        "horse": "Forest Berry",
+        "odds": "2/1",
+        "total": 14,
+        "race_time": "16:52",
+        "race_meeting": "Chepstow",
+        "res": "PLACE",
+        "stake": 0.14,
+        "returned": 0.0
+      },
+      {
+        "horse": "Prince Ali",
+        "odds": "11/2",
+        "total": 27,
+        "race_time": "18:36",
+        "race_meeting": "Chepstow",
+        "res": "PLACE",
+        "stake": 0.14,
+        "returned": 0.0
+      },
+      {
+        "horse": "Midnight Media",
+        "odds": "3/1",
+        "total": 15,
+        "race_time": "19:46",
+        "race_meeting": "Chepstow",
+        "res": "PLACE",
+        "stake": 0.14,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

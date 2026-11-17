@@ -1,20 +1,44 @@
 {
   "date": "2026-01-27",
-  "generated": "2026-11-17T07:41:30+00:00",
+  "generated": "2026-11-17T07:46:01+00:00",
   "max": 55,
   "money": {
-    "bank_start": 10.1,
-    "staked": 0.1,
-    "returned": 0.0,
-    "bank_after": 10.0,
-    "bet": {
-      "horse": "High Tea",
-      "odds": "4/1",
-      "total": 22,
-      "race_time": "14:02",
-      "race_meeting": "Chepstow",
-      "res": "LOSE"
-    }
+    "bank_start": 10.23,
+    "staked": 0.3,
+    "returned": 0.17,
+    "bank_after": 10.1,
+    "bets": [
+      {
+        "horse": "High Tea",
+        "odds": "4/1",
+        "total": 22,
+        "race_time": "14:02",
+        "race_meeting": "Chepstow",
+        "res": "LOSE",
+        "stake": 0.1,
+        "returned": 0.0
+      },
+      {
+        "horse": "Charisma Cat",
+        "odds": "8/11",
+        "total": 20,
+        "race_time": "15:12",
+        "race_meeting": "Chepstow",
+        "res": "WIN",
+        "stake": 0.1,
+        "returned": 0.17
+      },
+      {
+        "horse": "Westbrooke Boy",
+        "odds": "3/1",
+        "total": 18,
+        "race_time": "16:22",
+        "race_meeting": "Chepstow",
+        "res": "LOSE",
+        "stake": 0.1,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

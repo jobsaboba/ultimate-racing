@@ -1,20 +1,44 @@
 {
   "date": "2026-02-01",
-  "generated": "2026-11-17T07:41:30+00:00",
+  "generated": "2026-11-17T07:46:01+00:00",
   "max": 55,
   "money": {
-    "bank_start": 9.8,
-    "staked": 0.1,
+    "bank_start": 10.56,
+    "staked": 0.33,
     "returned": 0.0,
-    "bank_after": 9.7,
-    "bet": {
-      "horse": "Lizzie Luna",
-      "odds": "11/4",
-      "total": 22,
-      "race_time": "16:15",
-      "race_meeting": "Musselburgh",
-      "res": "LOSE"
-    }
+    "bank_after": 10.23,
+    "bets": [
+      {
+        "horse": "Newtown Rambler",
+        "odds": "10/3",
+        "total": 16,
+        "race_time": "14:30",
+        "race_meeting": "Musselburgh",
+        "res": "LOSE",
+        "stake": 0.11,
+        "returned": 0.0
+      },
+      {
+        "horse": "Double Powerful",
+        "odds": "10/3",
+        "total": 14,
+        "race_time": "15:40",
+        "race_meeting": "Musselburgh",
+        "res": "LOSE",
+        "stake": 0.11,
+        "returned": 0.0
+      },
+      {
+        "horse": "Lizzie Luna",
+        "odds": "11/4",
+        "total": 22,
+        "race_time": "16:15",
+        "race_meeting": "Musselburgh",
+        "res": "LOSE",
+        "stake": 0.11,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

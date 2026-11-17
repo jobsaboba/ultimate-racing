@@ -1,20 +1,64 @@
 {
   "date": "2026-08-11",
-  "generated": "2026-11-17T07:41:32+00:00",
+  "generated": "2026-11-17T07:46:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.93,
-    "staked": 0.09,
-    "returned": 0.19,
-    "bank_after": 9.03,
-    "bet": {
-      "horse": "Sanafi Zabeel",
-      "odds": "11/10",
-      "total": 24,
-      "race_time": "18:30",
-      "race_meeting": "Hamilton",
-      "res": "WIN"
-    }
+    "bank_start": 15.02,
+    "staked": 0.75,
+    "returned": 1.07,
+    "bank_after": 15.34,
+    "bets": [
+      {
+        "horse": "Matter Of Britain",
+        "odds": "4/1",
+        "total": 18,
+        "race_time": "17:30",
+        "race_meeting": "Hamilton",
+        "res": "WIN",
+        "stake": 0.15,
+        "returned": 0.75
+      },
+      {
+        "horse": "Spoken Truth",
+        "odds": "3/1",
+        "total": 21,
+        "race_time": "18:00",
+        "race_meeting": "Hamilton",
+        "res": "PLACE",
+        "stake": 0.15,
+        "returned": 0.0
+      },
+      {
+        "horse": "Sanafi Zabeel",
+        "odds": "11/10",
+        "total": 24,
+        "race_time": "18:30",
+        "race_meeting": "Hamilton",
+        "res": "WIN",
+        "stake": 0.15,
+        "returned": 0.32
+      },
+      {
+        "horse": "Top Juggler",
+        "odds": "10/3",
+        "total": 21,
+        "race_time": "19:00",
+        "race_meeting": "Hamilton",
+        "res": "LOSE",
+        "stake": 0.15,
+        "returned": 0.0
+      },
+      {
+        "horse": "Patrick Street",
+        "odds": "15/8",
+        "total": 23,
+        "race_time": "19:30",
+        "race_meeting": "Hamilton",
+        "res": "LOSE",
+        "stake": 0.15,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

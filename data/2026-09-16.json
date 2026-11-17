@@ -1,20 +1,24 @@
 {
   "date": "2026-09-16",
-  "generated": "2026-11-17T07:41:33+00:00",
+  "generated": "2026-11-17T07:46:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 9.71,
-    "staked": 0.1,
+    "bank_start": 13.1,
+    "staked": 0.13,
     "returned": 0.0,
-    "bank_after": 9.61,
-    "bet": {
-      "horse": "Scots Poet",
-      "odds": "7/2",
-      "total": 16,
-      "race_time": "15:25",
-      "race_meeting": "Kelso",
-      "res": "LOSE"
-    }
+    "bank_after": 12.97,
+    "bets": [
+      {
+        "horse": "Scots Poet",
+        "odds": "7/2",
+        "total": 16,
+        "race_time": "15:25",
+        "race_meeting": "Kelso",
+        "res": "LOSE",
+        "stake": 0.13,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

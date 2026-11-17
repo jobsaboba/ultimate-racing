@@ -1,20 +1,54 @@
 {
   "date": "2026-05-03",
-  "generated": "2026-11-17T07:41:31+00:00",
+  "generated": "2026-11-17T07:46:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 7.84,
-    "staked": 0.08,
-    "returned": 0.18,
-    "bank_after": 7.94,
-    "bet": {
-      "horse": "Alpine Sierra",
-      "odds": "6/5",
-      "total": 28,
-      "race_time": "16:35",
-      "race_meeting": "Hamilton",
-      "res": "WIN"
-    }
+    "bank_start": 11.28,
+    "staked": 0.44,
+    "returned": 0.24,
+    "bank_after": 11.08,
+    "bets": [
+      {
+        "horse": "Izzari",
+        "odds": "10/3",
+        "total": 17,
+        "race_time": "14:53",
+        "race_meeting": "Hamilton",
+        "res": "LOSE",
+        "stake": 0.11,
+        "returned": 0.0
+      },
+      {
+        "horse": "Liverpool Star",
+        "odds": "11/10",
+        "total": 20,
+        "race_time": "15:25",
+        "race_meeting": "Hamilton",
+        "res": "LOSE",
+        "stake": 0.11,
+        "returned": 0.0
+      },
+      {
+        "horse": "Thunderstorm Katie",
+        "odds": "12/1",
+        "total": 22,
+        "race_time": "16:00",
+        "race_meeting": "Hamilton",
+        "res": "LOSE",
+        "stake": 0.11,
+        "returned": 0.0
+      },
+      {
+        "horse": "Alpine Sierra",
+        "odds": "6/5",
+        "total": 28,
+        "race_time": "16:35",
+        "race_meeting": "Hamilton",
+        "res": "WIN",
+        "stake": 0.11,
+        "returned": 0.24
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

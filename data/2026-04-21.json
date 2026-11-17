@@ -1,20 +1,44 @@
 {
   "date": "2026-04-21",
-  "generated": "2026-11-17T07:41:31+00:00",
+  "generated": "2026-11-17T07:46:01+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.03,
-    "staked": 0.08,
-    "returned": 0.16,
-    "bank_after": 8.11,
-    "bet": {
-      "horse": "Crystal Island",
-      "odds": "1/1",
-      "total": 20,
-      "race_time": "15:38",
-      "race_meeting": "Ffos Las",
-      "res": "WIN"
-    }
+    "bank_start": 11.51,
+    "staked": 0.36,
+    "returned": 0.24,
+    "bank_after": 11.39,
+    "bets": [
+      {
+        "horse": "Crystal Island",
+        "odds": "1/1",
+        "total": 20,
+        "race_time": "15:38",
+        "race_meeting": "Ffos Las",
+        "res": "WIN",
+        "stake": 0.12,
+        "returned": 0.24
+      },
+      {
+        "horse": "Kastellion",
+        "odds": "7/2",
+        "total": 18,
+        "race_time": "16:12",
+        "race_meeting": "Ffos Las",
+        "res": "PLACE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Largy Panic",
+        "odds": "5/2",
+        "total": 19,
+        "race_time": "18:12",
+        "race_meeting": "Ffos Las",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

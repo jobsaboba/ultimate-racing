@@ -1,20 +1,54 @@
 {
   "date": "2026-08-09",
-  "generated": "2026-11-17T07:41:32+00:00",
+  "generated": "2026-11-17T07:46:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.79,
-    "staked": 0.09,
+    "bank_start": 15.4,
+    "staked": 0.6,
     "returned": 0.0,
-    "bank_after": 8.7,
-    "bet": {
-      "horse": "Desert Charm",
-      "odds": "9/4",
-      "total": 25,
-      "race_time": "15:26",
-      "race_meeting": "Chepstow",
-      "res": "LOSE"
-    }
+    "bank_after": 14.8,
+    "bets": [
+      {
+        "horse": "Crystal Kraken",
+        "odds": "11/4",
+        "total": 13,
+        "race_time": "13:41",
+        "race_meeting": "Chepstow",
+        "res": "PLACE",
+        "stake": 0.15,
+        "returned": 0.0
+      },
+      {
+        "horse": "Global Success",
+        "odds": "5/4",
+        "total": 15,
+        "race_time": "14:16",
+        "race_meeting": "Chepstow",
+        "res": "PLACE",
+        "stake": 0.15,
+        "returned": 0.0
+      },
+      {
+        "horse": "Go Victor",
+        "odds": "7/4",
+        "total": 20,
+        "race_time": "14:51",
+        "race_meeting": "Chepstow",
+        "res": "PLACE",
+        "stake": 0.15,
+        "returned": 0.0
+      },
+      {
+        "horse": "Desert Charm",
+        "odds": "9/4",
+        "total": 25,
+        "race_time": "15:26",
+        "race_meeting": "Chepstow",
+        "res": "LOSE",
+        "stake": 0.15,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

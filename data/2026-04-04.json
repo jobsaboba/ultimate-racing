@@ -1,20 +1,64 @@
 {
   "date": "2026-04-04",
-  "generated": "2026-11-17T07:41:31+00:00",
+  "generated": "2026-11-17T07:46:01+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.39,
-    "staked": 0.08,
-    "returned": 0.0,
-    "bank_after": 8.31,
-    "bet": {
-      "horse": "Jer Batt",
-      "odds": "7/2",
-      "total": 23,
-      "race_time": "14:42",
-      "race_meeting": "Musselburgh",
-      "res": "LOSE"
-    }
+    "bank_start": 10.13,
+    "staked": 0.5,
+    "returned": 0.5,
+    "bank_after": 10.13,
+    "bets": [
+      {
+        "horse": "Gweedore",
+        "odds": "17/2",
+        "total": 18,
+        "race_time": "12:55",
+        "race_meeting": "Musselburgh",
+        "res": "LOSE",
+        "stake": 0.1,
+        "returned": 0.0
+      },
+      {
+        "horse": "Gambino",
+        "odds": "11/4",
+        "total": 22,
+        "race_time": "14:05",
+        "race_meeting": "Musselburgh",
+        "res": "LOSE",
+        "stake": 0.1,
+        "returned": 0.0
+      },
+      {
+        "horse": "Jer Batt",
+        "odds": "7/2",
+        "total": 23,
+        "race_time": "14:42",
+        "race_meeting": "Musselburgh",
+        "res": "LOSE",
+        "stake": 0.1,
+        "returned": 0.0
+      },
+      {
+        "horse": "The Kalonji Man",
+        "odds": "9/4",
+        "total": 13,
+        "race_time": "15:12",
+        "race_meeting": "Musselburgh",
+        "res": "LOSE",
+        "stake": 0.1,
+        "returned": 0.0
+      },
+      {
+        "horse": "Wheels Of Fire",
+        "odds": "4/1",
+        "total": 20,
+        "race_time": "15:45",
+        "race_meeting": "Musselburgh",
+        "res": "WIN",
+        "stake": 0.1,
+        "returned": 0.5
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

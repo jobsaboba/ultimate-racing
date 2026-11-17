@@ -1,20 +1,104 @@
 {
   "date": "2026-11-08",
-  "generated": "2026-11-17T07:41:34+00:00",
+  "generated": "2026-11-17T07:46:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.22,
-    "staked": 0.08,
-    "returned": 0.16,
-    "bank_after": 8.3,
-    "bet": {
-      "horse": "Little Patience",
-      "odds": "1/1",
-      "total": 25,
-      "race_time": "15:02",
-      "race_meeting": "Ffos Las",
-      "res": "WIN"
-    }
+    "bank_start": 8.45,
+    "staked": 0.72,
+    "returned": 1.57,
+    "bank_after": 9.3,
+    "bets": [
+      {
+        "horse": "Shellrunforbriggs",
+        "odds": "15/8",
+        "total": 19,
+        "race_time": "12:00",
+        "race_meeting": "Naas",
+        "res": "WIN",
+        "stake": 0.08,
+        "returned": 0.23
+      },
+      {
+        "horse": "The Mourne Rambler",
+        "odds": "1/4",
+        "total": 20,
+        "race_time": "12:30",
+        "race_meeting": "Naas",
+        "res": "WIN",
+        "stake": 0.08,
+        "returned": 0.1
+      },
+      {
+        "horse": "Tap Tap Shamie",
+        "odds": "8/15",
+        "total": 20,
+        "race_time": "12:50",
+        "race_meeting": "Ffos Las",
+        "res": "PLACE",
+        "stake": 0.08,
+        "returned": 0.0
+      },
+      {
+        "horse": "Minella Machine",
+        "odds": "4/9",
+        "total": 15,
+        "race_time": "13:30",
+        "race_meeting": "Naas",
+        "res": "WIN",
+        "stake": 0.08,
+        "returned": 0.12
+      },
+      {
+        "horse": "Followango",
+        "odds": "11/1",
+        "total": 18,
+        "race_time": "13:52",
+        "race_meeting": "Ffos Las",
+        "res": "PLACE",
+        "stake": 0.08,
+        "returned": 0.0
+      },
+      {
+        "horse": "Le Moulin Rouge",
+        "odds": "11/2",
+        "total": 19,
+        "race_time": "14:04",
+        "race_meeting": "Naas",
+        "res": "WIN",
+        "stake": 0.08,
+        "returned": 0.52
+      },
+      {
+        "horse": "Little Patience",
+        "odds": "1/1",
+        "total": 25,
+        "race_time": "15:02",
+        "race_meeting": "Ffos Las",
+        "res": "WIN",
+        "stake": 0.08,
+        "returned": 0.16
+      },
+      {
+        "horse": "Port Station",
+        "odds": "9/4",
+        "total": 15,
+        "race_time": "15:25",
+        "race_meeting": "Sandown",
+        "res": "WIN",
+        "stake": 0.08,
+        "returned": 0.26
+      },
+      {
+        "horse": "Ballydonagh Girl",
+        "odds": "6/5",
+        "total": 15,
+        "race_time": "15:48",
+        "race_meeting": "Naas",
+        "res": "WIN",
+        "stake": 0.08,
+        "returned": 0.18
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

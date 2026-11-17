@@ -1,20 +1,74 @@
 {
   "date": "2026-09-12",
-  "generated": "2026-11-17T07:41:33+00:00",
+  "generated": "2026-11-17T07:46:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 9.81,
-    "staked": 0.1,
-    "returned": 0.0,
-    "bank_after": 9.71,
-    "bet": {
-      "horse": "Needin' U",
-      "odds": "11/4",
-      "total": 25,
-      "race_time": "16:20",
-      "race_meeting": "Musselburgh",
-      "res": "PLACE"
-    }
+    "bank_start": 13.36,
+    "staked": 0.78,
+    "returned": 0.52,
+    "bank_after": 13.1,
+    "bets": [
+      {
+        "horse": "Thats My Boy Luke",
+        "odds": "5/2",
+        "total": 18,
+        "race_time": "15:07",
+        "race_meeting": "Musselburgh",
+        "res": "PLACE",
+        "stake": 0.13,
+        "returned": 0.0
+      },
+      {
+        "horse": "Extragalactic",
+        "odds": "8/11",
+        "total": 15,
+        "race_time": "15:42",
+        "race_meeting": "Musselburgh",
+        "res": "PLACE",
+        "stake": 0.13,
+        "returned": 0.0
+      },
+      {
+        "horse": "Needin' U",
+        "odds": "11/4",
+        "total": 25,
+        "race_time": "16:20",
+        "race_meeting": "Musselburgh",
+        "res": "PLACE",
+        "stake": 0.13,
+        "returned": 0.0
+      },
+      {
+        "horse": "Sunriseontheboyne",
+        "odds": "3/1",
+        "total": 14,
+        "race_time": "16:50",
+        "race_meeting": "Musselburgh",
+        "res": "WIN",
+        "stake": 0.13,
+        "returned": 0.52
+      },
+      {
+        "horse": "Carolus Magnus",
+        "odds": "7/1",
+        "total": 22,
+        "race_time": "17:20",
+        "race_meeting": "Musselburgh",
+        "res": "PLACE",
+        "stake": 0.13,
+        "returned": 0.0
+      },
+      {
+        "horse": "Royal Duke",
+        "odds": "7/2",
+        "total": 23,
+        "race_time": "18:20",
+        "race_meeting": "Musselburgh",
+        "res": "PLACE",
+        "stake": 0.13,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

@@ -1,20 +1,74 @@
 {
   "date": "2026-10-09",
-  "generated": "2026-11-17T07:41:33+00:00",
+  "generated": "2026-11-17T07:46:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 9.11,
-    "staked": 0.09,
-    "returned": 0.0,
-    "bank_after": 9.02,
-    "bet": {
-      "horse": "Jaminska",
-      "odds": "4/1",
-      "total": 23,
-      "race_time": "15:17",
-      "race_meeting": "Chepstow",
-      "res": "PLACE"
-    }
+    "bank_start": 11.47,
+    "staked": 0.66,
+    "returned": 0.86,
+    "bank_after": 11.67,
+    "bets": [
+      {
+        "horse": "Cooltobecareless",
+        "odds": "1/1",
+        "total": 20,
+        "race_time": "12:22",
+        "race_meeting": "Chepstow",
+        "res": "WIN",
+        "stake": 0.11,
+        "returned": 0.22
+      },
+      {
+        "horse": "Saint Jeannais",
+        "odds": "5/6",
+        "total": 20,
+        "race_time": "12:57",
+        "race_meeting": "Chepstow",
+        "res": "WIN",
+        "stake": 0.11,
+        "returned": 0.2
+      },
+      {
+        "horse": "Pioneer Pete",
+        "odds": "3/1",
+        "total": 18,
+        "race_time": "14:12",
+        "race_meeting": "Chepstow",
+        "res": "WIN",
+        "stake": 0.11,
+        "returned": 0.44
+      },
+      {
+        "horse": "Cosmic Connection",
+        "odds": "15/8",
+        "total": 18,
+        "race_time": "14:43",
+        "race_meeting": "Chepstow",
+        "res": "LOSE",
+        "stake": 0.11,
+        "returned": 0.0
+      },
+      {
+        "horse": "Jaminska",
+        "odds": "4/1",
+        "total": 23,
+        "race_time": "15:17",
+        "race_meeting": "Chepstow",
+        "res": "PLACE",
+        "stake": 0.11,
+        "returned": 0.0
+      },
+      {
+        "horse": "Marlacoo",
+        "odds": "5/2",
+        "total": 20,
+        "race_time": "15:55",
+        "race_meeting": "Chepstow",
+        "res": "LOSE",
+        "stake": 0.11,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

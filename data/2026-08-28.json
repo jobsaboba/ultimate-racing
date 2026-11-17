@@ -1,20 +1,44 @@
 {
   "date": "2026-08-28",
-  "generated": "2026-11-17T07:41:33+00:00",
+  "generated": "2026-11-17T07:46:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 9.73,
-    "staked": 0.1,
-    "returned": 0.0,
-    "bank_after": 9.63,
-    "bet": {
-      "horse": "Dinah Myte",
-      "odds": "2/1",
-      "total": 28,
-      "race_time": "14:45",
-      "race_meeting": "Ffos Las",
-      "res": "LOSE"
-    }
+    "bank_start": 13.66,
+    "staked": 0.42,
+    "returned": 0.63,
+    "bank_after": 13.87,
+    "bets": [
+      {
+        "horse": "Cypriot Diaspora",
+        "odds": "7/2",
+        "total": 18,
+        "race_time": "13:35",
+        "race_meeting": "Ffos Las",
+        "res": "WIN",
+        "stake": 0.14,
+        "returned": 0.63
+      },
+      {
+        "horse": "Dinah Myte",
+        "odds": "2/1",
+        "total": 28,
+        "race_time": "14:45",
+        "race_meeting": "Ffos Las",
+        "res": "LOSE",
+        "stake": 0.14,
+        "returned": 0.0
+      },
+      {
+        "horse": "Grindleton",
+        "odds": "3/1",
+        "total": 14,
+        "race_time": "15:20",
+        "race_meeting": "Ffos Las",
+        "res": "LOSE",
+        "stake": 0.14,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

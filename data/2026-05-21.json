@@ -1,20 +1,64 @@
 {
   "date": "2026-05-21",
-  "generated": "2026-11-17T07:41:31+00:00",
+  "generated": "2026-11-17T07:46:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.14,
-    "staked": 0.08,
-    "returned": 0.24,
-    "bank_after": 8.3,
-    "bet": {
-      "horse": "Bellarchi",
-      "odds": "2/1",
-      "total": 24,
-      "race_time": "15:25",
-      "race_meeting": "Musselburgh",
-      "res": "WIN"
-    }
+    "bank_start": 12.09,
+    "staked": 0.6,
+    "returned": 1.3,
+    "bank_after": 12.79,
+    "bets": [
+      {
+        "horse": "Bellarchi",
+        "odds": "2/1",
+        "total": 24,
+        "race_time": "15:25",
+        "race_meeting": "Musselburgh",
+        "res": "WIN",
+        "stake": 0.12,
+        "returned": 0.36
+      },
+      {
+        "horse": "Green Titan",
+        "odds": "10/3",
+        "total": 15,
+        "race_time": "16:30",
+        "race_meeting": "Chepstow",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Canaria Queen",
+        "odds": "10/3",
+        "total": 21,
+        "race_time": "16:35",
+        "race_meeting": "Musselburgh",
+        "res": "WIN",
+        "stake": 0.12,
+        "returned": 0.52
+      },
+      {
+        "horse": "Dapper Gee Gee",
+        "odds": "5/2",
+        "total": 24,
+        "race_time": "18:10",
+        "race_meeting": "Chepstow",
+        "res": "WIN",
+        "stake": 0.12,
+        "returned": 0.42
+      },
+      {
+        "horse": "Punchbowl Flyer",
+        "odds": "10/3",
+        "total": 20,
+        "race_time": "18:40",
+        "race_meeting": "Chepstow",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

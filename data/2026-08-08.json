@@ -1,20 +1,84 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-11-17T07:41:32+00:00",
+  "generated": "2026-11-17T07:46:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.88,
-    "staked": 0.09,
-    "returned": 0.0,
-    "bank_after": 8.79,
-    "bet": {
-      "horse": "Mr Cool",
-      "odds": "7/2",
-      "total": 27,
-      "race_time": "18:30",
-      "race_meeting": "Ayr",
-      "res": "PLACE"
-    }
+    "bank_start": 15.8,
+    "staked": 1.12,
+    "returned": 0.72,
+    "bank_after": 15.4,
+    "bets": [
+      {
+        "horse": "Beechwood Glory",
+        "odds": "13/8",
+        "total": 13,
+        "race_time": "16:27",
+        "race_meeting": "Ayr",
+        "res": "PLACE",
+        "stake": 0.16,
+        "returned": 0.0
+      },
+      {
+        "horse": "Harb",
+        "odds": "4/1",
+        "total": 23,
+        "race_time": "17:00",
+        "race_meeting": "Ayr",
+        "res": "LOSE",
+        "stake": 0.16,
+        "returned": 0.0
+      },
+      {
+        "horse": "Phantom Shadow",
+        "odds": "5/1",
+        "total": 26,
+        "race_time": "17:30",
+        "race_meeting": "Ayr",
+        "res": "LOSE",
+        "stake": 0.16,
+        "returned": 0.0
+      },
+      {
+        "horse": "Theoryofeverything",
+        "odds": "7/2",
+        "total": 24,
+        "race_time": "18:00",
+        "race_meeting": "Ayr",
+        "res": "WIN",
+        "stake": 0.16,
+        "returned": 0.72
+      },
+      {
+        "horse": "Mr Cool",
+        "odds": "7/2",
+        "total": 27,
+        "race_time": "18:30",
+        "race_meeting": "Ayr",
+        "res": "PLACE",
+        "stake": 0.16,
+        "returned": 0.0
+      },
+      {
+        "horse": "Yaaser",
+        "odds": "5/1",
+        "total": 18,
+        "race_time": "19:00",
+        "race_meeting": "Ayr",
+        "res": "LOSE",
+        "stake": 0.16,
+        "returned": 0.0
+      },
+      {
+        "horse": "Wicklow Way",
+        "odds": "7/2",
+        "total": 17,
+        "race_time": "19:30",
+        "race_meeting": "Ayr",
+        "res": "LOSE",
+        "stake": 0.16,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

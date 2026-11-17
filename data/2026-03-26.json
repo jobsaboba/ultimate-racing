@@ -1,20 +1,54 @@
 {
   "date": "2026-03-26",
-  "generated": "2026-11-17T07:41:31+00:00",
+  "generated": "2026-11-17T07:46:01+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.65,
-    "staked": 0.09,
-    "returned": 0.0,
-    "bank_after": 8.56,
-    "bet": {
-      "horse": "Tom Taggle",
-      "odds": "18/5",
-      "total": 22,
-      "race_time": "14:50",
-      "race_meeting": "Chepstow",
-      "res": "LOSE"
-    }
+    "bank_start": 9.8,
+    "staked": 0.4,
+    "returned": 0.8,
+    "bank_after": 10.2,
+    "bets": [
+      {
+        "horse": "Tom Taggle",
+        "odds": "18/5",
+        "total": 22,
+        "race_time": "14:50",
+        "race_meeting": "Chepstow",
+        "res": "LOSE",
+        "stake": 0.1,
+        "returned": 0.0
+      },
+      {
+        "horse": "Inion Tiogair",
+        "odds": "5/1",
+        "total": 21,
+        "race_time": "16:20",
+        "race_meeting": "Chepstow",
+        "res": "WIN",
+        "stake": 0.1,
+        "returned": 0.6
+      },
+      {
+        "horse": "Crystello",
+        "odds": "6/4",
+        "total": 20,
+        "race_time": "16:50",
+        "race_meeting": "Chepstow",
+        "res": "LOSE",
+        "stake": 0.1,
+        "returned": 0.0
+      },
+      {
+        "horse": "Stick To The Board",
+        "odds": "1/1",
+        "total": 15,
+        "race_time": "17:20",
+        "race_meeting": "Chepstow",
+        "res": "WIN",
+        "stake": 0.1,
+        "returned": 0.2
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

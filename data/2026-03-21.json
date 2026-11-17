@@ -1,20 +1,94 @@
 {
   "date": "2026-03-21",
-  "generated": "2026-11-17T07:41:30+00:00",
+  "generated": "2026-11-17T07:46:01+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.74,
-    "staked": 0.09,
-    "returned": 0.0,
-    "bank_after": 8.65,
-    "bet": {
-      "horse": "Ayyadieh",
-      "odds": "4/1",
-      "total": 20,
-      "race_time": "16:30",
-      "race_meeting": "Bangor-on-Dee",
-      "res": "PLACE"
-    }
+    "bank_start": 9.25,
+    "staked": 0.72,
+    "returned": 1.27,
+    "bank_after": 9.8,
+    "bets": [
+      {
+        "horse": "World Of Fortunes",
+        "odds": "11/4",
+        "total": 17,
+        "race_time": "13:00",
+        "race_meeting": "Kelso",
+        "res": "WIN",
+        "stake": 0.09,
+        "returned": 0.34
+      },
+      {
+        "horse": "Tommy Pickles",
+        "odds": "6/4",
+        "total": 14,
+        "race_time": "13:07",
+        "race_meeting": "Bangor-on-Dee",
+        "res": "WIN",
+        "stake": 0.09,
+        "returned": 0.22
+      },
+      {
+        "horse": "Captain Butler",
+        "odds": "4/1",
+        "total": 14,
+        "race_time": "13:30",
+        "race_meeting": "Kelso",
+        "res": "LOSE",
+        "stake": 0.09,
+        "returned": 0.0
+      },
+      {
+        "horse": "Beauty In The Park",
+        "odds": "12/1",
+        "total": 11,
+        "race_time": "14:10",
+        "race_meeting": "Kelso",
+        "res": "LOSE",
+        "stake": 0.09,
+        "returned": 0.0
+      },
+      {
+        "horse": "Diamond Dealer",
+        "odds": "10/3",
+        "total": 18,
+        "race_time": "14:40",
+        "race_meeting": "Kelso",
+        "res": "WIN",
+        "stake": 0.09,
+        "returned": 0.39
+      },
+      {
+        "horse": "Kastellion",
+        "odds": "9/4",
+        "total": 19,
+        "race_time": "14:45",
+        "race_meeting": "Bangor-on-Dee",
+        "res": "LOSE",
+        "stake": 0.09,
+        "returned": 0.0
+      },
+      {
+        "horse": "King Kubala",
+        "odds": "5/2",
+        "total": 18,
+        "race_time": "16:23",
+        "race_meeting": "Kelso",
+        "res": "WIN",
+        "stake": 0.09,
+        "returned": 0.32
+      },
+      {
+        "horse": "Ayyadieh",
+        "odds": "4/1",
+        "total": 20,
+        "race_time": "16:30",
+        "race_meeting": "Bangor-on-Dee",
+        "res": "PLACE",
+        "stake": 0.09,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

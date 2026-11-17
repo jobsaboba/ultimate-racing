@@ -1,20 +1,84 @@
 {
   "date": "2026-06-19",
-  "generated": "2026-11-17T07:41:32+00:00",
+  "generated": "2026-11-17T07:46:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.62,
-    "staked": 0.09,
+    "bank_start": 12.81,
+    "staked": 0.91,
     "returned": 0.0,
-    "bank_after": 8.53,
-    "bet": {
-      "horse": "Ashen",
-      "odds": "11/4",
-      "total": 28,
-      "race_time": "17:40",
-      "race_meeting": "Ayr",
-      "res": "PLACE"
-    }
+    "bank_after": 11.9,
+    "bets": [
+      {
+        "horse": "Tide Runner",
+        "odds": "85/40",
+        "total": 14,
+        "race_time": "16:30",
+        "race_meeting": "Ayr",
+        "res": "LOSE",
+        "stake": 0.13,
+        "returned": 0.0
+      },
+      {
+        "horse": "Tap Dancer",
+        "odds": "9/2",
+        "total": 21,
+        "race_time": "17:00",
+        "race_meeting": "Ayr",
+        "res": "LOSE",
+        "stake": 0.13,
+        "returned": 0.0
+      },
+      {
+        "horse": "Ashen",
+        "odds": "11/4",
+        "total": 28,
+        "race_time": "17:40",
+        "race_meeting": "Ayr",
+        "res": "PLACE",
+        "stake": 0.13,
+        "returned": 0.0
+      },
+      {
+        "horse": "Obito",
+        "odds": "4/1",
+        "total": 21,
+        "race_time": "18:17",
+        "race_meeting": "Ayr",
+        "res": "LOSE",
+        "stake": 0.13,
+        "returned": 0.0
+      },
+      {
+        "horse": "Approaching Dawn",
+        "odds": "4/1",
+        "total": 19,
+        "race_time": "18:52",
+        "race_meeting": "Ayr",
+        "res": "LOSE",
+        "stake": 0.13,
+        "returned": 0.0
+      },
+      {
+        "horse": "Aighear",
+        "odds": "15/2",
+        "total": 18,
+        "race_time": "19:25",
+        "race_meeting": "Ayr",
+        "res": "LOSE",
+        "stake": 0.13,
+        "returned": 0.0
+      },
+      {
+        "horse": "Desert Quest",
+        "odds": "7/2",
+        "total": 24,
+        "race_time": "20:00",
+        "race_meeting": "Ayr",
+        "res": "PLACE",
+        "stake": 0.13,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

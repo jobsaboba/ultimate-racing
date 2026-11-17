@@ -1,20 +1,64 @@
 {
   "date": "2026-10-12",
-  "generated": "2026-11-17T07:41:34+00:00",
+  "generated": "2026-11-17T07:46:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.84,
-    "staked": 0.09,
-    "returned": 0.0,
-    "bank_after": 8.75,
-    "bet": {
-      "horse": "Kelpie Grey",
-      "odds": "13/8",
-      "total": 25,
-      "race_time": "15:17",
-      "race_meeting": "Musselburgh",
-      "res": "LOSE"
-    }
+    "bank_start": 11.87,
+    "staked": 0.6,
+    "returned": 0.32,
+    "bank_after": 11.59,
+    "bets": [
+      {
+        "horse": "Motawaared",
+        "odds": "5/4",
+        "total": 15,
+        "race_time": "12:47",
+        "race_meeting": "Musselburgh",
+        "res": "PLACE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Donna Beauty",
+        "odds": "13/8",
+        "total": 19,
+        "race_time": "13:47",
+        "race_meeting": "Musselburgh",
+        "res": "WIN",
+        "stake": 0.12,
+        "returned": 0.32
+      },
+      {
+        "horse": "Royal Duke",
+        "odds": "9/2",
+        "total": 24,
+        "race_time": "14:17",
+        "race_meeting": "Musselburgh",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Kelpie Grey",
+        "odds": "13/8",
+        "total": 25,
+        "race_time": "15:17",
+        "race_meeting": "Musselburgh",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Ned Broy",
+        "odds": "10/3",
+        "total": 20,
+        "race_time": "15:50",
+        "race_meeting": "Musselburgh",
+        "res": "PLACE",
+        "stake": 0.12,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

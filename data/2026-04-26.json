@@ -1,20 +1,74 @@
 {
   "date": "2026-04-26",
-  "generated": "2026-11-17T07:41:31+00:00",
+  "generated": "2026-11-17T07:46:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.0,
-    "staked": 0.08,
-    "returned": 0.0,
-    "bank_after": 7.92,
-    "bet": {
-      "horse": "Montezuma",
-      "odds": "5/2",
-      "total": 30,
-      "race_time": "17:45",
-      "race_meeting": "Musselburgh",
-      "res": "PLACE"
-    }
+    "bank_start": 12.16,
+    "staked": 0.72,
+    "returned": 0.32,
+    "bank_after": 11.76,
+    "bets": [
+      {
+        "horse": "Dwindling Funds",
+        "odds": "9/4",
+        "total": 24,
+        "race_time": "14:45",
+        "race_meeting": "Musselburgh",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Seed Ya Later",
+        "odds": "13/8",
+        "total": 14,
+        "race_time": "15:15",
+        "race_meeting": "Musselburgh",
+        "res": "WIN",
+        "stake": 0.12,
+        "returned": 0.32
+      },
+      {
+        "horse": "Lady Dora Mae",
+        "odds": "2/1",
+        "total": 15,
+        "race_time": "15:45",
+        "race_meeting": "Musselburgh",
+        "res": "PLACE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Fast Fred",
+        "odds": "3/1",
+        "total": 24,
+        "race_time": "16:15",
+        "race_meeting": "Musselburgh",
+        "res": "PLACE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Abduction",
+        "odds": "11/2",
+        "total": 24,
+        "race_time": "16:45",
+        "race_meeting": "Musselburgh",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Montezuma",
+        "odds": "5/2",
+        "total": 30,
+        "race_time": "17:45",
+        "race_meeting": "Musselburgh",
+        "res": "PLACE",
+        "stake": 0.12,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

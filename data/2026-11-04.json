@@ -1,20 +1,134 @@
 {
   "date": "2026-11-04",
-  "generated": "2026-11-17T07:41:34+00:00",
+  "generated": "2026-11-17T07:46:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.46,
-    "staked": 0.08,
-    "returned": 0.0,
-    "bank_after": 8.38,
-    "bet": {
-      "horse": "Empirestateofmind",
-      "odds": "3/1",
-      "total": 29,
-      "race_time": "14:45",
-      "race_meeting": "Musselburgh",
-      "res": "PLACE"
-    }
+    "bank_start": 10.97,
+    "staked": 1.32,
+    "returned": 0.8,
+    "bank_after": 10.45,
+    "bets": [
+      {
+        "horse": "Wen Moon",
+        "odds": "3/1",
+        "total": 21,
+        "race_time": "12:05",
+        "race_meeting": "Musselburgh",
+        "res": "LOSE",
+        "stake": 0.11,
+        "returned": 0.0
+      },
+      {
+        "horse": "Red Acres Max",
+        "odds": "5/6",
+        "total": 15,
+        "race_time": "12:51",
+        "race_meeting": "Chepstow",
+        "res": "PLACE",
+        "stake": 0.11,
+        "returned": 0.0
+      },
+      {
+        "horse": "Flying Moonlight",
+        "odds": "9/4",
+        "total": 15,
+        "race_time": "13:10",
+        "race_meeting": "Musselburgh",
+        "res": "WIN",
+        "stake": 0.11,
+        "returned": 0.36
+      },
+      {
+        "horse": "Order On Time",
+        "odds": "1/2",
+        "total": 25,
+        "race_time": "13:25",
+        "race_meeting": "Chepstow",
+        "res": "PLACE",
+        "stake": 0.11,
+        "returned": 0.0
+      },
+      {
+        "horse": "Alpine Sierra",
+        "odds": "3/1",
+        "total": 24,
+        "race_time": "13:42",
+        "race_meeting": "Musselburgh",
+        "res": "LOSE",
+        "stake": 0.11,
+        "returned": 0.0
+      },
+      {
+        "horse": "Best Trump",
+        "odds": "9/1",
+        "total": 18,
+        "race_time": "13:58",
+        "race_meeting": "Chepstow",
+        "res": "LOSE",
+        "stake": 0.11,
+        "returned": 0.0
+      },
+      {
+        "horse": "Storm On Jura",
+        "odds": "3/1",
+        "total": 21,
+        "race_time": "14:15",
+        "race_meeting": "Musselburgh",
+        "res": "LOSE",
+        "stake": 0.11,
+        "returned": 0.0
+      },
+      {
+        "horse": "Empirestateofmind",
+        "odds": "3/1",
+        "total": 29,
+        "race_time": "14:45",
+        "race_meeting": "Musselburgh",
+        "res": "PLACE",
+        "stake": 0.11,
+        "returned": 0.0
+      },
+      {
+        "horse": "The Resdev Scholar",
+        "odds": "3/1",
+        "total": 25,
+        "race_time": "15:17",
+        "race_meeting": "Musselburgh",
+        "res": "WIN",
+        "stake": 0.11,
+        "returned": 0.44
+      },
+      {
+        "horse": "Gimarias",
+        "odds": "6/1",
+        "total": 15,
+        "race_time": "15:40",
+        "race_meeting": "Chepstow",
+        "res": "PLACE",
+        "stake": 0.11,
+        "returned": 0.0
+      },
+      {
+        "horse": "Vince Le Prince",
+        "odds": "4/1",
+        "total": 19,
+        "race_time": "15:50",
+        "race_meeting": "Musselburgh",
+        "res": "LOSE",
+        "stake": 0.11,
+        "returned": 0.0
+      },
+      {
+        "horse": "Uncle Cc",
+        "odds": "3/1",
+        "total": 18,
+        "race_time": "16:10",
+        "race_meeting": "Chepstow",
+        "res": "PLACE",
+        "stake": 0.11,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

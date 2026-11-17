@@ -1,20 +1,64 @@
 {
   "date": "2026-02-13",
-  "generated": "2026-11-17T07:41:30+00:00",
+  "generated": "2026-11-17T07:46:01+00:00",
   "max": 55,
   "money": {
-    "bank_start": 9.6,
-    "staked": 0.1,
-    "returned": 0.0,
-    "bank_after": 9.5,
-    "bet": {
-      "horse": "Lion Rose Sivola",
-      "odds": "4/11",
-      "total": 25,
-      "race_time": "16:45",
-      "race_meeting": "Kelso",
-      "res": "PLACE"
-    }
+    "bank_start": 10.2,
+    "staked": 0.5,
+    "returned": 0.5,
+    "bank_after": 10.2,
+    "bets": [
+      {
+        "horse": "They Want Me",
+        "odds": "10/3",
+        "total": 19,
+        "race_time": "13:30",
+        "race_meeting": "Kelso",
+        "res": "PLACE",
+        "stake": 0.1,
+        "returned": 0.0
+      },
+      {
+        "horse": "Bossman Jack",
+        "odds": "1/4",
+        "total": 20,
+        "race_time": "13:40",
+        "race_meeting": "Chepstow",
+        "res": "WIN",
+        "stake": 0.1,
+        "returned": 0.12
+      },
+      {
+        "horse": "The Big Reveal",
+        "odds": "11/4",
+        "total": 20,
+        "race_time": "15:45",
+        "race_meeting": "Chepstow",
+        "res": "WIN",
+        "stake": 0.1,
+        "returned": 0.38
+      },
+      {
+        "horse": "Lion Rose Sivola",
+        "odds": "4/11",
+        "total": 25,
+        "race_time": "16:45",
+        "race_meeting": "Kelso",
+        "res": "PLACE",
+        "stake": 0.1,
+        "returned": 0.0
+      },
+      {
+        "horse": "Delta Blues Belle",
+        "odds": "11/4",
+        "total": 20,
+        "race_time": "16:55",
+        "race_meeting": "Chepstow",
+        "res": "LOSE",
+        "stake": 0.1,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

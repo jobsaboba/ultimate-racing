@@ -1,20 +1,64 @@
 {
   "date": "2026-09-21",
-  "generated": "2026-11-17T07:41:33+00:00",
+  "generated": "2026-11-17T07:46:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 9.23,
-    "staked": 0.09,
-    "returned": 0.21,
-    "bank_after": 9.35,
-    "bet": {
-      "horse": "Zambezi Magic",
-      "odds": "11/8",
-      "total": 25,
-      "race_time": "16:52",
-      "race_meeting": "Ffos Las",
-      "res": "WIN"
-    }
+    "bank_start": 12.24,
+    "staked": 0.6,
+    "returned": 0.7,
+    "bank_after": 12.34,
+    "bets": [
+      {
+        "horse": "Unchartedterritory",
+        "odds": "7/2",
+        "total": 19,
+        "race_time": "13:47",
+        "race_meeting": "Hamilton",
+        "res": "PLACE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Green Falcon",
+        "odds": "11/4",
+        "total": 13,
+        "race_time": "14:44",
+        "race_meeting": "Ffos Las",
+        "res": "PLACE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "City Captain",
+        "odds": "6/5",
+        "total": 24,
+        "race_time": "15:30",
+        "race_meeting": "Hamilton",
+        "res": "PLACE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Equion",
+        "odds": "5/2",
+        "total": 14,
+        "race_time": "15:52",
+        "race_meeting": "Ffos Las",
+        "res": "WIN",
+        "stake": 0.12,
+        "returned": 0.42
+      },
+      {
+        "horse": "Zambezi Magic",
+        "odds": "11/8",
+        "total": 25,
+        "race_time": "16:52",
+        "race_meeting": "Ffos Las",
+        "res": "WIN",
+        "stake": 0.12,
+        "returned": 0.28
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

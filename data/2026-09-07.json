@@ -1,20 +1,44 @@
 {
   "date": "2026-09-07",
-  "generated": "2026-11-17T07:41:33+00:00",
+  "generated": "2026-11-17T07:46:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 10.01,
-    "staked": 0.1,
-    "returned": 0.0,
-    "bank_after": 9.91,
-    "bet": {
-      "horse": "Pure Gold",
-      "odds": "5/1",
-      "total": 21,
-      "race_time": "14:20",
-      "race_meeting": "Perth",
-      "res": "PLACE"
-    }
+    "bank_start": 13.53,
+    "staked": 0.42,
+    "returned": 0.39,
+    "bank_after": 13.5,
+    "bets": [
+      {
+        "horse": "Pure Gold",
+        "odds": "5/1",
+        "total": 21,
+        "race_time": "14:20",
+        "race_meeting": "Perth",
+        "res": "PLACE",
+        "stake": 0.14,
+        "returned": 0.0
+      },
+      {
+        "horse": "Follow Charlie",
+        "odds": "3/1",
+        "total": 20,
+        "race_time": "15:20",
+        "race_meeting": "Perth",
+        "res": "PLACE",
+        "stake": 0.14,
+        "returned": 0.0
+      },
+      {
+        "horse": "Down Around",
+        "odds": "7/4",
+        "total": 15,
+        "race_time": "15:50",
+        "race_meeting": "Perth",
+        "res": "WIN",
+        "stake": 0.14,
+        "returned": 0.39
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

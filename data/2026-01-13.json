@@ -1,20 +1,54 @@
 {
   "date": "2026-01-13",
-  "generated": "2026-11-17T07:41:30+00:00",
+  "generated": "2026-11-17T07:46:01+00:00",
   "max": 55,
   "money": {
-    "bank_start": 10.2,
-    "staked": 0.1,
+    "bank_start": 10.67,
+    "staked": 0.44,
     "returned": 0.0,
-    "bank_after": 10.1,
-    "bet": {
-      "horse": "Kelvin Forlonge",
-      "odds": "3/1",
-      "total": 25,
-      "race_time": "13:48",
-      "race_meeting": "Ayr",
-      "res": "PLACE"
-    }
+    "bank_after": 10.23,
+    "bets": [
+      {
+        "horse": "Next Twist",
+        "odds": "11/8",
+        "total": 24,
+        "race_time": "12:48",
+        "race_meeting": "Ayr",
+        "res": "PLACE",
+        "stake": 0.11,
+        "returned": 0.0
+      },
+      {
+        "horse": "Kelvin Forlonge",
+        "odds": "3/1",
+        "total": 25,
+        "race_time": "13:48",
+        "race_meeting": "Ayr",
+        "res": "PLACE",
+        "stake": 0.11,
+        "returned": 0.0
+      },
+      {
+        "horse": "Tread Softly Now",
+        "odds": "11/4",
+        "total": 22,
+        "race_time": "15:18",
+        "race_meeting": "Ayr",
+        "res": "LOSE",
+        "stake": 0.11,
+        "returned": 0.0
+      },
+      {
+        "horse": "Coconut Man",
+        "odds": "5/4",
+        "total": 24,
+        "race_time": "15:48",
+        "race_meeting": "Ayr",
+        "res": "PLACE",
+        "stake": 0.11,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

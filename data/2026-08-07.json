@@ -1,20 +1,24 @@
 {
   "date": "2026-08-07",
-  "generated": "2026-11-17T07:41:32+00:00",
+  "generated": "2026-11-17T07:46:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.58,
-    "staked": 0.09,
-    "returned": 0.39,
-    "bank_after": 8.88,
-    "bet": {
-      "horse": "Jonny Concrete",
-      "odds": "10/3",
-      "total": 20,
-      "race_time": "14:20",
-      "race_meeting": "Musselburgh",
-      "res": "WIN"
-    }
+    "bank_start": 15.3,
+    "staked": 0.15,
+    "returned": 0.65,
+    "bank_after": 15.8,
+    "bets": [
+      {
+        "horse": "Jonny Concrete",
+        "odds": "10/3",
+        "total": 20,
+        "race_time": "14:20",
+        "race_meeting": "Musselburgh",
+        "res": "WIN",
+        "stake": 0.15,
+        "returned": 0.65
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

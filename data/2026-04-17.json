@@ -1,20 +1,54 @@
 {
   "date": "2026-04-17",
-  "generated": "2026-11-17T07:41:31+00:00",
+  "generated": "2026-11-17T07:46:01+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.27,
-    "staked": 0.08,
-    "returned": 0.0,
-    "bank_after": 8.19,
-    "bet": {
-      "horse": "Lance Les Des",
-      "odds": "9/2",
-      "total": 21,
-      "race_time": "12:45",
-      "race_meeting": "Ayr",
-      "res": "PLACE"
-    }
+    "bank_start": 11.09,
+    "staked": 0.44,
+    "returned": 0.39,
+    "bank_after": 11.04,
+    "bets": [
+      {
+        "horse": "Lance Les Des",
+        "odds": "9/2",
+        "total": 21,
+        "race_time": "12:45",
+        "race_meeting": "Ayr",
+        "res": "PLACE",
+        "stake": 0.11,
+        "returned": 0.0
+      },
+      {
+        "horse": "Dropematthestation",
+        "odds": "5/2",
+        "total": 14,
+        "race_time": "13:55",
+        "race_meeting": "Ayr",
+        "res": "WIN",
+        "stake": 0.11,
+        "returned": 0.39
+      },
+      {
+        "horse": "Hoe Joly Smoke",
+        "odds": "9/4",
+        "total": 18,
+        "race_time": "14:30",
+        "race_meeting": "Ayr",
+        "res": "LOSE",
+        "stake": 0.11,
+        "returned": 0.0
+      },
+      {
+        "horse": "Society Soldier",
+        "odds": "6/1",
+        "total": 15,
+        "race_time": "15:43",
+        "race_meeting": "Ayr",
+        "res": "PLACE",
+        "stake": 0.11,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

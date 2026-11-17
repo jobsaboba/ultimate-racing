@@ -1,20 +1,114 @@
 {
   "date": "2026-11-12",
-  "generated": "2026-11-17T07:41:34+00:00",
+  "generated": "2026-11-17T07:46:04+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.18,
-    "staked": 0.08,
-    "returned": 0.2,
-    "bank_after": 8.3,
-    "bet": {
-      "horse": "Gunnery Sergeant",
-      "odds": "6/4",
-      "total": 35,
-      "race_time": "14:03",
-      "race_meeting": "Thurles",
-      "res": "WIN"
-    }
+    "bank_start": 9.6,
+    "staked": 1.0,
+    "returned": 2.23,
+    "bank_after": 10.83,
+    "bets": [
+      {
+        "horse": "Might Be The One",
+        "odds": "7/2",
+        "total": 14,
+        "race_time": "11:43",
+        "race_meeting": "Thurles",
+        "res": "PLACE",
+        "stake": 0.1,
+        "returned": 0.0
+      },
+      {
+        "horse": "Northern Olympian",
+        "odds": "3/1",
+        "total": 30,
+        "race_time": "12:06",
+        "race_meeting": "Market Rasen",
+        "res": "WIN",
+        "stake": 0.1,
+        "returned": 0.4
+      },
+      {
+        "horse": "Stoneyford Lady",
+        "odds": "7/2",
+        "total": 22,
+        "race_time": "12:18",
+        "race_meeting": "Thurles",
+        "res": "WIN",
+        "stake": 0.1,
+        "returned": 0.45
+      },
+      {
+        "horse": "Way Down South",
+        "odds": "6/1",
+        "total": 14,
+        "race_time": "12:53",
+        "race_meeting": "Thurles",
+        "res": "WIN",
+        "stake": 0.1,
+        "returned": 0.7
+      },
+      {
+        "horse": "Governors Rock",
+        "odds": "10/11",
+        "total": 30,
+        "race_time": "13:05",
+        "race_meeting": "Hereford",
+        "res": "WIN",
+        "stake": 0.1,
+        "returned": 0.19
+      },
+      {
+        "horse": "Gunnery Sergeant",
+        "odds": "6/4",
+        "total": 35,
+        "race_time": "14:03",
+        "race_meeting": "Thurles",
+        "res": "WIN",
+        "stake": 0.1,
+        "returned": 0.25
+      },
+      {
+        "horse": "Seraphic",
+        "odds": "11/8",
+        "total": 19,
+        "race_time": "14:50",
+        "race_meeting": "Hereford",
+        "res": "WIN",
+        "stake": 0.1,
+        "returned": 0.24
+      },
+      {
+        "horse": "Burning Embers",
+        "odds": "7/2",
+        "total": 34,
+        "race_time": "15:01",
+        "race_meeting": "Market Rasen",
+        "res": "LOSE",
+        "stake": 0.1,
+        "returned": 0.0
+      },
+      {
+        "horse": "Daisy Fingall",
+        "odds": "3/1",
+        "total": 13,
+        "race_time": "15:15",
+        "race_meeting": "Thurles",
+        "res": "LOSE",
+        "stake": 0.1,
+        "returned": 0.0
+      },
+      {
+        "horse": "Topothelane",
+        "odds": "5/2",
+        "total": 15,
+        "race_time": "15:48",
+        "race_meeting": "Thurles",
+        "res": "PLACE",
+        "stake": 0.1,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

@@ -1,20 +1,44 @@
 {
   "date": "2026-07-28",
-  "generated": "2026-11-17T07:41:32+00:00",
+  "generated": "2026-11-17T07:46:02+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.94,
-    "staked": 0.09,
-    "returned": 0.0,
-    "bank_after": 8.85,
-    "bet": {
-      "horse": "Diamondsinthesand",
-      "odds": "11/4",
-      "total": 22,
-      "race_time": "19:30",
-      "race_meeting": "Ffos Las",
-      "res": "LOSE"
-    }
+    "bank_start": 13.58,
+    "staked": 0.42,
+    "returned": 0.7,
+    "bank_after": 13.86,
+    "bets": [
+      {
+        "horse": "Ariane Sky",
+        "odds": "4/1",
+        "total": 13,
+        "race_time": "17:00",
+        "race_meeting": "Ffos Las",
+        "res": "WIN",
+        "stake": 0.14,
+        "returned": 0.7
+      },
+      {
+        "horse": "Pureis King",
+        "odds": "15/8",
+        "total": 20,
+        "race_time": "19:00",
+        "race_meeting": "Ffos Las",
+        "res": "LOSE",
+        "stake": 0.14,
+        "returned": 0.0
+      },
+      {
+        "horse": "Diamondsinthesand",
+        "odds": "11/4",
+        "total": 22,
+        "race_time": "19:30",
+        "race_meeting": "Ffos Las",
+        "res": "LOSE",
+        "stake": 0.14,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

@@ -1,20 +1,54 @@
 {
   "date": "2026-09-23",
-  "generated": "2026-11-17T07:41:33+00:00",
+  "generated": "2026-11-17T07:46:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 9.35,
-    "staked": 0.09,
+    "bank_start": 12.34,
+    "staked": 0.48,
     "returned": 0.0,
-    "bank_after": 9.26,
-    "bet": {
-      "horse": "Letterston Lily",
-      "odds": "6/4",
-      "total": 24,
-      "race_time": "13:47",
-      "race_meeting": "Perth",
-      "res": "PLACE"
-    }
+    "bank_after": 11.86,
+    "bets": [
+      {
+        "horse": "Jet Of Stars",
+        "odds": "5/6",
+        "total": 19,
+        "race_time": "13:12",
+        "race_meeting": "Perth",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Letterston Lily",
+        "odds": "6/4",
+        "total": 24,
+        "race_time": "13:47",
+        "race_meeting": "Perth",
+        "res": "PLACE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Pure Gold",
+        "odds": "7/2",
+        "total": 24,
+        "race_time": "14:22",
+        "race_meeting": "Perth",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Forest Spirit",
+        "odds": "7/2",
+        "total": 15,
+        "race_time": "16:07",
+        "race_meeting": "Perth",
+        "res": "PLACE",
+        "stake": 0.12,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",

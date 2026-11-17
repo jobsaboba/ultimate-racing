@@ -1,20 +1,64 @@
 {
   "date": "2026-09-29",
-  "generated": "2026-11-17T07:41:33+00:00",
+  "generated": "2026-11-17T07:46:03+00:00",
   "max": 55,
   "money": {
-    "bank_start": 8.99,
-    "staked": 0.09,
-    "returned": 0.39,
-    "bank_after": 9.29,
-    "bet": {
-      "horse": "Highfield Viking",
-      "odds": "10/3",
-      "total": 33,
-      "race_time": "15:08",
-      "race_meeting": "Ayr",
-      "res": "WIN"
-    }
+    "bank_start": 11.89,
+    "staked": 0.6,
+    "returned": 0.78,
+    "bank_after": 12.07,
+    "bets": [
+      {
+        "horse": "Empirestateofmind",
+        "odds": "6/5",
+        "total": 29,
+        "race_time": "13:08",
+        "race_meeting": "Ayr",
+        "res": "WIN",
+        "stake": 0.12,
+        "returned": 0.26
+      },
+      {
+        "horse": "Star Cast",
+        "odds": "3/1",
+        "total": 21,
+        "race_time": "14:08",
+        "race_meeting": "Ayr",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Misunderstood",
+        "odds": "3/1",
+        "total": 27,
+        "race_time": "14:38",
+        "race_meeting": "Ayr",
+        "res": "LOSE",
+        "stake": 0.12,
+        "returned": 0.0
+      },
+      {
+        "horse": "Highfield Viking",
+        "odds": "10/3",
+        "total": 33,
+        "race_time": "15:08",
+        "race_meeting": "Ayr",
+        "res": "WIN",
+        "stake": 0.12,
+        "returned": 0.52
+      },
+      {
+        "horse": "Parisiac",
+        "odds": "11/4",
+        "total": 26,
+        "race_time": "15:40",
+        "race_meeting": "Ayr",
+        "res": "PLACE",
+        "stake": 0.12,
+        "returned": 0.0
+      }
+    ]
   },
   "sources": {
     "timeform": "ok",
