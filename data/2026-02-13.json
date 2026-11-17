@@ -1,12 +1,13 @@
 {
   "date": "2026-02-13",
-  "generated": "2026-11-17T07:54:02+00:00",
+  "generated": "2026-11-17T08:23:47+00:00",
   "max": 55,
   "money": {
-    "bank_start": 10.31,
-    "staked": 0.1,
+    "bank_start": 11.13,
+    "rung": 2,
+    "staked": 0.22,
     "returned": 0.0,
-    "bank_after": 10.21,
+    "bank_after": 10.91,
     "skipped": 4,
     "bets": [
       {
@@ -16,7 +17,8 @@
         "race_time": "13:30",
         "race_meeting": "Kelso",
         "res": "PLACE",
-        "stake": 0.1,
+        "pos": 3,
+        "stake": 0.22,
         "returned": 0.0
       }
     ]
@@ -62,7 +64,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 6
+          "total": 6,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Kaka's Cousin",
@@ -89,7 +93,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 2.3,
-          "total": 16
+          "total": 16,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "They Want Me",
@@ -116,7 +122,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 19
+          "total": 19,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Kocktail Bleu",
@@ -143,7 +151,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 15
+          "total": 15,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "All One Word",
@@ -170,7 +180,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Nosy Neighbour",
@@ -197,7 +209,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Ratemenow",
@@ -224,7 +238,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Au Plaisir",
@@ -251,7 +267,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 1
+          "total": 1,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Big Jon",
@@ -278,7 +296,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 1
+          "total": 1,
+          "res": "LOSE",
+          "pos": 10
         },
         {
           "horse": "Ellistrin Bay",
@@ -305,7 +325,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 1
+          "total": 1,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "King Kodiak",
@@ -332,7 +354,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 1
+          "total": 1,
+          "res": "LOSE",
+          "pos": 11
         }
       ]
     },
@@ -372,7 +396,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 20
+          "total": 20,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Doujadou",
@@ -399,7 +425,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 8
+          "total": 8,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Emerald Breeze",
@@ -426,7 +454,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 11
+          "total": 11,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Francky Blue",
@@ -453,7 +483,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "I'm Wide Awake",
@@ -480,7 +512,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 6
+          "total": 6,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Colby Mayfield",
@@ -507,7 +541,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 1
+          "total": 1,
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Passage Du Maure",
@@ -534,7 +570,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Donald Jump",
@@ -561,7 +599,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 13
         },
         {
           "horse": "One For Rian",
@@ -588,7 +628,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 12
         },
         {
           "horse": "Roi Du Roume",
@@ -615,7 +657,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 10
         },
         {
           "horse": "Holeheartedly",
@@ -642,7 +686,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Roberta Bishop",
@@ -669,7 +715,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 1
+          "total": 1,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Wings Of Arion",
@@ -696,7 +744,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 1
+          "total": 1,
+          "res": "LOSE",
+          "pos": 11
         }
       ]
     },
@@ -736,7 +786,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 2.5,
-          "total": 13
+          "total": 13,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "The Big Reveal",
@@ -763,7 +815,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 20
+          "total": 20,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Latenightrumble",
@@ -790,7 +844,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 7
+          "total": 7,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Carrigeen Castle",
@@ -817,7 +873,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 7
+          "total": 7,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Lilting Verse",
@@ -844,7 +902,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 7
+          "total": 7,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Astronomic View",
@@ -871,7 +931,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 6
+          "total": 6,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Not Sure",
@@ -898,7 +960,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 8
+          "total": 8,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Enjoy D'allen",
@@ -925,7 +989,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 7
+          "total": 7,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Jasmin De Cotte",
@@ -952,7 +1018,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 9
         }
       ]
     },
@@ -992,7 +1060,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 3,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Lion Rose Sivola",
@@ -1019,7 +1089,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 2.3,
-          "total": 25
+          "total": 25,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "The Shanachie",
@@ -1046,7 +1118,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 6
+          "total": 6,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Lady Bamburgh",
@@ -1073,7 +1147,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Countryman Joe",
@@ -1100,7 +1176,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 1
+          "total": 1,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Captain Cognac",
@@ -1127,7 +1205,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 7.0,
-          "total": 7
+          "total": 7,
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Presentandcorrect",
@@ -1154,7 +1234,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 3
+          "total": 3,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Prince Phil",
@@ -1181,7 +1263,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Master Jack",
@@ -1208,7 +1292,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 7
         }
       ]
     },
@@ -1248,7 +1334,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 20
+          "total": 20,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Walkinthepresent",
@@ -1275,7 +1363,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 11
+          "total": 11,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Lightonthewing",
@@ -1302,7 +1392,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 13
+          "total": 13,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Face d'Music",
@@ -1329,7 +1421,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "No Rematch",
@@ -1356,7 +1450,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 12
+          "total": 12,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Hunting Percival",
@@ -1383,7 +1479,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 1
+          "total": 1,
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Hairy Potter",
@@ -1410,7 +1508,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Klic Boum",
@@ -1437,7 +1537,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 8
+          "total": 8,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Milan Ac",
@@ -1464,7 +1566,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 8
         }
       ]
     }

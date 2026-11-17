@@ -1,12 +1,13 @@
 {
   "date": "2026-07-12",
-  "generated": "2026-11-17T07:54:03+00:00",
+  "generated": "2026-11-17T08:23:48+00:00",
   "max": 55,
   "money": {
-    "bank_start": 15.21,
+    "bank_start": 18.91,
+    "rung": 2,
     "staked": 0,
     "returned": 0,
-    "bank_after": 15.21,
+    "bank_after": 18.91,
     "skipped": 1,
     "bets": []
   },
@@ -51,7 +52,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 14
+          "total": 14,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Atlantic City",
@@ -78,7 +81,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 24
+          "total": 24,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Bold Light",
@@ -105,7 +110,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 0.1,
-          "total": 18
+          "total": 18,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Pure Gold",
@@ -132,7 +139,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 4.5,
-          "total": 18
+          "total": 18,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Lets Mingle",
@@ -159,7 +168,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 0.1,
-          "total": 18
+          "total": 18,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Noble Birth",
@@ -186,7 +197,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 12
+          "total": 12,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Struth",
@@ -213,7 +226,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 0.1,
-          "total": 7
+          "total": 7,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Parikarma",
@@ -240,7 +255,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 7
         }
       ]
     }

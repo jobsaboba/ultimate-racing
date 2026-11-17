@@ -1,12 +1,13 @@
 {
   "date": "2026-02-25",
-  "generated": "2026-11-17T07:54:02+00:00",
+  "generated": "2026-11-17T08:23:47+00:00",
   "max": 55,
   "money": {
-    "bank_start": 9.81,
+    "bank_start": 9.65,
+    "rung": 5,
     "staked": 0,
     "returned": 0,
-    "bank_after": 9.81,
+    "bank_after": 9.65,
     "skipped": 1,
     "bets": []
   },
@@ -51,7 +52,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 0.2,
-          "total": 19
+          "total": 19,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Iamyouare",
@@ -78,7 +81,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 3
+          "total": 3,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Geordies Betty",
@@ -105,7 +110,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 9
+          "total": 9,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Longhouse Gem",
@@ -132,7 +139,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 12
+          "total": 12,
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Ufouria",
@@ -159,7 +168,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 6
+          "total": 6,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Vale Of Tears",
@@ -186,7 +197,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Fine As Wine",
@@ -213,7 +226,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Shouldvebeenshav",
@@ -240,7 +255,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Seekingrainbows",
@@ -267,7 +284,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 1
+          "total": 1,
+          "res": "LOSE",
+          "pos": 8
         }
       ]
     }

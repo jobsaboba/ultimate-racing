@@ -1,12 +1,13 @@
 {
   "date": "2026-06-27",
-  "generated": "2026-11-17T07:54:03+00:00",
+  "generated": "2026-11-17T08:23:48+00:00",
   "max": 55,
   "money": {
-    "bank_start": 14.09,
+    "bank_start": 16.94,
+    "rung": 1,
     "staked": 0,
     "returned": 0,
-    "bank_after": 14.09,
+    "bank_after": 16.94,
     "skipped": 1,
     "bets": []
   },
@@ -51,7 +52,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 8
+          "total": 8,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Miss Moneypit",
@@ -78,7 +81,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 14
+          "total": 14,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Super Tuscan",
@@ -105,7 +110,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 8
+          "total": 8,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Dream On Kent",
@@ -132,7 +139,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 10
+          "total": 10,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Curious Minx",
@@ -159,7 +168,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 8
+          "total": 8,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Lushill",
@@ -186,7 +197,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 3
+          "total": 3,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Invicta Rose",
@@ -213,7 +226,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Em's Dilemma",
@@ -240,7 +255,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 1
+          "total": 1,
+          "res": "LOSE",
+          "pos": 8
         }
       ]
     }

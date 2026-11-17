@@ -1,12 +1,13 @@
 {
   "date": "2026-10-29",
-  "generated": "2026-11-17T07:54:04+00:00",
+  "generated": "2026-11-17T08:23:49+00:00",
   "max": 55,
   "money": {
-    "bank_start": 14.73,
-    "staked": 0.15,
+    "bank_start": 16.78,
+    "rung": 5,
+    "staked": 0.84,
     "returned": 0.0,
-    "bank_after": 14.58,
+    "bank_after": 15.94,
     "skipped": 0,
     "bets": [
       {
@@ -16,7 +17,8 @@
         "race_time": "14:00",
         "race_meeting": "Ffos Las",
         "res": "PLACE",
-        "stake": 0.15,
+        "pos": 3,
+        "stake": 0.84,
         "returned": 0.0
       }
     ]
@@ -62,7 +64,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -0.8,
-          "total": 15
+          "total": 15,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Headofthevalley",
@@ -89,7 +93,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 8
+          "total": 8,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Tottie's Moon",
@@ -116,7 +122,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Elusive Pb",
@@ -143,7 +151,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 6
+          "total": 6,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Kimai",
@@ -170,7 +180,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 11
+          "total": 11,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Mr Winter",
@@ -197,7 +209,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Valiant Soldier",
@@ -224,7 +238,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 7.0,
-          "total": 18
+          "total": 18,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Akrramm",
@@ -251,7 +267,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 5
         }
       ]
     }

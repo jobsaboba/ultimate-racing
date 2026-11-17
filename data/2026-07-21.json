@@ -1,12 +1,13 @@
 {
   "date": "2026-07-21",
-  "generated": "2026-11-17T07:54:03+00:00",
+  "generated": "2026-11-17T08:23:48+00:00",
   "max": 55,
   "money": {
-    "bank_start": 14.91,
+    "bank_start": 18.16,
+    "rung": 3,
     "staked": 0,
     "returned": 0,
-    "bank_after": 14.91,
+    "bank_after": 18.16,
     "skipped": 0,
     "bets": []
   },

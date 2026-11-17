@@ -1,12 +1,13 @@
 {
   "date": "2026-08-15",
-  "generated": "2026-11-17T07:54:03+00:00",
+  "generated": "2026-11-17T08:23:48+00:00",
   "max": 55,
   "money": {
-    "bank_start": 17.04,
-    "staked": 0.34,
-    "returned": 0.77,
-    "bank_after": 17.47,
+    "bank_start": 20.46,
+    "rung": 2,
+    "staked": 0.82,
+    "returned": 1.84,
+    "bank_after": 21.48,
     "skipped": 0,
     "bets": [
       {
@@ -16,8 +17,9 @@
         "race_time": "13:50",
         "race_meeting": "Perth",
         "res": "WIN",
-        "stake": 0.17,
-        "returned": 0.77
+        "pos": 1,
+        "stake": 0.41,
+        "returned": 1.84
       },
       {
         "horse": "The Last Cloud",
@@ -26,7 +28,8 @@
         "race_time": "15:05",
         "race_meeting": "Perth",
         "res": "LOSE",
-        "stake": 0.17,
+        "pos": 6,
+        "stake": 0.41,
         "returned": 0.0
       }
     ]
@@ -72,7 +75,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 8
+          "total": 8,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Follow Charlie",
@@ -99,7 +104,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -11.0,
-          "total": 24
+          "total": 24,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Summergrounds",
@@ -126,7 +133,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 13
+          "total": 13,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Garde Des Champs",
@@ -153,7 +162,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 5
+          "total": 5,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Lets Mingle",
@@ -180,7 +191,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 15
+          "total": 15,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Just Dottie",
@@ -207,7 +220,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -11.0,
-          "total": 9
+          "total": 9,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Struth",
@@ -234,7 +249,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Annie Agnew",
@@ -261,7 +278,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "O'Faolains Glory",
@@ -288,7 +307,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 7
+          "total": 7,
+          "res": "LOSE",
+          "pos": 9
         }
       ]
     },
@@ -328,7 +349,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 19
+          "total": 19,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "The Last Cloud",
@@ -355,7 +378,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 20
+          "total": 20,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Squeezebox",
@@ -382,7 +407,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 14
+          "total": 14,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Medieval Gold",
@@ -409,7 +436,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 13
+          "total": 13,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Pure Gold",
@@ -436,7 +465,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 15
+          "total": 15,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Nap Hand",
@@ -463,7 +494,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 12
+          "total": 12,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Scriabin",
@@ -490,7 +523,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 12
+          "total": 12,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Fidendum",
@@ -517,7 +552,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "PLACE",
+          "pos": 2
         }
       ]
     }

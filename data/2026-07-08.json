@@ -1,12 +1,13 @@
 {
   "date": "2026-07-08",
-  "generated": "2026-11-17T07:54:03+00:00",
+  "generated": "2026-11-17T08:23:48+00:00",
   "max": 55,
   "money": {
-    "bank_start": 15.36,
+    "bank_start": 19.1,
+    "rung": 1,
     "staked": 0,
     "returned": 0,
-    "bank_after": 15.36,
+    "bank_after": 19.1,
     "skipped": 1,
     "bets": []
   },
@@ -51,7 +52,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 15
+          "total": 15,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Galactic Glow",
@@ -78,7 +81,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 11
+          "total": 11,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Denby's Dream",
@@ -105,7 +110,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 14
+          "total": 14,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Bobby Dassler",
@@ -132,7 +139,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 13
+          "total": 13,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Nammos",
@@ -159,7 +168,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 8
+          "total": 8,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Amathus",
@@ -186,7 +197,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Fozzy Osbourne",
@@ -213,7 +226,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 2
+          "total": 2,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "D Day Major Winter",
@@ -240,7 +255,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 8
         }
       ]
     }

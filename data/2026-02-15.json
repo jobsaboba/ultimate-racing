@@ -1,12 +1,13 @@
 {
   "date": "2026-02-15",
-  "generated": "2026-11-17T07:54:02+00:00",
+  "generated": "2026-11-17T08:23:47+00:00",
   "max": 55,
   "money": {
-    "bank_start": 10.21,
-    "staked": 0.1,
+    "bank_start": 10.91,
+    "rung": 2,
+    "staked": 0.22,
     "returned": 0.0,
-    "bank_after": 10.11,
+    "bank_after": 10.69,
     "skipped": 1,
     "bets": [
       {
@@ -16,7 +17,8 @@
         "race_time": "13:50",
         "race_meeting": "Musselburgh",
         "res": "PLACE",
-        "stake": 0.1,
+        "pos": 2,
+        "stake": 0.22,
         "returned": 0.0
       }
     ]
@@ -62,7 +64,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 15
+          "total": 15,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Gallivanted",
@@ -89,7 +93,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 9
+          "total": 9,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Guet Apens",
@@ -116,7 +122,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 1.2,
-          "total": 11
+          "total": 11,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Elemental Eye",
@@ -143,7 +151,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 8
+          "total": 8,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Hourman",
@@ -170,7 +180,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -6.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Keyboard",
@@ -197,7 +209,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 1.5,
-          "total": 16
+          "total": 16,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Lester Mail",
@@ -224,7 +238,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 8
+          "total": 8,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Dublinofficecallin",
@@ -251,7 +267,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Storm The Dug",
@@ -278,7 +296,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -6.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Run Baby Run",
@@ -305,7 +325,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 10
         }
       ]
     },
@@ -345,7 +367,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 23
+          "total": 23,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Mr Lincoln",
@@ -372,7 +396,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Scots Poet",
@@ -399,7 +425,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 19
+          "total": 19,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Sattam",
@@ -426,7 +454,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 12
+          "total": 12,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Canavan",
@@ -453,7 +483,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -6.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Anamanda",
@@ -480,7 +512,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Bouboule",
@@ -507,7 +541,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 7
+          "total": 7,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Magic Gloves",
@@ -534,7 +570,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -6.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 8
         }
       ]
     }

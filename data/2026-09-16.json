@@ -1,12 +1,13 @@
 {
   "date": "2026-09-16",
-  "generated": "2026-11-17T07:54:04+00:00",
+  "generated": "2026-11-17T08:23:48+00:00",
   "max": 55,
   "money": {
-    "bank_start": 16.91,
-    "staked": 0.17,
+    "bank_start": 21.75,
+    "rung": 1,
+    "staked": 0.22,
     "returned": 0.0,
-    "bank_after": 16.74,
+    "bank_after": 21.53,
     "skipped": 0,
     "bets": [
       {
@@ -16,7 +17,8 @@
         "race_time": "15:25",
         "race_meeting": "Kelso",
         "res": "LOSE",
-        "stake": 0.17,
+        "pos": 4,
+        "stake": 0.22,
         "returned": 0.0
       }
     ]
@@ -62,7 +64,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 14
+          "total": 14,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Cawthorne Cracker",
@@ -89,7 +93,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 12
+          "total": 12,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Struth",
@@ -116,7 +122,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -6.0,
-          "total": 6
+          "total": 6,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Scots Poet",
@@ -143,7 +151,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 6.5,
-          "total": 16
+          "total": 16,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Wispit Twob",
@@ -170,7 +180,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "On The Bubble",
@@ -197,7 +209,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Ivynator",
@@ -224,7 +238,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Hijo De La Luna",
@@ -251,7 +267,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 3,
+          "res": "PLACE",
+          "pos": 3
         }
       ]
     }

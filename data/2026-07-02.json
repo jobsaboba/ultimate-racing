@@ -1,12 +1,13 @@
 {
   "date": "2026-07-02",
-  "generated": "2026-11-17T07:54:03+00:00",
+  "generated": "2026-11-17T08:23:48+00:00",
   "max": 55,
   "money": {
-    "bank_start": 13.81,
-    "staked": 0.28,
-    "returned": 0.91,
-    "bank_after": 14.44,
+    "bank_start": 16.43,
+    "rung": 2,
+    "staked": 0.66,
+    "returned": 2.15,
+    "bank_after": 17.92,
     "skipped": 1,
     "bets": [
       {
@@ -16,7 +17,8 @@
         "race_time": "14:50",
         "race_meeting": "Perth",
         "res": "LOSE",
-        "stake": 0.14,
+        "pos": 8,
+        "stake": 0.33,
         "returned": 0.0
       },
       {
@@ -26,8 +28,9 @@
         "race_time": "16:00",
         "race_meeting": "Perth",
         "res": "WIN",
-        "stake": 0.14,
-        "returned": 0.91
+        "pos": 1,
+        "stake": 0.33,
+        "returned": 2.15
       }
     ]
   },
@@ -72,7 +75,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 12
+          "total": 12,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Starshine Legend",
@@ -99,7 +104,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 9
+          "total": 9,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Try Them",
@@ -126,7 +133,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 3,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Scriabin",
@@ -153,7 +162,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 14
+          "total": 14,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Luckie Devil",
@@ -180,7 +191,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 1
+          "total": 1,
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Bogha Baiste",
@@ -207,7 +220,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Moon Reign",
@@ -234,7 +249,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 30.5,
-          "total": 11
+          "total": 11,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Dotties Promise",
@@ -261,7 +278,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 6
+          "total": 6,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Quinnfinity",
@@ -288,7 +307,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -9.0,
-          "total": 1
+          "total": 1,
+          "res": "LOSE",
+          "pos": 8
         }
       ]
     },
@@ -328,7 +349,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 15
+          "total": 15,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Betteryouthanme",
@@ -355,7 +378,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -9.0,
-          "total": 14
+          "total": 14,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Malangen",
@@ -382,7 +407,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 19
+          "total": 19,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Top Flight Century",
@@ -409,7 +436,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 13
+          "total": 13,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Fairly Fulling",
@@ -436,7 +465,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 8
+          "total": 8,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Dreamings Free",
@@ -463,7 +494,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Bayonetta",
@@ -490,7 +523,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 6
+          "total": 6,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Breaking Ground",
@@ -517,7 +552,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -9.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "King Kodiak",
@@ -544,7 +581,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 7
         }
       ]
     },
@@ -584,7 +623,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Myfavouritesister",
@@ -611,7 +652,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 10
+          "total": 10,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Dalileo",
@@ -638,7 +681,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 18
+          "total": 18,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "C'mon So",
@@ -665,7 +710,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Creadan Grace",
@@ -692,7 +739,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 12
+          "total": 12,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Maggies Boy",
@@ -719,7 +768,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Prince Nino",
@@ -746,7 +797,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 6
+          "total": 6,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Les's Legacy",
@@ -773,7 +826,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 4
+          "total": 4,
+          "res": "LOSE",
+          "pos": 5
         }
       ]
     }

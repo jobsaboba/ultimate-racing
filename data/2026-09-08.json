@@ -1,12 +1,13 @@
 {
   "date": "2026-09-08",
-  "generated": "2026-11-17T07:54:04+00:00",
+  "generated": "2026-11-17T08:23:48+00:00",
   "max": 55,
   "money": {
-    "bank_start": 16.91,
-    "staked": 0.17,
+    "bank_start": 21.75,
+    "rung": 2,
+    "staked": 0.43,
     "returned": 0.0,
-    "bank_after": 16.74,
+    "bank_after": 21.32,
     "skipped": 0,
     "bets": [
       {
@@ -16,7 +17,8 @@
         "race_time": "18:12",
         "race_meeting": "Bangor-on-Dee",
         "res": "LOSE",
-        "stake": 0.17,
+        "pos": 7,
+        "stake": 0.43,
         "returned": 0.0
       }
     ]
@@ -62,7 +64,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Hillview",
@@ -89,7 +93,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 12
+          "total": 12,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Present Fair",
@@ -116,7 +122,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 20
+          "total": 20,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Scottish Dancer",
@@ -143,7 +151,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 5
+          "total": 5,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Fane Court",
@@ -170,7 +180,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 13
+          "total": 13,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Seahouses",
@@ -197,7 +209,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 14
+          "total": 14,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Fine Print",
@@ -224,7 +238,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 6
+          "total": 6,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "You Did",
@@ -251,7 +267,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 6
         }
       ]
     }

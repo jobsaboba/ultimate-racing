@@ -1,12 +1,13 @@
 {
   "date": "2026-10-22",
-  "generated": "2026-11-17T07:54:04+00:00",
+  "generated": "2026-11-17T08:23:49+00:00",
   "max": 55,
   "money": {
-    "bank_start": 15.33,
+    "bank_start": 19.65,
+    "rung": 3,
     "staked": 0,
     "returned": 0,
-    "bank_after": 15.33,
+    "bank_after": 19.65,
     "skipped": 2,
     "bets": []
   },
@@ -51,7 +52,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 11
+          "total": 11,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Sky Grove",
@@ -78,7 +81,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 11
+          "total": 11,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Quickkick",
@@ -105,7 +110,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 10
+          "total": 10,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Mourne Crystal",
@@ -132,7 +139,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 14
+          "total": 14,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Arms Park",
@@ -159,7 +168,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -6.0,
-          "total": 8
+          "total": 8,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Global Fortune",
@@ -186,7 +197,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 1
+          "total": 1,
+          "res": "LOSE",
+          "pos": 10
         },
         {
           "horse": "One More Chrome",
@@ -213,7 +226,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 25.8,
-          "total": 10
+          "total": 10,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Right Royal Rascal",
@@ -240,7 +255,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Goliath Flight",
@@ -267,7 +284,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 25.8,
-          "total": 10
+          "total": 10,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Laios Tresor",
@@ -294,7 +313,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 8
         }
       ]
     },
@@ -334,7 +355,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 19
+          "total": 19,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Brisky Dancer",
@@ -361,7 +384,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Oatsoeasy",
@@ -388,7 +413,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 10
+          "total": 10,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Common Sense",
@@ -415,7 +442,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 4.0,
-          "total": 14
+          "total": 14,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Navarau",
@@ -442,7 +471,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Look Don't Stare",
@@ -469,7 +500,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 1
+          "total": 1,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Potter",
@@ -496,7 +529,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -5.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Tyrrhenus",
@@ -523,7 +558,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 25.8,
-          "total": 10
+          "total": 10,
+          "res": "LOSE",
+          "pos": 6
         }
       ]
     }

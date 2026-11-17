@@ -1,12 +1,13 @@
 {
   "date": "2026-10-15",
-  "generated": "2026-11-17T07:54:04+00:00",
+  "generated": "2026-11-17T08:23:49+00:00",
   "max": 55,
   "money": {
-    "bank_start": 15.33,
+    "bank_start": 19.65,
+    "rung": 3,
     "staked": 0,
     "returned": 0,
-    "bank_after": 15.33,
+    "bank_after": 19.65,
     "skipped": 2,
     "bets": []
   },
@@ -51,7 +52,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 2.0,
-          "total": 25
+          "total": 25,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Kershaw",
@@ -78,7 +81,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 16
+          "total": 16,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Nikolavs Otto",
@@ -105,7 +110,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 27.8,
-          "total": 22
+          "total": 22,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Sea Eagle",
@@ -132,7 +139,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Get Out Of My Way",
@@ -159,7 +168,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 9
+          "total": 9,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Miss Arabella",
@@ -186,7 +197,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Zebra Star",
@@ -213,7 +226,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -7.0,
-          "total": 1
+          "total": 1,
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Sears Crossing",
@@ -240,7 +255,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 2.0,
-          "total": 9
+          "total": 9,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Jasper Glory",
@@ -267,7 +284,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 8
         }
       ]
     },
@@ -307,7 +326,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 2.0,
-          "total": 24
+          "total": 24,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Marty Mcfly",
@@ -334,7 +355,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 13
+          "total": 13,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "She's Notjoeking",
@@ -361,7 +384,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 8
+          "total": 8,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Magnolia",
@@ -388,7 +413,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 17
+          "total": 17,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Star Of Guiting",
@@ -415,7 +442,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -0.7,
-          "total": 13
+          "total": 13,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Double Oban",
@@ -442,7 +471,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 2.0,
-          "total": 12
+          "total": 12,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Matching Energy",
@@ -469,7 +500,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 8
+          "total": 8,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Linalene",
@@ -496,7 +529,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 6
+          "total": 6,
+          "res": "LOSE",
+          "pos": 7
         }
       ]
     }

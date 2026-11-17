@@ -1,12 +1,13 @@
 {
   "date": "2026-02-10",
-  "generated": "2026-11-17T07:54:02+00:00",
+  "generated": "2026-11-17T08:23:47+00:00",
   "max": 55,
   "money": {
-    "bank_start": 10.31,
+    "bank_start": 11.13,
+    "rung": 2,
     "staked": 0,
     "returned": 0,
-    "bank_after": 10.31,
+    "bank_after": 11.13,
     "skipped": 2,
     "bets": []
   },
@@ -51,7 +52,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 11.0,
-          "total": 26
+          "total": 26,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Burning It Up",
@@ -78,7 +81,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -7.0,
-          "total": 15
+          "total": 15,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "The Jeweller's Pet",
@@ -105,7 +110,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 14
+          "total": 14,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "The Coffey Boy",
@@ -132,7 +139,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 6
+          "total": 6,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Velvet Vulcan",
@@ -159,7 +168,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 9
+          "total": 9,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Ck O'mara",
@@ -186,7 +197,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Lewa House",
@@ -213,7 +226,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 7
+          "total": 7,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Bray Dale",
@@ -240,7 +255,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 1
+          "total": 1,
+          "res": "LOSE",
+          "pos": 8
         }
       ]
     },
@@ -280,7 +297,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 20
+          "total": 20,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Dubhain",
@@ -307,7 +326,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 6
+          "total": 6,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Nopresentliketime",
@@ -334,7 +355,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 3.7,
-          "total": 18
+          "total": 18,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Malayalam",
@@ -361,7 +384,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -15.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Green Angel",
@@ -388,7 +413,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 4
+          "total": 4,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Whathaveyou",
@@ -415,7 +442,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -7.0,
-          "total": 2
+          "total": 2,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Old Comrades",
@@ -442,7 +471,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -7.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Largy Meadow",
@@ -469,7 +500,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 1
+          "total": 1,
+          "res": "LOSE",
+          "pos": 6
         }
       ]
     }

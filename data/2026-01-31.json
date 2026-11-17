@@ -1,12 +1,13 @@
 {
   "date": "2026-01-31",
-  "generated": "2026-11-17T07:54:02+00:00",
+  "generated": "2026-11-17T08:23:47+00:00",
   "max": 55,
   "money": {
-    "bank_start": 10.4,
-    "staked": 0.3,
-    "returned": 0.43,
-    "bank_after": 10.53,
+    "bank_start": 11.2,
+    "rung": 1,
+    "staked": 0.33,
+    "returned": 0.48,
+    "bank_after": 11.35,
     "skipped": 0,
     "bets": [
       {
@@ -16,7 +17,8 @@
         "race_time": "13:43",
         "race_meeting": "Musselburgh",
         "res": "PLACE",
-        "stake": 0.1,
+        "pos": 2,
+        "stake": 0.11,
         "returned": 0.0
       },
       {
@@ -26,7 +28,8 @@
         "race_time": "14:20",
         "race_meeting": "Musselburgh",
         "res": "LOSE",
-        "stake": 0.1,
+        "pos": 6,
+        "stake": 0.11,
         "returned": 0.0
       },
       {
@@ -36,8 +39,9 @@
         "race_time": "15:37",
         "race_meeting": "Musselburgh",
         "res": "WIN",
-        "stake": 0.1,
-        "returned": 0.43
+        "pos": 1,
+        "stake": 0.11,
+        "returned": 0.48
       }
     ]
   },
@@ -82,7 +86,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 13
+          "total": 13,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Gibbs Island",
@@ -109,7 +115,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 7
+          "total": 7,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Star Of Guiting",
@@ -136,7 +144,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 13
+          "total": 13,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Afadil",
@@ -163,7 +173,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 21
+          "total": 21,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Wise Eagle",
@@ -190,7 +202,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 16
+          "total": 16,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Kateira",
@@ -217,7 +231,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 4.5,
-          "total": 12
+          "total": 12,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Williethebuilder",
@@ -244,7 +260,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 14
+          "total": 14,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Saligo Bay",
@@ -271,7 +289,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 7
+          "total": 7,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Static",
@@ -298,7 +318,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 9
         }
       ]
     },
@@ -338,7 +360,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 25
+          "total": 25,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Teddy Blue",
@@ -365,7 +389,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Insurrection",
@@ -392,7 +418,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 21
+          "total": 21,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Tommy's Oscar",
@@ -419,7 +447,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 6
+          "total": 6,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "JPR One",
@@ -446,7 +476,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 8
+          "total": 8,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Traprain Law",
@@ -473,7 +505,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -7.0,
-          "total": 7
+          "total": 7,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Bleu D'enfer",
@@ -500,7 +534,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 7
+          "total": 7,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Moon D'orange",
@@ -527,7 +563,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 7
         }
       ]
     },
@@ -567,7 +605,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 7
+          "total": 7,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Magna Victor",
@@ -594,7 +634,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 25
+          "total": 25,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "As Fast As Wind",
@@ -621,7 +663,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 8
+          "total": 8,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Gemini Man",
@@ -648,7 +692,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 11
+          "total": 11,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Chanonry Point",
@@ -675,7 +721,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -7.0,
-          "total": 12
+          "total": 12,
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Captain Cool",
@@ -702,7 +750,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Platin Moon",
@@ -729,7 +779,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 14
+          "total": 14,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Paddys Policy",
@@ -756,7 +808,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 10
+          "total": 10,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Ravenscraig Castle",
@@ -783,7 +837,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 8
+          "total": 8,
+          "res": "LOSE",
+          "pos": 5
         }
       ]
     }

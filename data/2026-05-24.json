@@ -1,12 +1,13 @@
 {
   "date": "2026-05-24",
-  "generated": "2026-11-17T07:54:03+00:00",
+  "generated": "2026-11-17T08:23:47+00:00",
   "max": 55,
   "money": {
-    "bank_start": 13.87,
-    "staked": 0.14,
-    "returned": 1.05,
-    "bank_after": 14.78,
+    "bank_start": 17.3,
+    "rung": 1,
+    "staked": 0.17,
+    "returned": 1.28,
+    "bank_after": 18.41,
     "skipped": 1,
     "bets": [
       {
@@ -16,8 +17,9 @@
         "race_time": "14:37",
         "race_meeting": "Kelso",
         "res": "WIN",
-        "stake": 0.14,
-        "returned": 1.05
+        "pos": 1,
+        "stake": 0.17,
+        "returned": 1.28
       }
     ]
   },
@@ -62,7 +64,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 10
+          "total": 10,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Chemistry",
@@ -89,7 +93,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 15
+          "total": 15,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Luna Grace",
@@ -116,7 +122,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -7.0,
-          "total": 8
+          "total": 8,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Ceol Draiochta",
@@ -143,7 +151,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 6
+          "total": 6,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Osco Flyer",
@@ -170,7 +180,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Mr Withington",
@@ -197,7 +209,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Steps In Time",
@@ -224,7 +238,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Scopic",
@@ -251,7 +267,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 3.5,
-          "total": 7
+          "total": 7,
+          "res": "LOSE",
+          "pos": 8
         }
       ]
     },
@@ -291,7 +309,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Travis Wheatley",
@@ -318,7 +338,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 14
+          "total": 14,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Heart Above",
@@ -345,7 +367,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 18
+          "total": 18,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Stylish Recruit",
@@ -372,7 +396,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 6
+          "total": 6,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Helsgetaway",
@@ -399,7 +425,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -7.0,
-          "total": 3
+          "total": 3,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "William Of York",
@@ -426,7 +454,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 64.0,
-          "total": 11
+          "total": 11,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Newport",
@@ -453,7 +483,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -6.5,
-          "total": 12
+          "total": 12,
+          "res": "LOSE",
+          "pos": 11
         },
         {
           "horse": "Les's Legacy",
@@ -480,7 +512,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 5.0,
-          "total": 18
+          "total": 18,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Theirshegoes",
@@ -507,7 +541,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Knacker Trapper",
@@ -534,7 +570,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 3,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Georgie's Malt",
@@ -561,7 +599,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -5.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 10
         }
       ]
     }

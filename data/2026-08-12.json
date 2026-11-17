@@ -1,12 +1,13 @@
 {
   "date": "2026-08-12",
-  "generated": "2026-11-17T07:54:03+00:00",
+  "generated": "2026-11-17T08:23:48+00:00",
   "max": 55,
   "money": {
-    "bank_start": 17.21,
-    "staked": 0.17,
+    "bank_start": 20.67,
+    "rung": 1,
+    "staked": 0.21,
     "returned": 0.0,
-    "bank_after": 17.04,
+    "bank_after": 20.46,
     "skipped": 1,
     "bets": [
       {
@@ -16,7 +17,8 @@
         "race_time": "16:10",
         "race_meeting": "Ffos Las",
         "res": "LOSE",
-        "stake": 0.17,
+        "pos": 4,
+        "stake": 0.21,
         "returned": 0.0
       }
     ]
@@ -62,7 +64,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 19
+          "total": 19,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Happier",
@@ -89,7 +93,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 15
+          "total": 15,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Dark Sun",
@@ -116,7 +122,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 13
+          "total": 13,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Portacloy",
@@ -143,7 +151,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 5
+          "total": 5,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Little Jaybee",
@@ -170,7 +180,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 7
+          "total": 7,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Sheik Yerbouti",
@@ -197,7 +209,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 5
+          "total": 5,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Miracleoftheandes",
@@ -224,7 +238,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Miss Gold",
@@ -251,7 +267,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 8.0,
-          "total": 6
+          "total": 6,
+          "res": "LOSE",
+          "pos": 8
         }
       ]
     },
@@ -291,7 +309,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 20
+          "total": 20,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "King of The Dance",
@@ -318,7 +338,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 1.0,
-          "total": 20
+          "total": 20,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Oviedo",
@@ -345,7 +367,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 5
+          "total": 5,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Angel's Call",
@@ -372,7 +396,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 7
+          "total": 7,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Rival",
@@ -399,7 +425,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 12
+          "total": 12,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Kev",
@@ -426,7 +454,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Change Of Fortune",
@@ -453,7 +483,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 1.0,
-          "total": 18
+          "total": 18,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Ivat Ghia",
@@ -480,7 +512,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 4.5,
-          "total": 14
+          "total": 14,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Uncle Albert",
@@ -507,7 +541,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 5.0,
-          "total": 7
+          "total": 7,
+          "res": "LOSE",
+          "pos": 10
         },
         {
           "horse": "Big Moonrise",
@@ -534,7 +570,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 9
         }
       ]
     }

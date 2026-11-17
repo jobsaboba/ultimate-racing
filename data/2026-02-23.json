@@ -1,12 +1,13 @@
 {
   "date": "2026-02-23",
-  "generated": "2026-11-17T07:54:02+00:00",
+  "generated": "2026-11-17T08:23:47+00:00",
   "max": 55,
   "money": {
-    "bank_start": 9.91,
-    "staked": 0.1,
+    "bank_start": 10.05,
+    "rung": 4,
+    "staked": 0.4,
     "returned": 0.0,
-    "bank_after": 9.81,
+    "bank_after": 9.65,
     "skipped": 0,
     "bets": [
       {
@@ -16,7 +17,8 @@
         "race_time": "16:00",
         "race_meeting": "Ayr",
         "res": "PLACE",
-        "stake": 0.1,
+        "pos": 2,
+        "stake": 0.4,
         "returned": 0.0
       }
     ]
@@ -62,7 +64,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 24
+          "total": 24,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Balking",
@@ -89,7 +93,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 2.0,
-          "total": 7
+          "total": 7,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "The Jeweller's Pet",
@@ -116,7 +122,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 7.0,
-          "total": 25
+          "total": 25,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Eloi Du Puy",
@@ -143,7 +151,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 3
+          "total": 3,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Mountain Molly",
@@ -170,7 +180,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 8
+          "total": 8,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Jericoacoara",
@@ -197,7 +209,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 6
+          "total": 6,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "El Jefe",
@@ -224,7 +238,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Nellie Bluesky",
@@ -251,7 +267,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 9
+          "total": 9,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Lights Go Down",
@@ -278,7 +296,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 10
+          "total": 10,
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Go Frankie",
@@ -305,7 +325,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 10
         }
       ]
     }

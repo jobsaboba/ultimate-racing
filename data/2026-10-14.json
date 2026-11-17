@@ -1,12 +1,13 @@
 {
   "date": "2026-10-14",
-  "generated": "2026-11-17T07:54:04+00:00",
+  "generated": "2026-11-17T08:23:49+00:00",
   "max": 55,
   "money": {
-    "bank_start": 15.48,
-    "staked": 0.15,
+    "bank_start": 20.05,
+    "rung": 2,
+    "staked": 0.4,
     "returned": 0.0,
-    "bank_after": 15.33,
+    "bank_after": 19.65,
     "skipped": 0,
     "bets": [
       {
@@ -16,7 +17,8 @@
         "race_time": "15:38",
         "race_meeting": "Ffos Las",
         "res": "LOSE",
-        "stake": 0.15,
+        "pos": 5,
+        "stake": 0.4,
         "returned": 0.0
       }
     ]
@@ -62,7 +64,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 8
+          "total": 8,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Il Est Francais",
@@ -89,7 +93,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 30.8,
-          "total": 32
+          "total": 32,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Crebilly",
@@ -116,7 +122,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 5.5,
-          "total": 29
+          "total": 29,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Saint Segal",
@@ -143,7 +151,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 9
+          "total": 9,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Down Memory Lane",
@@ -170,7 +180,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -5.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Matterhorn",
@@ -197,7 +209,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 30.8,
-          "total": 18
+          "total": 18,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Southoftheborder",
@@ -224,7 +238,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 8
+          "total": 8,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Riskintheground",
@@ -251,7 +267,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 30.8,
-          "total": 13
+          "total": 13,
+          "res": "LOSE",
+          "pos": 6
         }
       ]
     }

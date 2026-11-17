@@ -1,12 +1,13 @@
 {
   "date": "2026-08-28",
-  "generated": "2026-11-17T07:54:04+00:00",
+  "generated": "2026-11-17T08:23:48+00:00",
   "max": 55,
   "money": {
-    "bank_start": 16.82,
-    "staked": 0.34,
-    "returned": 0.77,
-    "bank_after": 17.25,
+    "bank_start": 21.07,
+    "rung": 1,
+    "staked": 0.42,
+    "returned": 0.94,
+    "bank_after": 21.59,
     "skipped": 1,
     "bets": [
       {
@@ -16,8 +17,9 @@
         "race_time": "13:35",
         "race_meeting": "Ffos Las",
         "res": "WIN",
-        "stake": 0.17,
-        "returned": 0.77
+        "pos": 1,
+        "stake": 0.21,
+        "returned": 0.94
       },
       {
         "horse": "Grindleton",
@@ -26,7 +28,8 @@
         "race_time": "15:20",
         "race_meeting": "Ffos Las",
         "res": "LOSE",
-        "stake": 0.17,
+        "pos": 4,
+        "stake": 0.21,
         "returned": 0.0
       }
     ]
@@ -72,7 +75,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 17
+          "total": 17,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Cypriot Diaspora",
@@ -99,7 +104,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 18
+          "total": 18,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Bella Bisbee",
@@ -126,7 +133,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 17
+          "total": 17,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Lerwick",
@@ -153,7 +162,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 0.2,
-          "total": 18
+          "total": 18,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Grimese's Special",
@@ -180,7 +191,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 6
+          "total": 6,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Mountain Of Light",
@@ -207,7 +220,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 6
+          "total": 6,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Santiago Boy",
@@ -234,7 +249,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Nebbia",
@@ -261,7 +278,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 8
         }
       ]
     },
@@ -301,7 +320,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 9
+          "total": 9,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Dinah Myte",
@@ -328,7 +349,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 6.0,
-          "total": 28
+          "total": 28,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Alice's Influence",
@@ -355,7 +378,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 14.0,
-          "total": 22
+          "total": 22,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "King of The Dance",
@@ -382,7 +407,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 11
+          "total": 11,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Private Officer",
@@ -409,7 +436,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 7
+          "total": 7,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Launceston",
@@ -436,7 +465,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 3,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Pebble Dash",
@@ -463,7 +494,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "West Hill Rosie",
@@ -490,7 +523,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 7
         }
       ]
     },
@@ -530,7 +565,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 14
+          "total": 14,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Give Me Sun",
@@ -557,7 +594,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 14
+          "total": 14,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Sunshine And Roses",
@@ -584,7 +623,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 12
+          "total": 12,
+          "res": "LOSE",
+          "pos": 11
         },
         {
           "horse": "Lc Tiffen",
@@ -611,7 +652,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 39.0,
-          "total": 13
+          "total": 13,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Beryl's Girl",
@@ -638,7 +681,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 8
+          "total": 8,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Ivat Ghia",
@@ -665,7 +710,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 6
+          "total": 6,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Pangbourne",
@@ -692,7 +739,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 3
+          "total": 3,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Katalyst",
@@ -719,7 +768,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Seraglio Point",
@@ -746,7 +797,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Summer Oasis",
@@ -773,7 +826,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Thai Princess",
@@ -800,7 +855,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 10
         }
       ]
     }

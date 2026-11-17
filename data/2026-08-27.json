@@ -1,12 +1,13 @@
 {
   "date": "2026-08-27",
-  "generated": "2026-11-17T07:54:04+00:00",
+  "generated": "2026-11-17T08:23:48+00:00",
   "max": 55,
   "money": {
-    "bank_start": 16.29,
-    "staked": 0.16,
-    "returned": 0.69,
-    "bank_after": 16.82,
+    "bank_start": 18.6,
+    "rung": 4,
+    "staked": 0.74,
+    "returned": 3.21,
+    "bank_after": 21.07,
     "skipped": 0,
     "bets": [
       {
@@ -16,8 +17,9 @@
         "race_time": "16:07",
         "race_meeting": "Ffos Las",
         "res": "WIN",
-        "stake": 0.16,
-        "returned": 0.69
+        "pos": 1,
+        "stake": 0.74,
+        "returned": 3.21
       }
     ]
   },
@@ -62,7 +64,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 15
+          "total": 15,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Takeitorleaveit",
@@ -89,7 +93,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 11
+          "total": 11,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Fast Steps",
@@ -116,7 +122,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 14
+          "total": 14,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Brave Leader",
@@ -143,7 +151,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 6
+          "total": 6,
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "The Anthony Gover",
@@ -170,7 +180,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 3
+          "total": 3,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Revich",
@@ -197,7 +209,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 4
+          "total": 4,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Symphony's Song",
@@ -224,7 +238,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 4
+          "total": 4,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Tales Old As Time",
@@ -251,7 +267,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Hotel California",
@@ -278,7 +296,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 7
         }
       ]
     }

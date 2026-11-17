@@ -1,12 +1,13 @@
 {
   "date": "2026-08-07",
-  "generated": "2026-11-17T07:54:03+00:00",
+  "generated": "2026-11-17T08:23:48+00:00",
   "max": 55,
   "money": {
-    "bank_start": 16.89,
-    "staked": 0.17,
-    "returned": 0.74,
-    "bank_after": 17.46,
+    "bank_start": 20.34,
+    "rung": 1,
+    "staked": 0.2,
+    "returned": 0.87,
+    "bank_after": 21.01,
     "skipped": 0,
     "bets": [
       {
@@ -16,8 +17,9 @@
         "race_time": "14:20",
         "race_meeting": "Musselburgh",
         "res": "WIN",
-        "stake": 0.17,
-        "returned": 0.74
+        "pos": 1,
+        "stake": 0.2,
+        "returned": 0.87
       }
     ]
   },
@@ -62,7 +64,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 19
+          "total": 19,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Jonny Concrete",
@@ -89,7 +93,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 20
+          "total": 20,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Passing Thought",
@@ -116,7 +122,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 8
+          "total": 8,
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Gweedore",
@@ -143,7 +151,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 15
+          "total": 15,
+          "res": "LOSE",
+          "pos": 11
         },
         {
           "horse": "Misunderstood",
@@ -170,7 +180,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 0.1,
-          "total": 18
+          "total": 18,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Native Honey",
@@ -197,7 +209,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -18.0,
-          "total": 8
+          "total": 8,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "One Night Thunder",
@@ -224,7 +238,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 11.0,
-          "total": 12
+          "total": 12,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Vixey",
@@ -251,7 +267,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 8
+          "total": 8,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Augustus Gloop",
@@ -278,7 +296,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 4
+          "total": 4,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Ashen",
@@ -305,7 +325,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -18.0,
-          "total": 10
+          "total": 10,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Zarvali",
@@ -332,7 +354,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 7
+          "total": 7,
+          "res": "LOSE",
+          "pos": 10
         }
       ]
     }

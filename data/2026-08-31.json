@@ -1,12 +1,13 @@
 {
   "date": "2026-08-31",
-  "generated": "2026-11-17T07:54:04+00:00",
+  "generated": "2026-11-17T08:23:48+00:00",
   "max": 55,
   "money": {
-    "bank_start": 17.25,
+    "bank_start": 21.59,
+    "rung": 1,
     "staked": 0,
     "returned": 0,
-    "bank_after": 17.25,
+    "bank_after": 21.59,
     "skipped": 3,
     "bets": []
   },
@@ -51,7 +52,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 25
+          "total": 25,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Ajrad",
@@ -78,7 +81,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.5,
-          "total": 16
+          "total": 16,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Nammos",
@@ -105,7 +110,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 11
+          "total": 11,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Prince Ali",
@@ -132,7 +139,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 8
+          "total": 8,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Margorie",
@@ -159,7 +168,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 8
+          "total": 8,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Ashford Hill",
@@ -186,7 +197,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 8
+          "total": 8,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Blue Point Express",
@@ -213,7 +226,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -8.0,
-          "total": 13
+          "total": 13,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Aplaceinthesun",
@@ -240,7 +255,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 10
         },
         {
           "horse": "Fullstop",
@@ -267,7 +284,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -0.5,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 11
         },
         {
           "horse": "Snow Day",
@@ -294,7 +313,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 9.0,
-          "total": 7
+          "total": 7,
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Pacific Prince",
@@ -321,7 +342,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 1
+          "total": 1,
+          "res": "LOSE",
+          "pos": 8
         }
       ]
     },
@@ -361,7 +384,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 20
+          "total": 20,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "A Rose Adaay",
@@ -388,7 +413,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -0.5,
-          "total": 11
+          "total": 11,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Angel's Call",
@@ -415,7 +442,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 11.0,
-          "total": 18
+          "total": 18,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Eye Of The Water",
@@ -442,7 +471,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 11
+          "total": 11,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Vape",
@@ -469,7 +500,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 5
+          "total": 5,
+          "res": "LOSE",
+          "pos": 11
         },
         {
           "horse": "Marisitta",
@@ -496,7 +529,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 6
+          "total": 6,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Lady V",
@@ -523,7 +558,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 4
+          "total": 4,
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Lady Margret",
@@ -550,7 +587,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 9.0,
-          "total": 7
+          "total": 7,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Big Moonrise",
@@ -577,7 +616,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 22.0,
-          "total": 6
+          "total": 6,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "It's A Mugs Game",
@@ -604,7 +645,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 1
+          "total": 1,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Kaiko",
@@ -631,7 +674,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -8.0,
-          "total": 1
+          "total": 1,
+          "res": "LOSE",
+          "pos": 10
         }
       ]
     },
@@ -671,7 +716,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 20
+          "total": 20,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Revelance",
@@ -698,7 +745,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 24
+          "total": 24,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Eutropia",
@@ -725,7 +774,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -8.0,
-          "total": 16
+          "total": 16,
+          "res": "LOSE",
+          "pos": 12
         },
         {
           "horse": "Spirit Of The Bay",
@@ -752,7 +803,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 13
+          "total": 13,
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Talis Evolvere",
@@ -779,7 +832,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 12
+          "total": 12,
+          "res": "LOSE",
+          "pos": 10
         },
         {
           "horse": "Nakaaha",
@@ -806,7 +861,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -0.5,
-          "total": 8
+          "total": 8,
+          "res": "LOSE",
+          "pos": 16
         },
         {
           "horse": "Rating",
@@ -833,7 +890,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -0.5,
-          "total": 13
+          "total": 13,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Bobby Dassler",
@@ -860,7 +919,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 11
+          "total": 11,
+          "res": "LOSE",
+          "pos": 14
         },
         {
           "horse": "Scarfo",
@@ -887,7 +948,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -8.0,
-          "total": 11
+          "total": 11,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Redhot Whisper",
@@ -914,7 +977,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -8.0,
-          "total": 12
+          "total": 12,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Too Much Trevor",
@@ -941,7 +1006,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -0.5,
-          "total": 5
+          "total": 5,
+          "res": "LOSE",
+          "pos": 13
         },
         {
           "horse": "Homeland",
@@ -968,7 +1035,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Moonhall Lass",
@@ -995,7 +1064,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 15
         },
         {
           "horse": "Auburn Avenue",
@@ -1022,7 +1093,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 6
+          "total": 6,
+          "res": "LOSE",
+          "pos": 11
         },
         {
           "horse": "Law Of Design",
@@ -1049,7 +1122,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 2
+          "total": 2,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "The Bureau Club",
@@ -1076,7 +1151,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 2,
+          "res": "PLACE",
+          "pos": 4
         }
       ]
     }

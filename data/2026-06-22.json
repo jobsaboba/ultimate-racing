@@ -1,12 +1,13 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-11-17T07:54:03+00:00",
+  "generated": "2026-11-17T08:23:48+00:00",
   "max": 55,
   "money": {
-    "bank_start": 13.76,
+    "bank_start": 16.03,
+    "rung": 1,
     "staked": 0,
     "returned": 0,
-    "bank_after": 13.76,
+    "bank_after": 16.03,
     "skipped": 2,
     "bets": []
   },
@@ -51,7 +52,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 2.5,
-          "total": 25
+          "total": 25,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Yaaser",
@@ -78,7 +81,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 178.5,
-          "total": 25
+          "total": 25,
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Carolus Magnus",
@@ -105,7 +110,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 19
+          "total": 19,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Finn Ironside",
@@ -132,7 +139,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 12
+          "total": 12,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Patontheback",
@@ -159,7 +168,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 0.6,
-          "total": 17
+          "total": 17,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Concert Boy",
@@ -186,7 +197,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -7.0,
-          "total": 7
+          "total": 7,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Supreme Clarets",
@@ -213,7 +226,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 11.0,
-          "total": 8
+          "total": 8,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Due Respect",
@@ -240,7 +255,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 7
+          "total": 7,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Viviana",
@@ -267,7 +284,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 5
         }
       ]
     },
@@ -307,7 +326,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 178.5,
-          "total": 30
+          "total": 30,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Zuffolo",
@@ -334,7 +355,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 1.5,
-          "total": 21
+          "total": 21,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Golden Prosperity",
@@ -361,7 +384,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 17
+          "total": 17,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Sixcor",
@@ -388,7 +413,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 12
+          "total": 12,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Fear And Fast",
@@ -415,7 +442,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 178.5,
-          "total": 12
+          "total": 12,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Hard Nut",
@@ -442,7 +471,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 11
+          "total": 11,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Supremissy",
@@ -469,7 +500,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 2.5,
-          "total": 8
+          "total": 8,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "You Mystify Me",
@@ -496,7 +529,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 4
+          "total": 4,
+          "res": "LOSE",
+          "pos": 10
         },
         {
           "horse": "Realistic Dream",
@@ -523,7 +558,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 2.5,
-          "total": 7
+          "total": 7,
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Moretons",
@@ -550,7 +587,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 9
         }
       ]
     }

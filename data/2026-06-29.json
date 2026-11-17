@@ -1,12 +1,13 @@
 {
   "date": "2026-06-29",
-  "generated": "2026-11-17T07:54:03+00:00",
+  "generated": "2026-11-17T08:23:48+00:00",
   "max": 55,
   "money": {
-    "bank_start": 14.09,
-    "staked": 0.14,
+    "bank_start": 16.94,
+    "rung": 1,
+    "staked": 0.17,
     "returned": 0.0,
-    "bank_after": 13.95,
+    "bank_after": 16.77,
     "skipped": 0,
     "bets": [
       {
@@ -16,7 +17,8 @@
         "race_time": "16:22",
         "race_meeting": "Ffos Las",
         "res": "PLACE",
-        "stake": 0.14,
+        "pos": 2,
+        "stake": 0.17,
         "returned": 0.0
       }
     ]
@@ -62,7 +64,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 0.7,
-          "total": 11
+          "total": 11,
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Worlington",
@@ -89,7 +93,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 14
+          "total": 14,
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "Captain Cairney",
@@ -116,7 +122,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 10
+          "total": 10,
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Home Secretary",
@@ -143,7 +151,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 3,
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Beaune",
@@ -170,7 +180,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 7
+          "total": 7,
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Ataturk",
@@ -197,7 +209,9 @@
           "tcj": 0,
           "profit": 5,
           "prof": 11.0,
-          "total": 16
+          "total": 16,
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Buck Barrow",
@@ -224,7 +238,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -6.0,
-          "total": 13
+          "total": 13,
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Calypso Bloom",
@@ -251,7 +267,9 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 2
+          "total": 2,
+          "res": "LOSE",
+          "pos": 6
         }
       ]
     }
