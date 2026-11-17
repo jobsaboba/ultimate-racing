@@ -1,7 +1,7 @@
 {
   "name": "Ultimate Racing",
   "short_name": "Ultimate Racing",
-  "description": "Hot trainer + hot jockey + a fit, short-priced horse — run as full perms on a rolling bank.",
+  "description": "Every 8+ runner race scored out of 55: Timeform + Racing Post stars, favouritism, course form, hot yards, course ranks and trainer profit.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
