@@ -1,13 +1,13 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T13:00:59+00:00",
+  "generated": "2026-11-17T13:32:14+00:00",
   "max": 55,
   "money": {
     "bank_start": 21.15,
     "rung": 2,
-    "staked": 5.04,
+    "staked": 4.62,
     "returned": 0.42,
-    "bank_after": 16.53,
+    "bank_after": 16.95,
     "skipped": 9,
     "bets": [
       {
@@ -29,17 +29,6 @@
         "race_meeting": "Carlisle",
         "res": "LOSE",
         "pos": 8,
-        "stake": 0.42,
-        "returned": 0.0
-      },
-      {
-        "horse": "Jumbos Jet",
-        "odds": "3/1",
-        "total": 16,
-        "race_time": "13:10",
-        "race_meeting": "Limerick",
-        "res": "PENDING",
-        "pos": 0,
         "stake": 0.42,
         "returned": 0.0
       },
@@ -1246,280 +1235,6 @@
       ]
     },
     {
-      "time": "13:10",
-      "meeting": "Limerick",
-      "name": "Panoramic Restaurant At Limerick Races Mares Handicap Hurdle",
-      "class": "",
-      "distance": "2m",
-      "going": "Yielding",
-      "n": 9,
-      "top_horse": "Jumbos Jet",
-      "top_total": 16,
-      "runners": [
-        {
-          "horse": "Cathryns Ruby",
-          "cloth": 1,
-          "odds": "5/2",
-          "tf": 3,
-          "rp": 1,
-          "rpr": 109,
-          "fav_rank": 1,
-          "fav": 10,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            1,
-            2
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -1.0,
-          "total": 14,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "La Tulipe Noire",
-          "cloth": 2,
-          "odds": "20/1",
-          "tf": 2,
-          "rp": 0,
-          "rpr": 96,
-          "fav_rank": null,
-          "fav": 0,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            2,
-            2
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -1.0,
-          "total": 2,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "Galileo Springs",
-          "cloth": 3,
-          "odds": "5/1",
-          "tf": 4,
-          "rp": 3,
-          "rpr": 111,
-          "fav_rank": 3,
-          "fav": 5,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            1,
-            1
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -2.0,
-          "total": 12,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "Jumbos Jet",
-          "cloth": 4,
-          "odds": "3/1",
-          "tf": 5,
-          "rp": 4,
-          "rpr": 113,
-          "fav_rank": 2,
-          "fav": 7,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            1,
-            2
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": 0.0,
-          "total": 16,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "Albatala",
-          "cloth": 6,
-          "odds": "10/1",
-          "tf": 3,
-          "rp": 3,
-          "rpr": 111,
-          "fav_rank": null,
-          "fav": 0,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -8.0,
-          "total": 6,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "Mercurial Sea",
-          "cloth": 7,
-          "odds": "8/1",
-          "tf": 3,
-          "rp": 4,
-          "rpr": 113,
-          "fav_rank": 4,
-          "fav": 3,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -1.0,
-          "total": 10,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "Aleish Lass",
-          "cloth": 8,
-          "odds": "20/1",
-          "tf": 2,
-          "rp": 2,
-          "rpr": 110,
-          "fav_rank": null,
-          "fav": 0,
-          "cd": 3,
-          "cd_kind": "crs",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            1
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 5,
-          "prof": 1.9,
-          "total": 12,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "Kate Knows Best",
-          "cloth": 9,
-          "odds": "14/1",
-          "tf": 4,
-          "rp": 5,
-          "rpr": 114,
-          "fav_rank": null,
-          "fav": 0,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -4.0,
-          "total": 9,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "St Anthonys Corner",
-          "cloth": 10,
-          "odds": "20/1",
-          "tf": 1,
-          "rp": 0,
-          "rpr": 95,
-          "fav_rank": null,
-          "fav": 0,
-          "cd": 5,
-          "cd_kind": "dist",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": 0.0,
-          "total": 6,
-          "res": null,
-          "pos": 0
-        }
-      ]
-    },
-    {
       "time": "13:25",
       "meeting": "Carlisle",
       "name": "Crown & Thistle Novices' Hurdle (GBB Race) (Div 2)",
@@ -1800,7 +1515,7 @@
       "class": "",
       "distance": "2m",
       "going": "Yielding",
-      "n": 10,
+      "n": 9,
       "top_horse": "The Monkey Pole",
       "top_total": 25,
       "runners": [
@@ -1946,35 +1661,6 @@
           "profit": 0,
           "prof": -1.0,
           "total": 9,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "Dunmore",
-          "cloth": 6,
-          "odds": "8/1",
-          "tf": 4,
-          "rp": 3,
-          "rpr": 102,
-          "fav_rank": 4,
-          "fav": 3,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            1,
-            2
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -2.0,
-          "total": 10,
           "res": null,
           "pos": 0
         },
@@ -2738,7 +2424,7 @@
       "class": "4",
       "distance": "2m 1f 33y",
       "going": "Hurdle: good to soft-good in places; chase: good-good to soft in places (inspection 8am)",
-      "n": 17,
+      "n": 16,
       "top_horse": "Doyen Du Bar",
       "top_total": 40,
       "runners": [
@@ -3058,35 +2744,6 @@
           "profit": 0,
           "prof": 0.0,
           "total": 7,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "How About No",
-          "cloth": 12,
-          "odds": "33/1",
-          "tf": 2,
-          "rp": 0,
-          "rpr": 119,
-          "fav_rank": null,
-          "fav": 0,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -5.0,
-          "total": 2,
           "res": null,
           "pos": 0
         },
@@ -3663,7 +3320,7 @@
       "class": "5",
       "distance": "2m 1f 33y",
       "going": "Hurdle: good to soft-good in places; chase: good-good to soft in places (inspection 8am)",
-      "n": 13,
+      "n": 11,
       "top_horse": "Le Fabuleux Buck's",
       "top_total": 21,
       "runners": [
@@ -3780,35 +3437,6 @@
           "profit": 0,
           "prof": -4.0,
           "total": 6,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "Ribble River",
-          "cloth": 7,
-          "odds": "25/1",
-          "tf": 2,
-          "rp": 0,
-          "rpr": 92,
-          "fav_rank": null,
-          "fav": 0,
-          "cd": 3,
-          "cd_kind": "crs",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -5.0,
-          "total": 5,
           "res": null,
           "pos": 0
         },
@@ -3954,35 +3582,6 @@
           "profit": 0,
           "prof": -3.0,
           "total": 6,
-          "res": null,
-          "pos": 0
-        },
-        {
-          "horse": "Walk On Son",
-          "cloth": 14,
-          "odds": "12/1",
-          "tf": 3,
-          "rp": 2,
-          "rpr": 100,
-          "fav_rank": null,
-          "fav": 0,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 3,
-          "trw": [
-            1,
-            3
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 5,
-          "prof": 6.5,
-          "total": 13,
           "res": null,
           "pos": 0
         },
