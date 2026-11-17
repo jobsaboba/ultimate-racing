@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generated": "2026-11-17T18:30:54+00:00",
+  "generated": "2026-11-17T19:01:03+00:00",
   "max": 55,
   "money": {
     "bank_start": 21.15,
@@ -3457,8 +3457,8 @@
           "profit": 0,
           "prof": -2.0,
           "total": 21,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 13
         },
         {
           "horse": "Anthropologist",
@@ -3486,8 +3486,8 @@
           "profit": 0,
           "prof": -2.0,
           "total": 28,
-          "res": null,
-          "pos": 0
+          "res": "PLACE",
+          "pos": 3
         },
         {
           "horse": "Hale End",
@@ -3515,8 +3515,8 @@
           "profit": 0,
           "prof": -6.0,
           "total": 16,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 4
         },
         {
           "horse": "Vixey",
@@ -3544,8 +3544,8 @@
           "profit": 0,
           "prof": -1.0,
           "total": 9,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 7
         },
         {
           "horse": "Billyb",
@@ -3573,8 +3573,8 @@
           "profit": 0,
           "prof": -1.0,
           "total": 18,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 6
         },
         {
           "horse": "Jimmy Speaking",
@@ -3602,8 +3602,8 @@
           "profit": 0,
           "prof": -1.0,
           "total": 10,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 5
         },
         {
           "horse": "Silent City",
@@ -3631,8 +3631,8 @@
           "profit": 0,
           "prof": 0.0,
           "total": 10,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 8
         },
         {
           "horse": "Zryan",
@@ -3660,8 +3660,8 @@
           "profit": 0,
           "prof": -9.0,
           "total": 14,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 11
         },
         {
           "horse": "Priapos",
@@ -3689,8 +3689,8 @@
           "profit": 0,
           "prof": -1.0,
           "total": 15,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 10
         },
         {
           "horse": "Raging Raj",
@@ -3718,8 +3718,8 @@
           "profit": 0,
           "prof": -2.0,
           "total": 12,
-          "res": null,
-          "pos": 0
+          "res": "PLACE",
+          "pos": 2
         },
         {
           "horse": "Moving Shadow",
@@ -3747,8 +3747,8 @@
           "profit": 0,
           "prof": -6.0,
           "total": 15,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 9
         },
         {
           "horse": "Tex",
@@ -3776,8 +3776,8 @@
           "profit": 0,
           "prof": -1.0,
           "total": 11,
-          "res": null,
-          "pos": 0
+          "res": "WIN",
+          "pos": 1
         },
         {
           "horse": "One Smack Mac",
@@ -3805,8 +3805,8 @@
           "profit": 0,
           "prof": 0.0,
           "total": 4,
-          "res": null,
-          "pos": 0
+          "res": "LOSE",
+          "pos": 12
         }
       ]
     },
