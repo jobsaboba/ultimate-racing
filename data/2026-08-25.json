@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "generated": "2026-11-17T06:51:25+00:00",
+  "generated": "2026-11-17T06:52:44+00:00",
   "max": 55,
   "sources": {
     "timeform": "ok",
@@ -16,7 +16,7 @@
       "going": "Good",
       "n": 10,
       "top_horse": "Vegasmile",
-      "top_total": 10,
+      "top_total": 20,
       "runners": [
         {
           "horse": "Vegasmile",
@@ -25,8 +25,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -43,7 +43,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 5.5,
-          "total": 10
+          "total": 20
         },
         {
           "horse": "Inns And Out",
@@ -52,8 +52,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -70,7 +70,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -11.0,
-          "total": 3
+          "total": 8
         },
         {
           "horse": "Wild Orchid",
@@ -79,7 +79,7 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -106,8 +106,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -124,7 +124,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 4
+          "total": 11
         },
         {
           "horse": "Sweet Iris",
@@ -133,8 +133,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -151,7 +151,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 3
+          "total": 6
         },
         {
           "horse": "Pigeon Pete",
@@ -299,7 +299,7 @@
       "going": "Good",
       "n": 8,
       "top_horse": "Amber Hamur",
-      "top_total": 10,
+      "top_total": 20,
       "runners": [
         {
           "horse": "Amber Hamur",
@@ -308,8 +308,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -326,7 +326,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 2.0,
-          "total": 10
+          "total": 20
         },
         {
           "horse": "Only Dream Big",
@@ -335,8 +335,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 3,
           "cd_kind": "crs",
           "jk": 0,
@@ -353,7 +353,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -11.0,
-          "total": 6
+          "total": 11
         },
         {
           "horse": "Trucial Pearl",
@@ -362,8 +362,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -380,7 +380,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -6.0,
-          "total": 4
+          "total": 11
         },
         {
           "horse": "Dalamara",
@@ -443,8 +443,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -461,7 +461,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -0.7,
-          "total": 2
+          "total": 5
         },
         {
           "horse": "Balmoral Boy",
@@ -470,7 +470,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -528,7 +528,7 @@
       "going": "Good",
       "n": 9,
       "top_horse": "Trojan Sun",
-      "top_total": 20,
+      "top_total": 23,
       "runners": [
         {
           "horse": "Vaguely Royal",
@@ -537,8 +537,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -555,7 +555,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 4
+          "total": 11
         },
         {
           "horse": "Trojan Sun",
@@ -564,8 +564,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -582,7 +582,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 37.4,
-          "total": 20
+          "total": 23
         },
         {
           "horse": "Gallus Norman",
@@ -672,8 +672,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -690,7 +690,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 37.4,
-          "total": 11
+          "total": 16
         },
         {
           "horse": "Is She Now",
@@ -783,8 +783,8 @@
       "distance": "7f 15y",
       "going": "Good",
       "n": 10,
-      "top_horse": "Monhammer",
-      "top_total": 18,
+      "top_horse": "Edmond Halley",
+      "top_total": 20,
       "runners": [
         {
           "horse": "Coconut Bay",
@@ -793,8 +793,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -811,7 +811,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 3.8,
-          "total": 14
+          "total": 19
         },
         {
           "horse": "Edmond Halley",
@@ -820,8 +820,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -838,7 +838,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 2.0,
-          "total": 10
+          "total": 20
         },
         {
           "horse": "Novak",
@@ -847,8 +847,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -865,7 +865,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -8.0,
-          "total": 8
+          "total": 15
         },
         {
           "horse": "Monhammer",
@@ -874,7 +874,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 10,
           "cd_kind": "cd",
@@ -901,8 +901,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -919,7 +919,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -11.0,
-          "total": 8
+          "total": 11
         },
         {
           "horse": "Keep Me Stable",

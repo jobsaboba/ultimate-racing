@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "generated": "2026-11-17T06:51:26+00:00",
+  "generated": "2026-11-17T06:52:45+00:00",
   "max": 55,
   "sources": {
     "timeform": "ok",
@@ -16,7 +16,7 @@
       "going": "Good to Yielding (Good in places)",
       "n": 12,
       "top_horse": "Quatre Saison",
-      "top_total": 20,
+      "top_total": 30,
       "runners": [
         {
           "horse": "Ard Roisin",
@@ -52,8 +52,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -70,7 +70,7 @@
           "tcj": 5,
           "profit": 5,
           "prof": 8.2,
-          "total": 20
+          "total": 30
         },
         {
           "horse": "Rich Treasure",
@@ -79,7 +79,7 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -106,8 +106,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -124,7 +124,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 4
+          "total": 9
         },
         {
           "horse": "Klaus",
@@ -160,8 +160,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -178,7 +178,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 6
         },
         {
           "horse": "Carvoiero",
@@ -353,7 +353,7 @@
       "going": "Good to Yielding (Good in places)",
       "n": 9,
       "top_horse": "Western Shores",
-      "top_total": 19,
+      "top_total": 26,
       "runners": [
         {
           "horse": "Rebel Reba",
@@ -362,8 +362,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -380,7 +380,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 0.9,
-          "total": 15
+          "total": 25
         },
         {
           "horse": "Western Shores",
@@ -389,8 +389,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -407,7 +407,7 @@
           "tcj": 5,
           "profit": 5,
           "prof": 8.2,
-          "total": 19
+          "total": 26
         },
         {
           "horse": "Alberta Rose",
@@ -416,8 +416,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -434,7 +434,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 7
         },
         {
           "horse": "Jukebox Jolene",
@@ -443,8 +443,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -461,7 +461,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 5
         },
         {
           "horse": "Bethpage Theatre",
@@ -524,7 +524,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -608,8 +608,8 @@
       "distance": "3m 110y",
       "going": "Good to Yielding (Good in places)",
       "n": 11,
-      "top_horse": "Fuusland",
-      "top_total": 15,
+      "top_horse": "Live To Laugh",
+      "top_total": 19,
       "runners": [
         {
           "horse": "Well Bud",
@@ -618,8 +618,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 3,
           "cd_kind": "crs",
           "jk": 0,
@@ -636,7 +636,7 @@
           "tcj": 5,
           "profit": 0,
           "prof": -2.0,
-          "total": 12
+          "total": 17
         },
         {
           "horse": "Live To Laugh",
@@ -645,8 +645,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -663,7 +663,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 9
+          "total": 19
         },
         {
           "horse": "Warmer Days Ahead",
@@ -672,8 +672,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -690,7 +690,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 3
+          "total": 10
         },
         {
           "horse": "The Friday Man",
@@ -726,7 +726,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -807,8 +807,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -825,7 +825,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 8.2,
-          "total": 15
+          "total": 18
         },
         {
           "horse": "West Is Awake",
@@ -919,7 +919,7 @@
       "going": "Good to Yielding",
       "n": 9,
       "top_horse": "Storm Heart",
-      "top_total": 24,
+      "top_total": 31,
       "runners": [
         {
           "horse": "Storm Heart",
@@ -928,8 +928,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -946,7 +946,7 @@
           "tcj": 5,
           "profit": 5,
           "prof": 0.9,
-          "total": 24
+          "total": 31
         },
         {
           "horse": "Kel Histoire",
@@ -955,7 +955,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -982,8 +982,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 3,
           "cd_kind": "crs",
           "jk": 0,
@@ -1000,7 +1000,7 @@
           "tcj": 4,
           "profit": 5,
           "prof": 8.2,
-          "total": 21
+          "total": 31
         },
         {
           "horse": "Largy Hill",
@@ -1036,8 +1036,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -1054,7 +1054,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 10
+          "total": 15
         },
         {
           "horse": "Franciscan Rock",
@@ -1175,7 +1175,7 @@
       "going": "Good",
       "n": 8,
       "top_horse": "Western Soldier",
-      "top_total": 15,
+      "top_total": 25,
       "runners": [
         {
           "horse": "Diamond Days",
@@ -1184,8 +1184,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1202,7 +1202,7 @@
           "tcj": 5,
           "profit": 0,
           "prof": -4.0,
-          "total": 9
+          "total": 16
         },
         {
           "horse": "Foinix",
@@ -1211,8 +1211,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 3,
           "cd_kind": "crs",
           "jk": 0,
@@ -1229,7 +1229,7 @@
           "tcj": 4,
           "profit": 0,
           "prof": 0.0,
-          "total": 9
+          "total": 14
         },
         {
           "horse": "Zaraquelle",
@@ -1238,8 +1238,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1256,7 +1256,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -0.2,
-          "total": 4
+          "total": 7
         },
         {
           "horse": "Western Soldier",
@@ -1265,8 +1265,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -1283,7 +1283,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 14.5,
-          "total": 15
+          "total": 25
         },
         {
           "horse": "Castle Quarter",
@@ -1292,7 +1292,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 5,
           "cd_kind": "dist",
@@ -1404,7 +1404,7 @@
       "going": "Good to Yielding",
       "n": 8,
       "top_horse": "My Life Be Like",
-      "top_total": 15,
+      "top_total": 25,
       "runners": [
         {
           "horse": "Cold Old Fire",
@@ -1440,8 +1440,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -1458,7 +1458,7 @@
           "tcj": 5,
           "profit": 0,
           "prof": 0.0,
-          "total": 15
+          "total": 25
         },
         {
           "horse": "Everest The Brave",
@@ -1467,8 +1467,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -1485,7 +1485,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -5.0,
-          "total": 9
+          "total": 14
         },
         {
           "horse": "Bartlemy Boy",
@@ -1494,8 +1494,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -1512,7 +1512,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 8
+          "total": 11
         },
         {
           "horse": "Hearts And Spades",
@@ -1521,8 +1521,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -1539,7 +1539,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 9
+          "total": 16
         },
         {
           "horse": "Big Interest",
@@ -1548,7 +1548,7 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 5,
           "cd_kind": "dist",
@@ -1632,8 +1632,8 @@
       "distance": "2m 4f",
       "going": "Good to Yielding (Good in places)",
       "n": 10,
-      "top_horse": "Tuckmill",
-      "top_total": 10,
+      "top_horse": "West Of Carrig",
+      "top_total": 16,
       "runners": [
         {
           "horse": "Getaway Charlie",
@@ -1669,8 +1669,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -1687,7 +1687,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 10
+          "total": 15
         },
         {
           "horse": "West Of Carrig",
@@ -1696,8 +1696,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 3,
           "cd_kind": "crs",
           "jk": 0,
@@ -1714,7 +1714,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 6
+          "total": 16
         },
         {
           "horse": "Granville Street",
@@ -1723,8 +1723,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1741,7 +1741,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -8.0,
-          "total": 3
+          "total": 10
         },
         {
           "horse": "Cahirdown Boy",
@@ -1777,7 +1777,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",

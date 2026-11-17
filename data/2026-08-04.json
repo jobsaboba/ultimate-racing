@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated": "2026-11-17T06:51:25+00:00",
+  "generated": "2026-11-17T06:52:43+00:00",
   "max": 55,
   "sources": {
     "timeform": "ok",
@@ -16,7 +16,7 @@
       "going": "Good",
       "n": 8,
       "top_horse": "Cypriot Diaspora",
-      "top_total": 13,
+      "top_total": 23,
       "runners": [
         {
           "horse": "Cypriot Diaspora",
@@ -25,8 +25,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -43,7 +43,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 13
+          "total": 23
         },
         {
           "horse": "Our Dagger",
@@ -79,8 +79,35 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 12
+        },
+        {
+          "horse": "Laughterintherain",
+          "cloth": 5,
+          "odds": "15/2",
+          "tf": 2,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -100,40 +127,13 @@
           "total": 5
         },
         {
-          "horse": "Laughterintherain",
-          "cloth": 5,
-          "odds": "15/2",
-          "tf": 2,
-          "rp": 0,
-          "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": 0.0,
-          "total": 2
-        },
-        {
           "horse": "Lerwick",
           "cloth": 6,
           "odds": "10/1",
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -245,7 +245,7 @@
       "going": "Good",
       "n": 8,
       "top_horse": "Kaleidoscope Eyes",
-      "top_total": 15,
+      "top_total": 22,
       "runners": [
         {
           "horse": "Rosemary's Rose",
@@ -254,8 +254,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -272,7 +272,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 4
+          "total": 14
         },
         {
           "horse": "Kaleidoscope Eyes",
@@ -281,8 +281,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -299,7 +299,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 15
+          "total": 22
         },
         {
           "horse": "Piazza",
@@ -308,8 +308,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -326,7 +326,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 3
+          "total": 6
         },
         {
           "horse": "Cosmic Jive",
@@ -335,8 +335,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -353,7 +353,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 7
         },
         {
           "horse": "Iconic Dawn",
@@ -473,8 +473,8 @@
       "distance": "1m",
       "going": "Good",
       "n": 8,
-      "top_horse": "Arbaawy",
-      "top_total": 5,
+      "top_horse": "Wootz",
+      "top_total": 14,
       "runners": [
         {
           "horse": "Wootz",
@@ -483,8 +483,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -501,7 +501,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 4
+          "total": 14
         },
         {
           "horse": "Flagbearer",
@@ -510,8 +510,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -528,7 +528,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 4
+          "total": 9
         },
         {
           "horse": "Arbaawy",
@@ -537,8 +537,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -555,7 +555,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 5
+          "total": 12
         },
         {
           "horse": "Mountain Of Light",
@@ -564,8 +564,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -582,7 +582,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 5
         },
         {
           "horse": "Vincenzo Bellini",
@@ -591,7 +591,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -702,8 +702,8 @@
       "distance": "1m 3f 209y",
       "going": "Good",
       "n": 10,
-      "top_horse": "Jimmy Mark",
-      "top_total": 8,
+      "top_horse": "Condotti",
+      "top_total": 13,
       "runners": [
         {
           "horse": "Condotti",
@@ -712,8 +712,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -730,7 +730,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 13
         },
         {
           "horse": "Jimmy Mark",
@@ -739,8 +739,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -757,7 +757,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 8
+          "total": 11
         },
         {
           "horse": "Grindleton",
@@ -766,8 +766,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -784,7 +784,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 5
+          "total": 12
         },
         {
           "horse": "Beaune",
@@ -793,8 +793,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -811,7 +811,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 8
+          "total": 13
         },
         {
           "horse": "Ada Rose",
@@ -901,7 +901,7 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",

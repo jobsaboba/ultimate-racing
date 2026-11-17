@@ -1,6 +1,6 @@
 {
   "date": "2026-03-26",
-  "generated": "2026-11-17T06:51:24+00:00",
+  "generated": "2026-11-17T06:52:43+00:00",
   "max": 55,
   "sources": {
     "timeform": "ok",
@@ -16,7 +16,7 @@
       "going": "Good to Soft (Good in places)",
       "n": 9,
       "top_horse": "Tom Taggle",
-      "top_total": 12,
+      "top_total": 22,
       "runners": [
         {
           "horse": "Tom Taggle",
@@ -25,8 +25,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -43,7 +43,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 12
+          "total": 22
         },
         {
           "horse": "Yes And Yes",
@@ -52,8 +52,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 3,
           "cd_kind": "crs",
           "jk": 0,
@@ -70,7 +70,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 5
+          "total": 10
         },
         {
           "horse": "Just In A Bit",
@@ -79,8 +79,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -97,7 +97,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.2,
-          "total": 5
+          "total": 12
         },
         {
           "horse": "Flemenstide",
@@ -133,8 +133,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -151,7 +151,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 4
+          "total": 7
         },
         {
           "horse": "Bridget Mary",
@@ -187,7 +187,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -272,7 +272,7 @@
       "going": "Good to Soft (Good in places)",
       "n": 9,
       "top_horse": "Inion Tiogair",
-      "top_total": 14,
+      "top_total": 21,
       "runners": [
         {
           "horse": "Le Fabuleux Buck's",
@@ -281,8 +281,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -299,7 +299,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 5
+          "total": 10
         },
         {
           "horse": "Inion Tiogair",
@@ -308,8 +308,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -326,7 +326,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 14
+          "total": 21
         },
         {
           "horse": "Luwdvig",
@@ -335,8 +335,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -353,7 +353,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 9
+          "total": 19
         },
         {
           "horse": "Locked Down Lad",
@@ -443,7 +443,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -527,8 +527,8 @@
       "distance": "2m 7f 131y",
       "going": "Good to Soft (Good in places)",
       "n": 10,
-      "top_horse": "Northern Symphonie",
-      "top_total": 13,
+      "top_horse": "Crystello",
+      "top_total": 20,
       "runners": [
         {
           "horse": "Crystello",
@@ -537,8 +537,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -555,7 +555,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 10
+          "total": 20
         },
         {
           "horse": "Teorie",
@@ -645,7 +645,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -672,8 +672,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -690,7 +690,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 2
+          "total": 5
         },
         {
           "horse": "No Rematch",
@@ -810,8 +810,8 @@
       "distance": "2m 16y",
       "going": "Good to Soft (Good in places)",
       "n": 9,
-      "top_horse": "Trigg",
-      "top_total": 9,
+      "top_horse": "Stick To The Board",
+      "top_total": 15,
       "runners": [
         {
           "horse": "Lord Du Gouet",
@@ -820,8 +820,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -838,7 +838,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -0.5,
-          "total": 3
+          "total": 10
         },
         {
           "horse": "Stick To The Board",
@@ -847,8 +847,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -865,7 +865,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 5
+          "total": 15
         },
         {
           "horse": "Trigg",
@@ -874,8 +874,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -892,7 +892,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.7,
-          "total": 9
+          "total": 14
         },
         {
           "horse": "Shuil Rocco",
@@ -901,7 +901,7 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -928,8 +928,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -946,7 +946,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 3
+          "total": 6
         },
         {
           "horse": "Mariniere",

@@ -1,6 +1,6 @@
 {
   "date": "2026-02-25",
-  "generated": "2026-11-17T06:51:24+00:00",
+  "generated": "2026-11-17T06:52:43+00:00",
   "max": 55,
   "sources": {
     "timeform": "ok",
@@ -16,7 +16,7 @@
       "going": "Soft",
       "n": 9,
       "top_horse": "Halftheworldaway",
-      "top_total": 9,
+      "top_total": 19,
       "runners": [
         {
           "horse": "Halftheworldaway",
@@ -25,8 +25,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -43,7 +43,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 0.2,
-          "total": 9
+          "total": 19
         },
         {
           "horse": "Iamyouare",
@@ -52,7 +52,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -79,8 +79,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -97,7 +97,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 4
+          "total": 9
         },
         {
           "horse": "Longhouse Gem",
@@ -106,8 +106,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -124,7 +124,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 5
+          "total": 12
         },
         {
           "horse": "Ufouria",
@@ -133,8 +133,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -151,7 +151,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 3
+          "total": 6
         },
         {
           "horse": "Vale Of Tears",

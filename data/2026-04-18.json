@@ -1,6 +1,6 @@
 {
   "date": "2026-04-18",
-  "generated": "2026-11-17T06:51:24+00:00",
+  "generated": "2026-11-17T06:52:43+00:00",
   "max": 55,
   "sources": {
     "timeform": "ok",
@@ -16,7 +16,7 @@
       "going": "Good",
       "n": 12,
       "top_horse": "Senator",
-      "top_total": 10,
+      "top_total": 20,
       "runners": [
         {
           "horse": "Senator",
@@ -25,8 +25,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -43,7 +43,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -0.6,
-          "total": 10
+          "total": 20
         },
         {
           "horse": "Alsakib",
@@ -52,8 +52,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -70,7 +70,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 9
+          "total": 16
         },
         {
           "horse": "Anxious Moments",
@@ -106,8 +106,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -124,7 +124,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 8
         },
         {
           "horse": "Tunisya",
@@ -214,8 +214,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -232,7 +232,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 3
+          "total": 6
         },
         {
           "horse": "Static Charm",
@@ -241,7 +241,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -352,8 +352,8 @@
       "distance": "3m 30y",
       "going": "Good (Good to Soft in places)",
       "n": 10,
-      "top_horse": "Subtle Fortune",
-      "top_total": 8,
+      "top_horse": "Streamsforth Lad",
+      "top_total": 15,
       "runners": [
         {
           "horse": "Streamsforth Lad",
@@ -362,8 +362,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -380,7 +380,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 5
+          "total": 15
         },
         {
           "horse": "Subtle Fortune",
@@ -389,8 +389,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -407,7 +407,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 8
+          "total": 15
         },
         {
           "horse": "Huckleberry Sting",
@@ -443,8 +443,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -461,7 +461,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 8
         },
         {
           "horse": "Atlanta Brave",
@@ -635,8 +635,8 @@
       "distance": "2m 7f 32y",
       "going": "Good",
       "n": 9,
-      "top_horse": "Hillview",
-      "top_total": 12,
+      "top_horse": "Dwight K Schrute",
+      "top_total": 15,
       "runners": [
         {
           "horse": "Dwight K Schrute",
@@ -645,8 +645,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -663,7 +663,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -0.6,
-          "total": 5
+          "total": 15
         },
         {
           "horse": "Tiger Orchid",
@@ -672,8 +672,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -690,7 +690,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 8
+          "total": 15
         },
         {
           "horse": "Speed Davis",
@@ -699,7 +699,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -753,8 +753,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -771,7 +771,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 4
+          "total": 7
         },
         {
           "horse": "Kintail",
@@ -780,8 +780,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -798,7 +798,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 8
         },
         {
           "horse": "Golden Glance",
@@ -891,7 +891,7 @@
       "distance": "2m",
       "going": "Heavy (Soft in places)",
       "n": 9,
-      "top_horse": "Jardin De Tunis",
+      "top_horse": "Skerry Hill",
       "top_total": 19,
       "runners": [
         {
@@ -901,8 +901,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -919,7 +919,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 9
+          "total": 19
         },
         {
           "horse": "Keops Des Bordes",
@@ -928,8 +928,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -946,7 +946,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 5
+          "total": 12
         },
         {
           "horse": "Old Habits",
@@ -955,8 +955,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -973,7 +973,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 1.0,
-          "total": 14
+          "total": 19
         },
         {
           "horse": "Jardin De Tunis",
@@ -1009,7 +1009,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 10,
           "cd_kind": "cd",
@@ -1090,8 +1090,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1108,7 +1108,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 4
+          "total": 7
         },
         {
           "horse": "Busted Springs",
@@ -1148,7 +1148,7 @@
       "going": "Good",
       "n": 11,
       "top_horse": "Longlands",
-      "top_total": 10,
+      "top_total": 20,
       "runners": [
         {
           "horse": "Enya",
@@ -1157,8 +1157,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1175,7 +1175,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -0.6,
-          "total": 3
+          "total": 6
         },
         {
           "horse": "Longlands",
@@ -1184,8 +1184,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1202,7 +1202,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 4.1,
-          "total": 10
+          "total": 20
         },
         {
           "horse": "Littlebobbydazzler",
@@ -1211,7 +1211,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -1292,8 +1292,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1310,7 +1310,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 3
+          "total": 8
         },
         {
           "horse": "Affinitive",

@@ -1,6 +1,6 @@
 {
   "date": "2026-05-20",
-  "generated": "2026-11-17T06:51:25+00:00",
+  "generated": "2026-11-17T06:52:43+00:00",
   "max": 55,
   "sources": {
     "timeform": "ok",
@@ -15,8 +15,8 @@
       "distance": "6f",
       "going": "Good to Firm",
       "n": 10,
-      "top_horse": "Doon The Glen",
-      "top_total": 13,
+      "top_horse": "Classy Clarets",
+      "top_total": 19,
       "runners": [
         {
           "horse": "Classy Clarets",
@@ -25,8 +25,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -43,7 +43,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -0.5,
-          "total": 9
+          "total": 19
         },
         {
           "horse": "Wee Mary",
@@ -52,8 +52,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -70,7 +70,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 6.5,
-          "total": 8
+          "total": 15
         },
         {
           "horse": "Jet Warrior",
@@ -79,8 +79,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -97,7 +97,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 5
+          "total": 8
         },
         {
           "horse": "Doon The Glen",
@@ -106,7 +106,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 5,
           "cd_kind": "dist",
@@ -133,8 +133,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -151,7 +151,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 6.5,
-          "total": 9
+          "total": 14
         },
         {
           "horse": "Bernie The Bear",
@@ -298,8 +298,8 @@
       "distance": "1m 1f 20y",
       "going": "Good to Firm",
       "n": 11,
-      "top_horse": "Ayr Poet",
-      "top_total": 12,
+      "top_horse": "Pearl Eye",
+      "top_total": 20,
       "runners": [
         {
           "horse": "Pearl Eye",
@@ -308,8 +308,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -326,7 +326,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 6.5,
-          "total": 10
+          "total": 20
         },
         {
           "horse": "Footwork",
@@ -335,8 +335,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -353,7 +353,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 3
+          "total": 10
         },
         {
           "horse": "Good Morning Alex",
@@ -389,8 +389,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -407,7 +407,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -6.0,
-          "total": 2
+          "total": 7
         },
         {
           "horse": "Ayr Poet",
@@ -443,8 +443,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -461,7 +461,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 4
+          "total": 7
         },
         {
           "horse": "Cisco Disco",
@@ -608,8 +608,8 @@
       "distance": "1m",
       "going": "Good to Firm",
       "n": 11,
-      "top_horse": "Jannas Journey",
-      "top_total": 17,
+      "top_horse": "Hale End",
+      "top_total": 24,
       "runners": [
         {
           "horse": "Hale End",
@@ -618,8 +618,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -636,7 +636,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 14
+          "total": 24
         },
         {
           "horse": "Return To Unit",
@@ -645,8 +645,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -663,7 +663,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 10
+          "total": 17
         },
         {
           "horse": "Jannas Journey",
@@ -807,8 +807,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -825,7 +825,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 9
+          "total": 14
         },
         {
           "horse": "Kaleido",
@@ -834,8 +834,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -852,7 +852,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -5.0,
-          "total": 3
+          "total": 6
         },
         {
           "horse": "Geo",
@@ -918,8 +918,8 @@
       "distance": "2m 7f 191y",
       "going": "Good to Soft",
       "n": 8,
-      "top_horse": "Poet's Muse",
-      "top_total": 9,
+      "top_horse": "Glenmuick",
+      "top_total": 14,
       "runners": [
         {
           "horse": "Glenmuick",
@@ -928,8 +928,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -946,7 +946,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 4
+          "total": 14
         },
         {
           "horse": "Hard Stare",
@@ -955,8 +955,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -973,7 +973,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 10
         },
         {
           "horse": "Green Asset",
@@ -982,7 +982,7 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -1009,8 +1009,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -1027,7 +1027,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 9
+          "total": 12
         },
         {
           "horse": "Crest Of Valour",
@@ -1036,8 +1036,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1054,7 +1054,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 8
         },
         {
           "horse": "Blackacre",
@@ -1148,7 +1148,7 @@
       "going": "Good to Firm",
       "n": 9,
       "top_horse": "Kelpie Grey",
-      "top_total": 18,
+      "top_total": 28,
       "runners": [
         {
           "horse": "Kelpie Grey",
@@ -1157,8 +1157,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -1175,7 +1175,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 6.5,
-          "total": 18
+          "total": 28
         },
         {
           "horse": "Roaring Ralph",
@@ -1184,8 +1184,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -1202,7 +1202,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 9
+          "total": 16
         },
         {
           "horse": "Al Muqdad",
@@ -1211,8 +1211,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -1229,7 +1229,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -5.0,
-          "total": 15
+          "total": 20
         },
         {
           "horse": "Novak",
@@ -1238,7 +1238,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 10,
           "cd_kind": "cd",
@@ -1292,8 +1292,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1310,7 +1310,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -5.5,
-          "total": 3
+          "total": 6
         },
         {
           "horse": "Mr Cool",
@@ -1404,7 +1404,7 @@
       "going": "Good to Firm",
       "n": 8,
       "top_horse": "Native Honey",
-      "top_total": 18,
+      "top_total": 25,
       "runners": [
         {
           "horse": "Tattie Bogle",
@@ -1413,8 +1413,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -1431,7 +1431,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 9
+          "total": 19
         },
         {
           "horse": "Native Honey",
@@ -1440,8 +1440,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -1458,7 +1458,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 6.5,
-          "total": 18
+          "total": 25
         },
         {
           "horse": "Rwenearlytheredad",
@@ -1467,8 +1467,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -1485,7 +1485,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 7
+          "total": 10
         },
         {
           "horse": "Qazaq",
@@ -1494,8 +1494,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -1512,7 +1512,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -0.5,
-          "total": 10
+          "total": 15
         },
         {
           "horse": "Habrdi",
@@ -1632,8 +1632,8 @@
       "distance": "1m",
       "going": "Good to Firm",
       "n": 8,
-      "top_horse": "Tap Dancer",
-      "top_total": 9,
+      "top_horse": "Wolf Of Badenoch",
+      "top_total": 15,
       "runners": [
         {
           "horse": "Wolf Of Badenoch",
@@ -1642,8 +1642,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1660,7 +1660,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 5
+          "total": 15
         },
         {
           "horse": "Mwafaq",
@@ -1669,8 +1669,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1687,7 +1687,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -5.0,
-          "total": 4
+          "total": 9
         },
         {
           "horse": "Glorious Kitty",
@@ -1696,8 +1696,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1714,7 +1714,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 4
+          "total": 11
         },
         {
           "horse": "Evelyn's Phoenix",
@@ -1723,7 +1723,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 5,
           "cd_kind": "dist",
@@ -1750,8 +1750,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1768,7 +1768,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 6.5,
-          "total": 9
+          "total": 12
         },
         {
           "horse": "Lovette",

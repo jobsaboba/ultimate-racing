@@ -1,6 +1,6 @@
 {
   "date": "2026-06-30",
-  "generated": "2026-11-17T06:51:25+00:00",
+  "generated": "2026-11-17T06:52:43+00:00",
   "max": 55,
   "sources": {
     "timeform": "ok",
@@ -25,8 +25,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -43,7 +43,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 5
+          "total": 12
         },
         {
           "horse": "High Degree",
@@ -52,8 +52,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -70,7 +70,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 4
+          "total": 14
         },
         {
           "horse": "Strength of Spirit",
@@ -79,8 +79,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 3,
           "cd_kind": "crs",
           "jk": 0,
@@ -97,7 +97,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 7
+          "total": 12
         },
         {
           "horse": "Two B Tanned",
@@ -133,8 +133,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -151,7 +151,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 182.0,
-          "total": 15
+          "total": 18
         },
         {
           "horse": "Pandemonium",
@@ -160,7 +160,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -271,8 +271,8 @@
       "distance": "7f 15y",
       "going": "Good",
       "n": 9,
-      "top_horse": "Monhammer",
-      "top_total": 17,
+      "top_horse": "Classy Clarets",
+      "top_total": 23,
       "runners": [
         {
           "horse": "Coconut Bay",
@@ -281,8 +281,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -299,7 +299,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 7
+          "total": 14
         },
         {
           "horse": "Classy Clarets",
@@ -308,8 +308,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -326,7 +326,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 28.5,
-          "total": 13
+          "total": 23
         },
         {
           "horse": "Willowinghurn",
@@ -335,8 +335,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -353,7 +353,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 15
+          "total": 20
         },
         {
           "horse": "Monhammer",
@@ -443,7 +443,7 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 5,
           "cd_kind": "dist",
@@ -528,7 +528,7 @@
       "going": "Good",
       "n": 8,
       "top_horse": "The Gay Blade",
-      "top_total": 22,
+      "top_total": 25,
       "runners": [
         {
           "horse": "Iris Dancer",
@@ -564,8 +564,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -582,7 +582,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 4.1,
-          "total": 14
+          "total": 24
         },
         {
           "horse": "The Gay Blade",
@@ -591,8 +591,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 3,
@@ -609,7 +609,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 28.5,
-          "total": 22
+          "total": 25
         },
         {
           "horse": "Native Instinct",
@@ -618,8 +618,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -636,7 +636,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 5
+          "total": 12
         },
         {
           "horse": "Diamont Katie",
@@ -645,8 +645,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -663,7 +663,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 3
+          "total": 8
         },
         {
           "horse": "Abduction",
@@ -699,7 +699,7 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 5,
           "cd_kind": "dist",
@@ -757,7 +757,7 @@
       "going": "Good",
       "n": 10,
       "top_horse": "Wee Mary",
-      "top_total": 23,
+      "top_total": 33,
       "runners": [
         {
           "horse": "Wee Mary",
@@ -766,8 +766,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -784,7 +784,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 182.0,
-          "total": 23
+          "total": 33
         },
         {
           "horse": "What A Tahoo",
@@ -793,8 +793,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -811,7 +811,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 4.5,
-          "total": 14
+          "total": 21
         },
         {
           "horse": "Invincible Crown",
@@ -820,8 +820,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -838,7 +838,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 9
+          "total": 14
         },
         {
           "horse": "Sixcor",
@@ -847,7 +847,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 10,
           "cd_kind": "cd",
@@ -874,8 +874,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -892,7 +892,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -8.0,
-          "total": 8
+          "total": 11
         },
         {
           "horse": "Bonito Cavalo",
@@ -1039,8 +1039,8 @@
       "distance": "1m",
       "going": "Good (Good to Firm in places)",
       "n": 8,
-      "top_horse": "Kino Plasmat",
-      "top_total": 5,
+      "top_horse": "Dark Whisper",
+      "top_total": 14,
       "runners": [
         {
           "horse": "Dark Whisper",
@@ -1049,8 +1049,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1067,7 +1067,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 4
+          "total": 14
         },
         {
           "horse": "Kino Plasmat",
@@ -1076,8 +1076,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1094,7 +1094,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 5
+          "total": 12
         },
         {
           "horse": "Impierious",
@@ -1103,8 +1103,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1121,7 +1121,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 4
+          "total": 9
         },
         {
           "horse": "Lean D'aislingean",
@@ -1130,8 +1130,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1148,7 +1148,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 6
         },
         {
           "horse": "Ingemar",
@@ -1157,7 +1157,7 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -1269,7 +1269,7 @@
       "going": "Good (Good to Firm in places)",
       "n": 8,
       "top_horse": "King of The Dance",
-      "top_total": 9,
+      "top_total": 19,
       "runners": [
         {
           "horse": "King of The Dance",
@@ -1278,8 +1278,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -1296,7 +1296,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 9
+          "total": 19
         },
         {
           "horse": "Spirited Dancer",
@@ -1305,8 +1305,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1323,7 +1323,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 5
+          "total": 12
         },
         {
           "horse": "Angel's Call",
@@ -1332,8 +1332,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1350,7 +1350,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 3
+          "total": 6
         },
         {
           "horse": "A Rose Adaay",
@@ -1359,7 +1359,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -1497,8 +1497,8 @@
       "distance": "7f 80y",
       "going": "Good (Good to Firm in places)",
       "n": 8,
-      "top_horse": "Cypriot Diaspora",
-      "top_total": 13,
+      "top_horse": "Dappled Light",
+      "top_total": 15,
       "runners": [
         {
           "horse": "Tonal",
@@ -1507,8 +1507,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1525,7 +1525,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 3
+          "total": 13
         },
         {
           "horse": "Dappled Light",
@@ -1534,8 +1534,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 3,
           "cd_kind": "crs",
           "jk": 0,
@@ -1552,7 +1552,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -5.0,
-          "total": 8
+          "total": 15
         },
         {
           "horse": "Cypriot Diaspora",
@@ -1561,7 +1561,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 10,
           "cd_kind": "cd",
@@ -1588,8 +1588,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -1606,7 +1606,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 9
+          "total": 12
         },
         {
           "horse": "Kaleidoscope Eyes",
@@ -1696,8 +1696,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1714,7 +1714,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 3
+          "total": 8
         }
       ]
     }

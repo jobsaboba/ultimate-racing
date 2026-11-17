@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generated": "2026-11-17T06:51:26+00:00",
+  "generated": "2026-11-17T06:52:44+00:00",
   "max": 55,
   "sources": {
     "timeform": "ok",
@@ -16,7 +16,7 @@
       "going": "Good (Good to Soft in places)",
       "n": 8,
       "top_horse": "Speed Davis",
-      "top_total": 13,
+      "top_total": 18,
       "runners": [
         {
           "horse": "Speed Davis",
@@ -25,8 +25,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -43,7 +43,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 13
+          "total": 18
         },
         {
           "horse": "Crystal Glance",
@@ -52,8 +52,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 3,
           "cd_kind": "crs",
           "jk": 0,
@@ -70,7 +70,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 7
+          "total": 14
         },
         {
           "horse": "Aire Spray",
@@ -160,8 +160,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -178,7 +178,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 6
         },
         {
           "horse": "Mr Mackay",
@@ -187,7 +187,7 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -244,8 +244,8 @@
       "distance": "2m 145y",
       "going": "Good (Good to Soft in places)",
       "n": 10,
-      "top_horse": "Sittin Ona Fortune",
-      "top_total": 8,
+      "top_horse": "Rattlin Home",
+      "top_total": 15,
       "runners": [
         {
           "horse": "Rattlin Home",
@@ -254,8 +254,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -272,7 +272,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -10.0,
-          "total": 5
+          "total": 15
         },
         {
           "horse": "Back To Sea",
@@ -281,8 +281,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -299,7 +299,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 4
+          "total": 11
         },
         {
           "horse": "Godfrey Bouillon",
@@ -308,8 +308,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -326,7 +326,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 6
         },
         {
           "horse": "Sittin Ona Fortune",
@@ -335,8 +335,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -353,7 +353,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 1.2,
-          "total": 8
+          "total": 13
         },
         {
           "horse": "Get Busy Jumping",
@@ -416,7 +416,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -528,7 +528,7 @@
       "going": "Good (Good to Soft in places)",
       "n": 10,
       "top_horse": "Crystal Spring",
-      "top_total": 9,
+      "top_total": 16,
       "runners": [
         {
           "horse": "Queen Maeve",
@@ -537,8 +537,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -555,7 +555,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -10.0,
-          "total": 5
+          "total": 15
         },
         {
           "horse": "Hot Goddess",
@@ -564,8 +564,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 3,
@@ -582,7 +582,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 6
+          "total": 9
         },
         {
           "horse": "Iamyouare",
@@ -591,8 +591,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -609,7 +609,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 8
+          "total": 13
         },
         {
           "horse": "Crystal Spring",
@@ -618,8 +618,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -636,7 +636,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 9
+          "total": 16
         },
         {
           "horse": "I Spy A Diva",
@@ -753,7 +753,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -810,8 +810,8 @@
       "distance": "3m 30y",
       "going": "Good to Soft (Good in places)",
       "n": 12,
-      "top_horse": "Soldier For Glory",
-      "top_total": 11,
+      "top_horse": "Twistthenightaway",
+      "top_total": 18,
       "runners": [
         {
           "horse": "Twistthenightaway",
@@ -820,8 +820,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 3,
           "cd_kind": "crs",
           "jk": 0,
@@ -838,7 +838,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -10.0,
-          "total": 8
+          "total": 18
         },
         {
           "horse": "Gasmani",
@@ -874,8 +874,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 3,
@@ -892,7 +892,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 4.5,
-          "total": 11
+          "total": 14
         },
         {
           "horse": "The Big Breac",
@@ -955,8 +955,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -973,7 +973,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 8
+          "total": 13
         },
         {
           "horse": "Liege Ardent",
@@ -982,7 +982,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -1009,8 +1009,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1027,7 +1027,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 1.2,
-          "total": 9
+          "total": 16
         },
         {
           "horse": "Finn Lough",

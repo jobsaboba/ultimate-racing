@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "generated": "2026-11-17T06:51:26+00:00",
+  "generated": "2026-11-17T06:52:44+00:00",
   "max": 55,
   "sources": {
     "timeform": "ok",
@@ -15,8 +15,8 @@
       "distance": "7f 15y",
       "going": "Good to Soft",
       "n": 11,
-      "top_horse": "Jkr Cobbler",
-      "top_total": 16,
+      "top_horse": "Kelpie Grey",
+      "top_total": 23,
       "runners": [
         {
           "horse": "Kelpie Grey",
@@ -25,8 +25,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -43,7 +43,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -33.5,
-          "total": 13
+          "total": 23
         },
         {
           "horse": "Monhammer",
@@ -52,8 +52,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -70,7 +70,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -8.0,
-          "total": 14
+          "total": 21
         },
         {
           "horse": "Filey Beach",
@@ -79,8 +79,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -97,7 +97,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 15
+          "total": 18
         },
         {
           "horse": "Rwenearlytheredad",
@@ -106,7 +106,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 10,
           "cd_kind": "cd",
@@ -133,8 +133,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -151,7 +151,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 8
+          "total": 13
         },
         {
           "horse": "Keep Me Stable",
@@ -335,8 +335,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -353,7 +353,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 5
+          "total": 10
         },
         {
           "horse": "Sir Sirius",
@@ -362,8 +362,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -380,7 +380,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -14.0,
-          "total": 3
+          "total": 13
         },
         {
           "horse": "Rock Steady Beat",
@@ -389,8 +389,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -407,7 +407,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 6.0,
-          "total": 8
+          "total": 15
         },
         {
           "horse": "Inns And Out",
@@ -416,7 +416,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 10,
           "cd_kind": "cd",
@@ -470,8 +470,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -488,7 +488,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 1.2,
-          "total": 8
+          "total": 11
         },
         {
           "horse": "Deputy Vice",
@@ -555,7 +555,7 @@
       "going": "Good to Soft",
       "n": 12,
       "top_horse": "Jer Batt",
-      "top_total": 17,
+      "top_total": 24,
       "runners": [
         {
           "horse": "Mo Of Cairo",
@@ -564,8 +564,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -582,7 +582,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -14.0,
-          "total": 9
+          "total": 19
         },
         {
           "horse": "Jer Batt",
@@ -591,8 +591,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -609,7 +609,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 18.0,
-          "total": 17
+          "total": 24
         },
         {
           "horse": "Azuinthejungle",
@@ -618,8 +618,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -636,7 +636,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 10
+          "total": 13
         },
         {
           "horse": "Thunderstorm Katie",
@@ -645,7 +645,7 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 10,
           "cd_kind": "cd",
@@ -672,8 +672,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -690,7 +690,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -33.5,
-          "total": 12
+          "total": 17
         },
         {
           "horse": "Shes Got A Brother",

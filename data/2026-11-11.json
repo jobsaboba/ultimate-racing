@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "generated": "2026-11-17T06:51:26+00:00",
+  "generated": "2026-11-17T06:52:45+00:00",
   "max": 55,
   "sources": {
     "timeform": "ok",
@@ -15,8 +15,8 @@
       "distance": "2m 1f 77y",
       "going": "Good",
       "n": 8,
-      "top_horse": "Getawhisky",
-      "top_total": 18,
+      "top_horse": "Mighty Fleur",
+      "top_total": 20,
       "runners": [
         {
           "horse": "Mighty Fleur",
@@ -25,8 +25,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -43,7 +43,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -6.0,
-          "total": 10
+          "total": 20
         },
         {
           "horse": "Getawhisky",
@@ -79,8 +79,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -97,7 +97,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 4
+          "total": 11
         },
         {
           "horse": "Sunset Marquesa",
@@ -106,7 +106,7 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 5,
           "cd_kind": "dist",
@@ -160,8 +160,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -178,7 +178,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -6.0,
-          "total": 3
+          "total": 8
         },
         {
           "horse": "Piper Park",
@@ -187,8 +187,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -205,7 +205,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 6.0,
-          "total": 8
+          "total": 11
         },
         {
           "horse": "Merely A Detail",
@@ -245,7 +245,7 @@
       "going": "Good (Good to Soft in places)",
       "n": 10,
       "top_horse": "Jet Of Stars",
-      "top_total": 19,
+      "top_total": 29,
       "runners": [
         {
           "horse": "Attin",
@@ -254,8 +254,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 5,
@@ -272,7 +272,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 3.5,
-          "total": 15
+          "total": 22
         },
         {
           "horse": "Jet Of Stars",
@@ -281,8 +281,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -299,7 +299,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 6.5,
-          "total": 19
+          "total": 29
         },
         {
           "horse": "Moon Reign",
@@ -308,8 +308,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -326,7 +326,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -8.0,
-          "total": 9
+          "total": 14
         },
         {
           "horse": "Malinas Party",
@@ -335,7 +335,7 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -362,8 +362,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -380,7 +380,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -5.0,
-          "total": 2
+          "total": 5
         },
         {
           "horse": "Zebra Star",
@@ -528,7 +528,7 @@
       "going": "Good (Good to Soft in places)",
       "n": 10,
       "top_horse": "Rickety Gate",
-      "top_total": 18,
+      "top_total": 25,
       "runners": [
         {
           "horse": "Rickety Gate",
@@ -537,8 +537,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 5,
@@ -555,7 +555,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 3.5,
-          "total": 18
+          "total": 25
         },
         {
           "horse": "Beat The Retreat",
@@ -564,8 +564,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -582,7 +582,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -8.0,
-          "total": 14
+          "total": 17
         },
         {
           "horse": "Kinbara Firstdraft",
@@ -645,8 +645,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -663,7 +663,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 5
+          "total": 10
         },
         {
           "horse": "Bray Dale",
@@ -699,7 +699,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -811,7 +811,7 @@
       "going": "Standard",
       "n": 13,
       "top_horse": "Jordan Breeze",
-      "top_total": 19,
+      "top_total": 26,
       "runners": [
         {
           "horse": "Jordan Breeze",
@@ -820,8 +820,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -838,7 +838,7 @@
           "tcj": 5,
           "profit": 0,
           "prof": -1.0,
-          "total": 19
+          "total": 26
         },
         {
           "horse": "Lethimfly",
@@ -847,8 +847,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -865,7 +865,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 10
+          "total": 20
         },
         {
           "horse": "Initial Blue",
@@ -874,8 +874,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -892,7 +892,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 3
+          "total": 6
         },
         {
           "horse": "Harry's Hill",
@@ -1036,8 +1036,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -1054,7 +1054,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 9
+          "total": 14
         },
         {
           "horse": "Sovereign Cry",
@@ -1090,7 +1090,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 3,
           "cd_kind": "crs",
@@ -1175,7 +1175,7 @@
       "going": "Good (Good to Soft in places)",
       "n": 8,
       "top_horse": "Ballynoe Boy",
-      "top_total": 18,
+      "top_total": 28,
       "runners": [
         {
           "horse": "Ballynoe Boy",
@@ -1184,8 +1184,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 5,
@@ -1202,7 +1202,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 3.5,
-          "total": 18
+          "total": 28
         },
         {
           "horse": "Lets Mingle",
@@ -1211,8 +1211,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -1229,7 +1229,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 6.5,
-          "total": 13
+          "total": 20
         },
         {
           "horse": "Pyramid Place",
@@ -1265,8 +1265,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 3,
           "cd_kind": "crs",
           "jk": 0,
@@ -1283,7 +1283,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 6
+          "total": 11
         },
         {
           "horse": "Jem In Em",
@@ -1292,8 +1292,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1310,7 +1310,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 6.5,
-          "total": 7
+          "total": 10
         },
         {
           "horse": "The Jeweller's Pet",
@@ -1404,7 +1404,7 @@
       "going": "Standard",
       "n": 8,
       "top_horse": "Invincible Irish",
-      "top_total": 5,
+      "top_total": 15,
       "runners": [
         {
           "horse": "Invincible Irish",
@@ -1413,8 +1413,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1431,7 +1431,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 5
+          "total": 15
         },
         {
           "horse": "Syrah",
@@ -1440,8 +1440,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1458,7 +1458,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 6
         },
         {
           "horse": "Professor Finnegan",
@@ -1467,8 +1467,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1485,7 +1485,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 4
+          "total": 9
         },
         {
           "horse": "Lady H",
@@ -1494,8 +1494,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1512,7 +1512,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -11.2,
-          "total": 3
+          "total": 10
         },
         {
           "horse": "Savannah Sun",
@@ -1548,7 +1548,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -1633,7 +1633,7 @@
       "going": "Standard",
       "n": 8,
       "top_horse": "Shoot To Kill",
-      "top_total": 15,
+      "top_total": 22,
       "runners": [
         {
           "horse": "Shoot To Kill",
@@ -1642,8 +1642,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -1660,7 +1660,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 9.0,
-          "total": 15
+          "total": 22
         },
         {
           "horse": "Justenzia",
@@ -1669,8 +1669,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 3,
           "cd_kind": "crs",
           "jk": 0,
@@ -1687,7 +1687,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 2.5,
-          "total": 12
+          "total": 22
         },
         {
           "horse": "Star Strewn",
@@ -1696,8 +1696,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -1714,7 +1714,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 9
+          "total": 14
         },
         {
           "horse": "Morning Approach",
@@ -1723,8 +1723,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -1741,7 +1741,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 12
+          "total": 15
         },
         {
           "horse": "Red Hugh O'Donnell",
@@ -1750,7 +1750,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 5,
           "cd_kind": "dist",
@@ -1861,8 +1861,8 @@
       "distance": "1m",
       "going": "Standard",
       "n": 13,
-      "top_horse": "Lookingforarainbow",
-      "top_total": 5,
+      "top_horse": "Resurgence",
+      "top_total": 14,
       "runners": [
         {
           "horse": "Resurgence",
@@ -1871,8 +1871,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1889,7 +1889,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 4
+          "total": 14
         },
         {
           "horse": "Emily Estherfaye",
@@ -1925,8 +1925,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1943,7 +1943,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.0,
-          "total": 5
+          "total": 12
         },
         {
           "horse": "Riyazanka",
@@ -1952,8 +1952,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1970,7 +1970,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 6
         },
         {
           "horse": "Ferreshana",
@@ -2006,8 +2006,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -2024,7 +2024,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.8,
-          "total": 3
+          "total": 8
         },
         {
           "horse": "Bugsy Siegel",
@@ -2087,7 +2087,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -2226,7 +2226,7 @@
       "going": "Standard",
       "n": 14,
       "top_horse": "Sonic Sabiha",
-      "top_total": 9,
+      "top_total": 16,
       "runners": [
         {
           "horse": "Marcescence",
@@ -2235,8 +2235,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -2253,7 +2253,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -7.0,
-          "total": 5
+          "total": 15
         },
         {
           "horse": "Elzante",
@@ -2289,8 +2289,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -2307,7 +2307,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 6
         },
         {
           "horse": "September Duke",
@@ -2343,8 +2343,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -2361,7 +2361,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 2.0,
-          "total": 9
+          "total": 16
         },
         {
           "horse": "Jade Fox",
@@ -2370,8 +2370,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -2388,7 +2388,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -7.0,
-          "total": 3
+          "total": 8
         },
         {
           "horse": "Sake Nights",
@@ -2397,7 +2397,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -2617,7 +2617,7 @@
       "going": "Standard",
       "n": 14,
       "top_horse": "Carrigans Grove",
-      "top_total": 18,
+      "top_total": 23,
       "runners": [
         {
           "horse": "Carrigans Grove",
@@ -2626,8 +2626,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -2644,7 +2644,7 @@
           "tcj": 5,
           "profit": 0,
           "prof": -1.0,
-          "total": 18
+          "total": 23
         },
         {
           "horse": "Beach Barbie",
@@ -2653,8 +2653,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -2671,7 +2671,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 12
+          "total": 22
         },
         {
           "horse": "Go Out",
@@ -2680,8 +2680,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 3,
           "cd_kind": "crs",
           "jk": 0,
@@ -2698,7 +2698,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 8
+          "total": 15
         },
         {
           "horse": "Boston Max",
@@ -2707,7 +2707,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 3,
           "cd_kind": "crs",
@@ -2734,8 +2734,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -2752,7 +2752,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 7
+          "total": 10
         },
         {
           "horse": "Thaloria",
@@ -3008,7 +3008,7 @@
       "going": "Standard",
       "n": 14,
       "top_horse": "Eastern Peace",
-      "top_total": 20,
+      "top_total": 30,
       "runners": [
         {
           "horse": "Speckled Meadow",
@@ -3017,7 +3017,7 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 5,
           "cd_kind": "dist",
@@ -3071,8 +3071,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -3089,7 +3089,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 1.0,
-          "total": 20
+          "total": 30
         },
         {
           "horse": "Femme Beauty",
@@ -3098,8 +3098,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -3116,7 +3116,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 3.0,
-          "total": 13
+          "total": 20
         },
         {
           "horse": "Darkdeserthighway",
@@ -3206,8 +3206,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -3224,7 +3224,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 9.0,
-          "total": 7
+          "total": 12
         },
         {
           "horse": "Limestone Red",
@@ -3287,8 +3287,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -3305,7 +3305,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 6
         },
         {
           "horse": "Flying Fortress",

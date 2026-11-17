@@ -1,6 +1,6 @@
 {
   "date": "2026-09-29",
-  "generated": "2026-11-17T06:51:26+00:00",
+  "generated": "2026-11-17T06:52:44+00:00",
   "max": 55,
   "sources": {
     "timeform": "ok",
@@ -16,7 +16,7 @@
       "going": "Heavy (Soft in places)",
       "n": 8,
       "top_horse": "Empirestateofmind",
-      "top_total": 19,
+      "top_total": 29,
       "runners": [
         {
           "horse": "Runninsonofagun",
@@ -52,8 +52,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -70,7 +70,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 5.5,
-          "total": 19
+          "total": 29
         },
         {
           "horse": "Penelope's Sister",
@@ -79,8 +79,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -97,7 +97,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -26.5,
-          "total": 13
+          "total": 18
         },
         {
           "horse": "Arkenstaar",
@@ -133,8 +133,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -151,7 +151,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -26.5,
-          "total": 4
+          "total": 11
         },
         {
           "horse": "Swift Salian",
@@ -160,7 +160,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 5,
           "cd_kind": "dist",
@@ -214,8 +214,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -232,7 +232,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 10.5,
-          "total": 10
+          "total": 13
         }
       ]
     },
@@ -244,8 +244,8 @@
       "distance": "1m 2f",
       "going": "Heavy (Soft in places)",
       "n": 9,
-      "top_horse": "Mehmas Champion",
-      "top_total": 17,
+      "top_horse": "Star Cast",
+      "top_total": 21,
       "runners": [
         {
           "horse": "Keep An Eye On It",
@@ -254,8 +254,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 3,
           "cd_kind": "crs",
           "jk": 0,
@@ -272,7 +272,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 8
+          "total": 18
         },
         {
           "horse": "Star Cast",
@@ -281,8 +281,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -299,7 +299,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 14
+          "total": 21
         },
         {
           "horse": "Tipsy Tiger",
@@ -308,8 +308,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -326,7 +326,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 9
+          "total": 14
         },
         {
           "horse": "Krissy",
@@ -335,7 +335,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 5,
           "cd_kind": "dist",
@@ -362,8 +362,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 3,
@@ -380,7 +380,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 5.5,
-          "total": 11
+          "total": 14
         },
         {
           "horse": "Mehmas Champion",
@@ -501,7 +501,7 @@
       "going": "Heavy (Soft in places)",
       "n": 10,
       "top_horse": "Misunderstood",
-      "top_total": 17,
+      "top_total": 27,
       "runners": [
         {
           "horse": "Misunderstood",
@@ -510,8 +510,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 3,
@@ -528,7 +528,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 1.0,
-          "total": 17
+          "total": 27
         },
         {
           "horse": "Tip Foster",
@@ -564,8 +564,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -582,7 +582,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 19.0,
-          "total": 13
+          "total": 20
         },
         {
           "horse": "Homestrait",
@@ -591,8 +591,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -609,7 +609,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 19.0,
-          "total": 15
+          "total": 20
         },
         {
           "horse": "Abduction",
@@ -618,7 +618,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 10,
           "cd_kind": "cd",
@@ -645,8 +645,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -663,7 +663,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 9
+          "total": 12
         },
         {
           "horse": "Count Palatine",
@@ -784,7 +784,7 @@
       "going": "Heavy (Soft in places)",
       "n": 11,
       "top_horse": "Highfield Viking",
-      "top_total": 23,
+      "top_total": 33,
       "runners": [
         {
           "horse": "Highfield Viking",
@@ -793,8 +793,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 3,
@@ -811,7 +811,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 5.5,
-          "total": 23
+          "total": 33
         },
         {
           "horse": "Lope Y Linda",
@@ -820,7 +820,7 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 10,
           "cd_kind": "cd",
@@ -847,8 +847,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -865,7 +865,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -26.5,
-          "total": 13
+          "total": 18
         },
         {
           "horse": "Wise Crack",
@@ -874,8 +874,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -892,7 +892,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 8
+          "total": 11
         },
         {
           "horse": "Novak",
@@ -928,8 +928,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -946,7 +946,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -9.0,
-          "total": 3
+          "total": 10
         },
         {
           "horse": "Toy Soldier",
@@ -1094,7 +1094,7 @@
       "going": "Heavy (Soft in places)",
       "n": 8,
       "top_horse": "Parisiac",
-      "top_total": 16,
+      "top_total": 26,
       "runners": [
         {
           "horse": "Parisiac",
@@ -1103,8 +1103,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -1121,7 +1121,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 81.0,
-          "total": 16
+          "total": 26
         },
         {
           "horse": "Big Harry",
@@ -1130,7 +1130,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 5,
           "cd_kind": "dist",
@@ -1157,8 +1157,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -1175,7 +1175,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 1.0,
-          "total": 13
+          "total": 18
         },
         {
           "horse": "Woven",
@@ -1184,8 +1184,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -1202,7 +1202,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -10.0,
-          "total": 12
+          "total": 15
         },
         {
           "horse": "Ashen",
@@ -1211,8 +1211,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 3,
           "cd_kind": "crs",
           "jk": 0,
@@ -1229,7 +1229,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -26.5,
-          "total": 8
+          "total": 15
         },
         {
           "horse": "Belsito",

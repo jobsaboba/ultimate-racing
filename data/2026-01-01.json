@@ -1,6 +1,6 @@
 {
   "date": "2026-01-01",
-  "generated": "2026-11-17T06:51:24+00:00",
+  "generated": "2026-11-17T06:52:42+00:00",
   "max": 55,
   "sources": {
     "timeform": "ok",
@@ -16,7 +16,7 @@
       "going": "Good to Soft (Good in places)",
       "n": 9,
       "top_horse": "Scarlet Moon",
-      "top_total": 9,
+      "top_total": 19,
       "runners": [
         {
           "horse": "Belaya River",
@@ -25,91 +25,10 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": 0.0,
-          "total": 4
-        },
-        {
-          "horse": "Arctic Voyage",
-          "cloth": 2,
-          "odds": "8/1",
-          "tf": 3,
-          "rp": 0,
-          "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": 0.0,
-          "total": 3
-        },
-        {
-          "horse": "Falls Of Acharn",
-          "cloth": 3,
-          "odds": "2/1",
-          "tf": 5,
-          "rp": 0,
-          "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
-          "cd": 0,
-          "cd_kind": "",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": 0.0,
-          "total": 5
-        },
-        {
-          "horse": "Scarlet Moon",
-          "cloth": 4,
-          "odds": "11/10",
-          "tf": 4,
-          "rp": 0,
-          "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
-          "cd": 5,
-          "cd_kind": "dist",
           "jk": 0,
           "jkw": [
             0,
@@ -127,13 +46,94 @@
           "total": 9
         },
         {
+          "horse": "Arctic Voyage",
+          "cloth": 2,
+          "odds": "8/1",
+          "tf": 3,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 4,
+          "fav": 3,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 6
+        },
+        {
+          "horse": "Falls Of Acharn",
+          "cloth": 3,
+          "odds": "2/1",
+          "tf": 5,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 2,
+          "fav": 7,
+          "cd": 0,
+          "cd_kind": "",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 12
+        },
+        {
+          "horse": "Scarlet Moon",
+          "cloth": 4,
+          "odds": "11/10",
+          "tf": 4,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 1,
+          "fav": 10,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 19
+        },
+        {
           "horse": "Ashdown Forest",
           "cloth": 5,
           "odds": "14/1",
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -271,8 +271,8 @@
       "distance": "2m 3f 171y",
       "going": "Good to Soft (Good in places)",
       "n": 9,
-      "top_horse": "Smokeringinthedark",
-      "top_total": 13,
+      "top_horse": "Moonbow",
+      "top_total": 16,
       "runners": [
         {
           "horse": "Moonbow",
@@ -281,8 +281,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -299,7 +299,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 9
+          "total": 16
         },
         {
           "horse": "Wise Eagle",
@@ -308,8 +308,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 3,
           "cd_kind": "crs",
           "jk": 0,
@@ -326,7 +326,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 6
+          "total": 16
         },
         {
           "horse": "Smokeringinthedark",
@@ -335,8 +335,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -353,7 +353,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 13
+          "total": 16
         },
         {
           "horse": "Serious Chat",
@@ -362,7 +362,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 5,
           "cd_kind": "dist",
@@ -470,8 +470,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -488,7 +488,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 5
+          "total": 10
         },
         {
           "horse": "Bold Light",
@@ -528,7 +528,7 @@
       "going": "Good to Soft",
       "n": 8,
       "top_horse": "The Kalooki Kid",
-      "top_total": 15,
+      "top_total": 20,
       "runners": [
         {
           "horse": "Breizh River",
@@ -537,8 +537,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -555,7 +555,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 6
         },
         {
           "horse": "Jet To Vegas",
@@ -564,8 +564,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -582,7 +582,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 4
+          "total": 14
         },
         {
           "horse": "The Kalooki Kid",
@@ -591,8 +591,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -609,7 +609,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 15
+          "total": 20
         },
         {
           "horse": "Tommy's Oscar",
@@ -618,7 +618,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 3,
           "cd_kind": "crs",
@@ -645,8 +645,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -663,7 +663,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 13
+          "total": 20
         },
         {
           "horse": "Inox Allen",
@@ -757,7 +757,7 @@
       "going": "Good to Soft (Good in places)",
       "n": 8,
       "top_horse": "Snowrocco",
-      "top_total": 9,
+      "top_total": 16,
       "runners": [
         {
           "horse": "Biglesisback",
@@ -766,8 +766,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -784,7 +784,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 5
+          "total": 15
         },
         {
           "horse": "Snowrocco",
@@ -793,8 +793,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -811,7 +811,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 9
+          "total": 16
         },
         {
           "horse": "Jena D'oudairies",
@@ -820,7 +820,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -847,8 +847,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -865,7 +865,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 6
         },
         {
           "horse": "Rememberthename",
@@ -874,8 +874,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -892,7 +892,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 2
+          "total": 7
         },
         {
           "horse": "Wolfspear",

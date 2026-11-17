@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated": "2026-11-17T06:51:25+00:00",
+  "generated": "2026-11-17T06:52:43+00:00",
   "max": 55,
   "sources": {
     "timeform": "ok",
@@ -15,8 +15,8 @@
       "distance": "6f",
       "going": "Good (Good to Soft in places)",
       "n": 9,
-      "top_horse": "Roman Crystal",
-      "top_total": 5,
+      "top_horse": "Beechwood Glory",
+      "top_total": 13,
       "runners": [
         {
           "horse": "Beechwood Glory",
@@ -25,8 +25,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -43,7 +43,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 3
+          "total": 13
         },
         {
           "horse": "Roman Crystal",
@@ -52,8 +52,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -70,7 +70,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 5
+          "total": 12
         },
         {
           "horse": "Ponte Carlo",
@@ -79,7 +79,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -106,8 +106,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -124,7 +124,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 8
         },
         {
           "horse": "Mick's The Boy",
@@ -133,8 +133,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -151,7 +151,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 3
+          "total": 6
         },
         {
           "horse": "Black Cuillin",
@@ -272,7 +272,7 @@
       "going": "Good (Good to Soft in places)",
       "n": 12,
       "top_horse": "Harb",
-      "top_total": 13,
+      "top_total": 23,
       "runners": [
         {
           "horse": "Harb",
@@ -281,8 +281,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -299,7 +299,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 13
+          "total": 23
         },
         {
           "horse": "South Parade",
@@ -308,8 +308,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -326,7 +326,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 8
+          "total": 15
         },
         {
           "horse": "Hi Lord",
@@ -335,8 +335,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -353,7 +353,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 8
+          "total": 13
         },
         {
           "horse": "Water Of Leith",
@@ -362,8 +362,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -380,7 +380,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -20.0,
-          "total": 13
+          "total": 16
         },
         {
           "horse": "Startling",
@@ -609,7 +609,7 @@
       "going": "Good (Good to Soft in places)",
       "n": 13,
       "top_horse": "Phantom Shadow",
-      "top_total": 19,
+      "top_total": 26,
       "runners": [
         {
           "horse": "Tiger",
@@ -618,8 +618,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -636,7 +636,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 10
+          "total": 20
         },
         {
           "horse": "Phantom Shadow",
@@ -645,8 +645,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -663,7 +663,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 1.0,
-          "total": 19
+          "total": 26
         },
         {
           "horse": "Pol Roger",
@@ -699,7 +699,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 3,
           "cd_kind": "crs",
@@ -726,8 +726,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -744,7 +744,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -0.7,
-          "total": 3
+          "total": 6
         },
         {
           "horse": "Ibn Altheeb",
@@ -807,8 +807,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -825,7 +825,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 8
         },
         {
           "horse": "Natzor",
@@ -972,8 +972,8 @@
       "distance": "1m",
       "going": "Good (Good to Soft in places)",
       "n": 10,
-      "top_horse": "Jannas Journey",
-      "top_total": 15,
+      "top_horse": "Theoryofeverything",
+      "top_total": 24,
       "runners": [
         {
           "horse": "Theoryofeverything",
@@ -982,10 +982,91 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 10,
           "cd_kind": "cd",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            1,
+            1
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -0.9,
+          "total": 24
+        },
+        {
+          "horse": "Jannas Journey",
+          "cloth": 2,
+          "odds": "4/1",
+          "tf": 5,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 4,
+          "fav": 3,
+          "cd": 10,
+          "cd_kind": "cd",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": -20.0,
+          "total": 18
+        },
+        {
+          "horse": "Military Leader",
+          "cloth": 3,
+          "odds": "7/2",
+          "tf": 4,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 2,
+          "fav": 7,
+          "cd": 5,
+          "cd_kind": "dist",
+          "jk": 0,
+          "jkw": [
+            0,
+            0
+          ],
+          "tr": 0,
+          "trw": [
+            0,
+            0
+          ],
+          "tct": 0,
+          "tcj": 0,
+          "profit": 0,
+          "prof": 0.0,
+          "total": 16
+        },
+        {
+          "horse": "Walsingham",
+          "cloth": 4,
+          "odds": "4/1",
+          "tf": 4,
+          "rp": 0,
+          "rpr": null,
+          "fav_rank": 3,
+          "fav": 5,
+          "cd": 5,
+          "cd_kind": "dist",
           "jk": 0,
           "jkw": [
             0,
@@ -1003,94 +1084,13 @@
           "total": 14
         },
         {
-          "horse": "Jannas Journey",
-          "cloth": 2,
-          "odds": "4/1",
-          "tf": 5,
-          "rp": 0,
-          "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
-          "cd": 10,
-          "cd_kind": "cd",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -20.0,
-          "total": 15
-        },
-        {
-          "horse": "Military Leader",
-          "cloth": 3,
-          "odds": "7/2",
-          "tf": 4,
-          "rp": 0,
-          "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
-          "cd": 5,
-          "cd_kind": "dist",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 0,
-          "trw": [
-            0,
-            0
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": 0.0,
-          "total": 9
-        },
-        {
-          "horse": "Walsingham",
-          "cloth": 4,
-          "odds": "4/1",
-          "tf": 4,
-          "rp": 0,
-          "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
-          "cd": 5,
-          "cd_kind": "dist",
-          "jk": 0,
-          "jkw": [
-            0,
-            0
-          ],
-          "tr": 0,
-          "trw": [
-            1,
-            1
-          ],
-          "tct": 0,
-          "tcj": 0,
-          "profit": 0,
-          "prof": -0.9,
-          "total": 9
-        },
-        {
           "horse": "Hale End",
           "cloth": 5,
           "odds": "9/1",
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 10,
           "cd_kind": "cd",
@@ -1256,7 +1256,7 @@
       "going": "Good (Good to Soft in places)",
       "n": 13,
       "top_horse": "Mr Cool",
-      "top_total": 20,
+      "top_total": 27,
       "runners": [
         {
           "horse": "Kelpie Grey",
@@ -1265,8 +1265,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 3,
           "cd_kind": "crs",
           "jk": 0,
@@ -1283,7 +1283,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -20.0,
-          "total": 5
+          "total": 15
         },
         {
           "horse": "Mr Cool",
@@ -1292,8 +1292,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -1310,7 +1310,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 2.5,
-          "total": 20
+          "total": 27
         },
         {
           "horse": "Annie Edson Taylor",
@@ -1319,8 +1319,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -1337,7 +1337,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 8
+          "total": 11
         },
         {
           "horse": "Thunderstorm Katie",
@@ -1346,7 +1346,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 10,
           "cd_kind": "cd",
@@ -1373,8 +1373,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -1391,7 +1391,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -4.2,
-          "total": 9
+          "total": 14
         },
         {
           "horse": "Impressor",
@@ -1620,7 +1620,7 @@
       "going": "Good (Good to Soft in places)",
       "n": 12,
       "top_horse": "Yaaser",
-      "top_total": 13,
+      "top_total": 18,
       "runners": [
         {
           "horse": "Runninsonofagun",
@@ -1629,8 +1629,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 3,
           "cd_kind": "crs",
           "jk": 0,
@@ -1647,7 +1647,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 7
+          "total": 17
         },
         {
           "horse": "Yaaser",
@@ -1656,8 +1656,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -1674,7 +1674,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -20.0,
-          "total": 13
+          "total": 18
         },
         {
           "horse": "Supreme Clarets",
@@ -1683,8 +1683,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1701,7 +1701,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 3
+          "total": 10
         },
         {
           "horse": "Sanafi Zabeel",
@@ -1710,7 +1710,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -1764,8 +1764,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -1782,7 +1782,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.0,
-          "total": 10
+          "total": 13
         },
         {
           "horse": "Circle Of Trust",
@@ -1956,8 +1956,8 @@
       "distance": "1m 2f",
       "going": "Good (Good to Soft in places)",
       "n": 12,
-      "top_horse": "Zebra Star",
-      "top_total": 12,
+      "top_horse": "Wicklow Way",
+      "top_total": 17,
       "runners": [
         {
           "horse": "Flying Moonlight",
@@ -1966,8 +1966,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1984,7 +1984,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 4
+          "total": 14
         },
         {
           "horse": "Wicklow Way",
@@ -1993,8 +1993,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -2011,7 +2011,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 10
+          "total": 17
         },
         {
           "horse": "Patrick Street",
@@ -2020,8 +2020,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -2038,7 +2038,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 9
+          "total": 12
         },
         {
           "horse": "Zebra Star",
@@ -2074,7 +2074,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",

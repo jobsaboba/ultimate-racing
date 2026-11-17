@@ -1,6 +1,6 @@
 {
   "date": "2026-07-27",
-  "generated": "2026-11-17T06:51:25+00:00",
+  "generated": "2026-11-17T06:52:43+00:00",
   "max": 55,
   "sources": {
     "timeform": "ok",
@@ -16,7 +16,7 @@
       "going": "Good to Firm (Good in places)",
       "n": 9,
       "top_horse": "Cotai Starlight",
-      "top_total": 22,
+      "top_total": 27,
       "runners": [
         {
           "horse": "Kelpie Grey",
@@ -25,8 +25,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 3,
           "cd_kind": "crs",
           "jk": 0,
@@ -43,7 +43,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -10.2,
-          "total": 8
+          "total": 18
         },
         {
           "horse": "Cotai Starlight",
@@ -52,8 +52,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 3,
@@ -70,7 +70,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 1.0,
-          "total": 22
+          "total": 27
         },
         {
           "horse": "Mr Cool",
@@ -79,8 +79,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -97,7 +97,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 8
+          "total": 15
         },
         {
           "horse": "Water Of Leith",
@@ -106,8 +106,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -124,7 +124,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -10.2,
-          "total": 13
+          "total": 16
         },
         {
           "horse": "Great Profit",
@@ -187,7 +187,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -272,7 +272,7 @@
       "going": "Good to Firm (Good in places)",
       "n": 9,
       "top_horse": "Runninsonofagun",
-      "top_total": 18,
+      "top_total": 28,
       "runners": [
         {
           "horse": "Runninsonofagun",
@@ -281,8 +281,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 3,
@@ -299,7 +299,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 18
+          "total": 28
         },
         {
           "horse": "Union Island",
@@ -308,8 +308,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -326,7 +326,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 8
+          "total": 13
         },
         {
           "horse": "Novak",
@@ -335,8 +335,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 3,
           "cd_kind": "crs",
           "jk": 0,
@@ -353,7 +353,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 6
+          "total": 13
         },
         {
           "horse": "Approaching Dawn",
@@ -362,7 +362,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 10,
           "cd_kind": "cd",
@@ -389,8 +389,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -407,7 +407,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -10.0,
-          "total": 8
+          "total": 11
         },
         {
           "horse": "Eeetee",
@@ -527,8 +527,8 @@
       "distance": "5f",
       "going": "Good to Firm (Good in places)",
       "n": 8,
-      "top_horse": "Ski Angel",
-      "top_total": 15,
+      "top_horse": "Startling",
+      "top_total": 18,
       "runners": [
         {
           "horse": "Startling",
@@ -537,8 +537,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 3,
@@ -555,7 +555,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 11
+          "total": 18
         },
         {
           "horse": "Royal Duke",
@@ -564,7 +564,7 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 10,
           "cd_kind": "cd",
@@ -645,8 +645,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -663,7 +663,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -10.2,
-          "total": 3
+          "total": 6
         },
         {
           "horse": "Henery Hawk",
@@ -699,8 +699,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -717,7 +717,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -10.2,
-          "total": 3
+          "total": 8
         },
         {
           "horse": "Wee Mary",
@@ -757,7 +757,7 @@
       "going": "Good to Firm (Good in places)",
       "n": 9,
       "top_horse": "Royal Blaze",
-      "top_total": 19,
+      "top_total": 29,
       "runners": [
         {
           "horse": "Royal Blaze",
@@ -766,8 +766,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -784,7 +784,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 1.5,
-          "total": 19
+          "total": 29
         },
         {
           "horse": "Penelope's Sister",
@@ -793,8 +793,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 3,
           "cd_kind": "crs",
           "jk": 0,
@@ -811,7 +811,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -10.2,
-          "total": 6
+          "total": 13
         },
         {
           "horse": "Just Dottie",
@@ -820,7 +820,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 3,
           "cd_kind": "crs",
@@ -847,8 +847,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -865,7 +865,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 5
+          "total": 10
         },
         {
           "horse": "Daring Leader",

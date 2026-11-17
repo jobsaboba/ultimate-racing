@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generated": "2026-11-17T06:51:25+00:00",
+  "generated": "2026-11-17T06:52:43+00:00",
   "max": 55,
   "sources": {
     "timeform": "ok",
@@ -15,8 +15,8 @@
       "distance": "7f 15y",
       "going": "Good",
       "n": 9,
-      "top_horse": "Yaaser",
-      "top_total": 18,
+      "top_horse": "Qazaq",
+      "top_total": 25,
       "runners": [
         {
           "horse": "Qazaq",
@@ -25,8 +25,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -43,7 +43,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 2.5,
-          "total": 15
+          "total": 25
         },
         {
           "horse": "Yaaser",
@@ -52,8 +52,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -70,7 +70,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 178.5,
-          "total": 18
+          "total": 25
         },
         {
           "horse": "Carolus Magnus",
@@ -79,8 +79,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -97,7 +97,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 14
+          "total": 19
         },
         {
           "horse": "Finn Ironside",
@@ -106,8 +106,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -124,7 +124,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 9
+          "total": 12
         },
         {
           "horse": "Patontheback",
@@ -241,7 +241,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -272,7 +272,7 @@
       "going": "Good",
       "n": 10,
       "top_horse": "Wee Mary",
-      "top_total": 20,
+      "top_total": 30,
       "runners": [
         {
           "horse": "Wee Mary",
@@ -281,8 +281,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -299,7 +299,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 178.5,
-          "total": 20
+          "total": 30
         },
         {
           "horse": "Zuffolo",
@@ -308,8 +308,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -326,7 +326,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 1.5,
-          "total": 14
+          "total": 21
         },
         {
           "horse": "Golden Prosperity",
@@ -335,8 +335,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -353,7 +353,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 14
+          "total": 17
         },
         {
           "horse": "Sixcor",
@@ -389,8 +389,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -407,7 +407,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 178.5,
-          "total": 7
+          "total": 12
         },
         {
           "horse": "Hard Nut",
@@ -470,7 +470,7 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",

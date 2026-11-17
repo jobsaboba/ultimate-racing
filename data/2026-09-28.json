@@ -1,6 +1,6 @@
 {
   "date": "2026-09-28",
-  "generated": "2026-11-17T06:51:26+00:00",
+  "generated": "2026-11-17T06:52:44+00:00",
   "max": 55,
   "sources": {
     "timeform": "ok",
@@ -16,7 +16,7 @@
       "going": "Soft (Heavy in places)",
       "n": 13,
       "top_horse": "Impartiality",
-      "top_total": 19,
+      "top_total": 26,
       "runners": [
         {
           "horse": "El Matador",
@@ -25,8 +25,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -43,7 +43,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -0.8,
-          "total": 4
+          "total": 14
         },
         {
           "horse": "Strength of Spirit",
@@ -52,7 +52,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 5,
           "cd_kind": "dist",
@@ -79,8 +79,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -97,7 +97,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 3.0,
-          "total": 19
+          "total": 26
         },
         {
           "horse": "Good Morning Alex",
@@ -160,8 +160,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -178,7 +178,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 2.0,
-          "total": 13
+          "total": 16
         },
         {
           "horse": "Lir Speciale",
@@ -187,8 +187,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 3,
@@ -205,7 +205,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 22.0,
-          "total": 13
+          "total": 18
         },
         {
           "horse": "Thunder Roar",
@@ -389,8 +389,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 3,
           "cd_kind": "crs",
           "jk": 0,
@@ -407,7 +407,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 8
+          "total": 18
         },
         {
           "horse": "Jordan Electrics",
@@ -416,8 +416,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -434,7 +434,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -21.5,
-          "total": 13
+          "total": 18
         },
         {
           "horse": "Francisco's Piece",
@@ -443,8 +443,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -461,7 +461,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -9.0,
-          "total": 9
+          "total": 16
         },
         {
           "horse": "Parisiac",
@@ -551,8 +551,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -569,7 +569,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -0.8,
-          "total": 4
+          "total": 7
         },
         {
           "horse": "Gaeli",
@@ -636,7 +636,7 @@
       "going": "Soft (Heavy in places)",
       "n": 8,
       "top_horse": "Impressor",
-      "top_total": 20,
+      "top_total": 27,
       "runners": [
         {
           "horse": "Roach Power",
@@ -645,8 +645,8 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -663,7 +663,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 7
+          "total": 17
         },
         {
           "horse": "Impressor",
@@ -672,8 +672,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -690,7 +690,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 3.0,
-          "total": 20
+          "total": 27
         },
         {
           "horse": "Thunderstorm Katie",
@@ -699,8 +699,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -717,7 +717,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -21.5,
-          "total": 13
+          "total": 16
         },
         {
           "horse": "Vince L'Amour",
@@ -726,8 +726,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -744,7 +744,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 17.0,
-          "total": 14
+          "total": 19
         },
         {
           "horse": "Supremissy",
@@ -753,7 +753,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 5,
           "cd_kind": "dist",
@@ -864,8 +864,8 @@
       "distance": "1m 4f 15y",
       "going": "Soft (Heavy in places)",
       "n": 10,
-      "top_horse": "Hansteen",
-      "top_total": 15,
+      "top_horse": "Uncle Liam",
+      "top_total": 24,
       "runners": [
         {
           "horse": "Uncle Liam",
@@ -874,8 +874,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -892,7 +892,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -21.5,
-          "total": 14
+          "total": 24
         },
         {
           "horse": "Hansteen",
@@ -901,7 +901,7 @@
           "tf": 2,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 5,
           "cd_kind": "dist",
@@ -955,8 +955,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -973,7 +973,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 17.0,
-          "total": 10
+          "total": 15
         },
         {
           "horse": "African Gib",
@@ -982,8 +982,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1000,7 +1000,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -1.0,
-          "total": 3
+          "total": 10
         },
         {
           "horse": "Crown Inn To Win",
@@ -1036,8 +1036,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1054,7 +1054,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 3
+          "total": 6
         },
         {
           "horse": "Storm On Jura",

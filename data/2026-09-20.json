@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "generated": "2026-11-17T06:51:25+00:00",
+  "generated": "2026-11-17T06:52:44+00:00",
   "max": 55,
   "sources": {
     "timeform": "ok",
@@ -16,7 +16,7 @@
       "going": "Heavy (Soft in places)",
       "n": 8,
       "top_horse": "Impressor",
-      "top_total": 15,
+      "top_total": 25,
       "runners": [
         {
           "horse": "Impressor",
@@ -25,8 +25,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -43,7 +43,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 15
+          "total": 25
         },
         {
           "horse": "Fear And Fast",
@@ -52,8 +52,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 3,
@@ -70,7 +70,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.5,
-          "total": 12
+          "total": 17
         },
         {
           "horse": "Royal Duke",
@@ -79,8 +79,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -97,7 +97,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 2.0,
-          "total": 14
+          "total": 17
         },
         {
           "horse": "Kyber Crystal",
@@ -133,8 +133,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 5,
@@ -151,7 +151,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 7.5,
-          "total": 13
+          "total": 20
         },
         {
           "horse": "Doon The Glen",
@@ -160,7 +160,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 3,
           "cd_kind": "crs",
@@ -245,7 +245,7 @@
       "going": "Heavy (Soft in places)",
       "n": 8,
       "top_horse": "Annie Edson Taylor",
-      "top_total": 17,
+      "top_total": 22,
       "runners": [
         {
           "horse": "Iris Dancer",
@@ -281,8 +281,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -299,7 +299,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.5,
-          "total": 8
+          "total": 18
         },
         {
           "horse": "Persian Spirit",
@@ -308,8 +308,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -326,7 +326,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 3.0,
-          "total": 14
+          "total": 21
         },
         {
           "horse": "Annie Edson Taylor",
@@ -335,8 +335,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 3,
@@ -353,7 +353,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 17
+          "total": 22
         },
         {
           "horse": "Mae Amor",
@@ -362,8 +362,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -380,7 +380,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -2.0,
-          "total": 14
+          "total": 17
         },
         {
           "horse": "Call Me Betty",
@@ -473,8 +473,8 @@
       "distance": "1m 68y",
       "going": "Heavy (Soft in places)",
       "n": 11,
-      "top_horse": "Matter Of Britain",
-      "top_total": 19,
+      "top_horse": "Monoceros",
+      "top_total": 20,
       "runners": [
         {
           "horse": "Maximising",
@@ -483,8 +483,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -501,7 +501,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": 0.0,
-          "total": 8
+          "total": 18
         },
         {
           "horse": "Good Morning Alex",
@@ -537,8 +537,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 0,
@@ -555,7 +555,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 1.0,
-          "total": 15
+          "total": 20
         },
         {
           "horse": "Krissy",
@@ -564,8 +564,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -582,7 +582,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.5,
-          "total": 4
+          "total": 7
         },
         {
           "horse": "Matter Of Britain",
@@ -618,8 +618,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -636,7 +636,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -0.5,
-          "total": 3
+          "total": 10
         },
         {
           "horse": "Military Leader",
@@ -645,7 +645,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 5,
           "cd_kind": "dist",
@@ -784,7 +784,7 @@
       "going": "Heavy (Soft in places)",
       "n": 9,
       "top_horse": "Empirestateofmind",
-      "top_total": 19,
+      "top_total": 26,
       "runners": [
         {
           "horse": "Motawaared",
@@ -793,8 +793,8 @@
           "tf": 5,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 33,
-          "fav": 0,
+          "fav_rank": 1,
+          "fav": 10,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -811,7 +811,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -3.5,
-          "total": 5
+          "total": 15
         },
         {
           "horse": "Empirestateofmind",
@@ -820,8 +820,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 17,
-          "fav": 0,
+          "fav_rank": 2,
+          "fav": 7,
           "cd": 5,
           "cd_kind": "dist",
           "jk": 5,
@@ -838,7 +838,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 7.5,
-          "total": 19
+          "total": 26
         },
         {
           "horse": "Tee Aitch Aye",
@@ -847,8 +847,8 @@
           "tf": 4,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 11,
-          "fav": 0,
+          "fav_rank": 3,
+          "fav": 5,
           "cd": 10,
           "cd_kind": "cd",
           "jk": 0,
@@ -865,7 +865,7 @@
           "tcj": 0,
           "profit": 5,
           "prof": 1.0,
-          "total": 19
+          "total": 24
         },
         {
           "horse": "Port Darwin",
@@ -901,7 +901,7 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 6,
+          "fav_rank": 5,
           "fav": 0,
           "cd": 0,
           "cd_kind": "",
@@ -1009,8 +1009,8 @@
           "tf": 3,
           "rp": 0,
           "rpr": null,
-          "fav_rank": 8,
-          "fav": 0,
+          "fav_rank": 4,
+          "fav": 3,
           "cd": 0,
           "cd_kind": "",
           "jk": 0,
@@ -1027,7 +1027,7 @@
           "tcj": 0,
           "profit": 0,
           "prof": -12.0,
-          "total": 3
+          "total": 6
         }
       ]
     }
