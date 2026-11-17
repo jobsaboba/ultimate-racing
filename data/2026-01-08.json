@@ -1,7 +1,21 @@
 {
   "date": "2026-01-08",
-  "generated": "2026-11-17T06:52:42+00:00",
+  "generated": "2026-11-17T07:41:30+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 10.3,
+    "staked": 0.1,
+    "returned": 0.0,
+    "bank_after": 10.2,
+    "bet": {
+      "horse": "Starzand",
+      "odds": "6/5",
+      "total": 21,
+      "race_time": "12:40",
+      "race_meeting": "Ffos Las",
+      "res": "PLACE"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

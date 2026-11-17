@@ -1,7 +1,21 @@
 {
   "date": "2026-11-11",
-  "generated": "2026-11-17T06:52:45+00:00",
+  "generated": "2026-11-17T07:41:34+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 8.26,
+    "staked": 0.08,
+    "returned": 0.0,
+    "bank_after": 8.18,
+    "bet": {
+      "horse": "Eastern Peace",
+      "odds": "4/1",
+      "total": 30,
+      "race_time": "17:32",
+      "race_meeting": "Dundalk",
+      "res": "LOSE"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

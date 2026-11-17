@@ -1,7 +1,21 @@
 {
   "date": "2026-05-05",
-  "generated": "2026-11-17T06:52:43+00:00",
+  "generated": "2026-11-17T07:41:31+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 7.94,
+    "staked": 0.08,
+    "returned": 0.0,
+    "bank_after": 7.86,
+    "bet": {
+      "horse": "Harb",
+      "odds": "5/2",
+      "total": 23,
+      "race_time": "13:30",
+      "race_meeting": "Ayr",
+      "res": "LOSE"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

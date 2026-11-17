@@ -1,7 +1,21 @@
 {
   "date": "2026-03-26",
-  "generated": "2026-11-17T06:52:43+00:00",
+  "generated": "2026-11-17T07:41:31+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 8.65,
+    "staked": 0.09,
+    "returned": 0.0,
+    "bank_after": 8.56,
+    "bet": {
+      "horse": "Tom Taggle",
+      "odds": "18/5",
+      "total": 22,
+      "race_time": "14:50",
+      "race_meeting": "Chepstow",
+      "res": "LOSE"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

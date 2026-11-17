@@ -1,7 +1,21 @@
 {
   "date": "2026-11-16",
-  "generated": "2026-11-17T06:52:45+00:00",
+  "generated": "2026-11-17T07:41:35+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 8.97,
+    "staked": 0.09,
+    "returned": 0.0,
+    "bank_after": 8.88,
+    "bet": {
+      "horse": "Kamille Au Kanada",
+      "odds": "4/1",
+      "total": 35,
+      "race_time": "14:15",
+      "race_meeting": "Plumpton",
+      "res": "PLACE"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "ok"

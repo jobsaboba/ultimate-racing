@@ -1,7 +1,21 @@
 {
   "date": "2026-04-26",
-  "generated": "2026-11-17T06:52:43+00:00",
+  "generated": "2026-11-17T07:41:31+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 8.0,
+    "staked": 0.08,
+    "returned": 0.0,
+    "bank_after": 7.92,
+    "bet": {
+      "horse": "Montezuma",
+      "odds": "5/2",
+      "total": 30,
+      "race_time": "17:45",
+      "race_meeting": "Musselburgh",
+      "res": "PLACE"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

@@ -1,7 +1,21 @@
 {
   "date": "2026-05-29",
-  "generated": "2026-11-17T06:52:43+00:00",
+  "generated": "2026-11-17T07:41:31+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 8.89,
+    "staked": 0.09,
+    "returned": 0.0,
+    "bank_after": 8.8,
+    "bet": {
+      "horse": "Romanovich",
+      "odds": "4/1",
+      "total": 23,
+      "race_time": "16:10",
+      "race_meeting": "Chepstow",
+      "res": "LOSE"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

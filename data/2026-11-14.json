@@ -1,7 +1,21 @@
 {
   "date": "2026-11-14",
-  "generated": "2026-11-17T06:52:45+00:00",
+  "generated": "2026-11-17T07:41:35+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 8.36,
+    "staked": 0.08,
+    "returned": 0.24,
+    "bank_after": 8.52,
+    "bet": {
+      "horse": "Thinkitdontjinxit",
+      "odds": "2/1",
+      "total": 34,
+      "race_time": "13:35",
+      "race_meeting": "Navan",
+      "res": "WIN"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

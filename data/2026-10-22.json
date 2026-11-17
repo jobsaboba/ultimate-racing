@@ -1,7 +1,21 @@
 {
   "date": "2026-10-22",
-  "generated": "2026-11-17T06:52:44+00:00",
+  "generated": "2026-11-17T07:41:34+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 8.57,
+    "staked": 0.09,
+    "returned": 0.34,
+    "bank_after": 8.82,
+    "bet": {
+      "horse": "The Walk",
+      "odds": "11/4",
+      "total": 19,
+      "race_time": "13:01",
+      "race_meeting": "Ffos Las",
+      "res": "WIN"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

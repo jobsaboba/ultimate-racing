@@ -1,7 +1,21 @@
 {
   "date": "2026-08-15",
-  "generated": "2026-11-17T06:52:44+00:00",
+  "generated": "2026-11-17T07:41:32+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 8.94,
+    "staked": 0.09,
+    "returned": 0.4,
+    "bank_after": 9.25,
+    "bet": {
+      "horse": "Follow Charlie",
+      "odds": "7/2",
+      "total": 24,
+      "race_time": "13:50",
+      "race_meeting": "Perth",
+      "res": "WIN"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

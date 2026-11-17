@@ -1,7 +1,21 @@
 {
   "date": "2026-07-24",
-  "generated": "2026-11-17T06:52:43+00:00",
+  "generated": "2026-11-17T07:41:32+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 8.76,
+    "staked": 0.09,
+    "returned": 0.0,
+    "bank_after": 8.67,
+    "bet": {
+      "horse": "Prince Ali",
+      "odds": "11/2",
+      "total": 27,
+      "race_time": "18:36",
+      "race_meeting": "Chepstow",
+      "res": "PLACE"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

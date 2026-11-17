@@ -1,7 +1,21 @@
 {
   "date": "2026-07-13",
-  "generated": "2026-11-17T06:52:43+00:00",
+  "generated": "2026-11-17T07:41:32+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 8.35,
+    "staked": 0.08,
+    "returned": 0.0,
+    "bank_after": 8.27,
+    "bet": {
+      "horse": "White Ladder",
+      "odds": "6/4",
+      "total": 30,
+      "race_time": "14:00",
+      "race_meeting": "Ayr",
+      "res": "LOSE"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

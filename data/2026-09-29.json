@@ -1,7 +1,21 @@
 {
   "date": "2026-09-29",
-  "generated": "2026-11-17T06:52:44+00:00",
+  "generated": "2026-11-17T07:41:33+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 8.99,
+    "staked": 0.09,
+    "returned": 0.39,
+    "bank_after": 9.29,
+    "bet": {
+      "horse": "Highfield Viking",
+      "odds": "10/3",
+      "total": 33,
+      "race_time": "15:08",
+      "race_meeting": "Ayr",
+      "res": "WIN"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

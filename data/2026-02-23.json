@@ -1,7 +1,21 @@
 {
   "date": "2026-02-23",
-  "generated": "2026-11-17T06:52:43+00:00",
+  "generated": "2026-11-17T07:41:30+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 9.31,
+    "staked": 0.09,
+    "returned": 0.0,
+    "bank_after": 9.22,
+    "bet": {
+      "horse": "The Jeweller's Pet",
+      "odds": "7/2",
+      "total": 25,
+      "race_time": "16:00",
+      "race_meeting": "Ayr",
+      "res": "PLACE"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

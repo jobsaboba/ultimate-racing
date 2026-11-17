@@ -1,7 +1,21 @@
 {
   "date": "2026-05-03",
-  "generated": "2026-11-17T06:52:43+00:00",
+  "generated": "2026-11-17T07:41:31+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 7.84,
+    "staked": 0.08,
+    "returned": 0.18,
+    "bank_after": 7.94,
+    "bet": {
+      "horse": "Alpine Sierra",
+      "odds": "6/5",
+      "total": 28,
+      "race_time": "16:35",
+      "race_meeting": "Hamilton",
+      "res": "WIN"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

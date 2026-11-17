@@ -1,7 +1,21 @@
 {
   "date": "2026-08-01",
-  "generated": "2026-11-17T06:52:43+00:00",
+  "generated": "2026-11-17T07:41:32+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 8.76,
+    "staked": 0.09,
+    "returned": 0.0,
+    "bank_after": 8.67,
+    "bet": {
+      "horse": "Mwafaq",
+      "odds": "5/2",
+      "total": 25,
+      "race_time": "19:30",
+      "race_meeting": "Hamilton",
+      "res": "PLACE"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

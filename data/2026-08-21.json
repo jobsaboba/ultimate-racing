@@ -1,7 +1,21 @@
 {
   "date": "2026-08-21",
-  "generated": "2026-11-17T06:52:44+00:00",
+  "generated": "2026-11-17T07:41:33+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 9.36,
+    "staked": 0.09,
+    "returned": 0.36,
+    "bank_after": 9.63,
+    "bet": {
+      "horse": "City Captain",
+      "odds": "3/1",
+      "total": 29,
+      "race_time": "18:45",
+      "race_meeting": "Hamilton",
+      "res": "WIN"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

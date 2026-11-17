@@ -1,7 +1,21 @@
 {
   "date": "2026-09-19",
-  "generated": "2026-11-17T06:52:44+00:00",
+  "generated": "2026-11-17T07:41:33+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 9.41,
+    "staked": 0.09,
+    "returned": 0.0,
+    "bank_after": 9.32,
+    "bet": {
+      "horse": "Binhareer",
+      "odds": "4/1",
+      "total": 30,
+      "race_time": "14:40",
+      "race_meeting": "Ayr",
+      "res": "LOSE"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

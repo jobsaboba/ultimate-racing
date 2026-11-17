@@ -1,7 +1,21 @@
 {
   "date": "2026-05-21",
-  "generated": "2026-11-17T06:52:43+00:00",
+  "generated": "2026-11-17T07:41:31+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 8.14,
+    "staked": 0.08,
+    "returned": 0.24,
+    "bank_after": 8.3,
+    "bet": {
+      "horse": "Bellarchi",
+      "odds": "2/1",
+      "total": 24,
+      "race_time": "15:25",
+      "race_meeting": "Musselburgh",
+      "res": "WIN"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

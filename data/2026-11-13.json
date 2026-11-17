@@ -1,7 +1,21 @@
 {
   "date": "2026-11-13",
-  "generated": "2026-11-17T06:52:45+00:00",
+  "generated": "2026-11-17T07:41:35+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 8.3,
+    "staked": 0.08,
+    "returned": 0.14,
+    "bank_after": 8.36,
+    "bet": {
+      "horse": "Golly Gosh",
+      "odds": "8/11",
+      "total": 35,
+      "race_time": "12:20",
+      "race_meeting": "Southwell",
+      "res": "WIN"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

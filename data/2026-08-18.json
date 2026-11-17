@@ -1,7 +1,21 @@
 {
   "date": "2026-08-18",
-  "generated": "2026-11-17T06:52:44+00:00",
+  "generated": "2026-11-17T07:41:32+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 9.25,
+    "staked": 0.09,
+    "returned": 0.2,
+    "bank_after": 9.36,
+    "bet": {
+      "horse": "Arnaz",
+      "odds": "6/5",
+      "total": 30,
+      "race_time": "16:00",
+      "race_meeting": "Chepstow",
+      "res": "WIN"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

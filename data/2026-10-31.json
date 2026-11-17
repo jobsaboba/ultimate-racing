@@ -1,7 +1,21 @@
 {
   "date": "2026-10-31",
-  "generated": "2026-11-17T06:52:44+00:00",
+  "generated": "2026-11-17T07:41:34+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 8.55,
+    "staked": 0.09,
+    "returned": 0.0,
+    "bank_after": 8.46,
+    "bet": {
+      "horse": "Ck O'mara",
+      "odds": "5/2",
+      "total": 25,
+      "race_time": "16:10",
+      "race_meeting": "Ayr",
+      "res": "PLACE"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

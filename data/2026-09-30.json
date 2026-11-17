@@ -1,7 +1,21 @@
 {
   "date": "2026-09-30",
-  "generated": "2026-11-17T06:52:44+00:00",
+  "generated": "2026-11-17T07:41:33+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 9.29,
+    "staked": 0.09,
+    "returned": 0.0,
+    "bank_after": 9.2,
+    "bet": {
+      "horse": "Jer Batt",
+      "odds": "7/2",
+      "total": 24,
+      "race_time": "14:58",
+      "race_meeting": "Musselburgh",
+      "res": "LOSE"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

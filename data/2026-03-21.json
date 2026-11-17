@@ -1,7 +1,21 @@
 {
   "date": "2026-03-21",
-  "generated": "2026-11-17T06:52:43+00:00",
+  "generated": "2026-11-17T07:41:30+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 8.74,
+    "staked": 0.09,
+    "returned": 0.0,
+    "bank_after": 8.65,
+    "bet": {
+      "horse": "Ayyadieh",
+      "odds": "4/1",
+      "total": 20,
+      "race_time": "16:30",
+      "race_meeting": "Bangor-on-Dee",
+      "res": "PLACE"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

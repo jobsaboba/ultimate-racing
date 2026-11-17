@@ -1,7 +1,21 @@
 {
   "date": "2026-07-14",
-  "generated": "2026-11-17T06:52:43+00:00",
+  "generated": "2026-11-17T07:41:32+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 8.27,
+    "staked": 0.08,
+    "returned": 0.24,
+    "bank_after": 8.43,
+    "bet": {
+      "horse": "Homeland",
+      "odds": "2/1",
+      "total": 20,
+      "race_time": "15:40",
+      "race_meeting": "Ffos Las",
+      "res": "WIN"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

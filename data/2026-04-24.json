@@ -1,7 +1,21 @@
 {
   "date": "2026-04-24",
-  "generated": "2026-11-17T06:52:43+00:00",
+  "generated": "2026-11-17T07:41:31+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 8.08,
+    "staked": 0.08,
+    "returned": 0.0,
+    "bank_after": 8.0,
+    "bet": {
+      "horse": "Roaring Conquest",
+      "odds": "9/4",
+      "total": 30,
+      "race_time": "13:40",
+      "race_meeting": "Perth",
+      "res": "LOSE"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

@@ -1,7 +1,21 @@
 {
   "date": "2026-10-08",
-  "generated": "2026-11-17T06:52:44+00:00",
+  "generated": "2026-11-17T07:41:33+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 9.2,
+    "staked": 0.09,
+    "returned": 0.0,
+    "bank_after": 9.11,
+    "bet": {
+      "horse": "Eye Of Dubai",
+      "odds": "10/3",
+      "total": 26,
+      "race_time": "14:30",
+      "race_meeting": "Ayr",
+      "res": "PLACE"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

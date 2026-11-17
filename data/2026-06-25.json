@@ -1,7 +1,21 @@
 {
   "date": "2026-06-25",
-  "generated": "2026-11-17T06:52:43+00:00",
+  "generated": "2026-11-17T07:41:32+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 8.28,
+    "staked": 0.08,
+    "returned": 0.0,
+    "bank_after": 8.2,
+    "bet": {
+      "horse": "Reigning Profit",
+      "odds": "9/2",
+      "total": 20,
+      "race_time": "18:30",
+      "race_meeting": "Hamilton",
+      "res": "LOSE"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

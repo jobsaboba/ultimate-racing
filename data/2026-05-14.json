@@ -1,7 +1,21 @@
 {
   "date": "2026-05-14",
-  "generated": "2026-11-17T06:52:43+00:00",
+  "generated": "2026-11-17T07:41:31+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 7.94,
+    "staked": 0.08,
+    "returned": 0.0,
+    "bank_after": 7.86,
+    "bet": {
+      "horse": "Lexington Wood",
+      "odds": "4/7",
+      "total": 20,
+      "race_time": "12:58",
+      "race_meeting": "Perth",
+      "res": "PLACE"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

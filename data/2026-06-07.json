@@ -1,7 +1,21 @@
 {
   "date": "2026-06-07",
-  "generated": "2026-11-17T06:52:43+00:00",
+  "generated": "2026-11-17T07:41:32+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 8.53,
+    "staked": 0.09,
+    "returned": 0.45,
+    "bank_after": 8.89,
+    "bet": {
+      "horse": "Scots Poet",
+      "odds": "4/1",
+      "total": 26,
+      "race_time": "14:17",
+      "race_meeting": "Perth",
+      "res": "WIN"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

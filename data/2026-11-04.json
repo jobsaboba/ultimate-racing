@@ -1,7 +1,21 @@
 {
   "date": "2026-11-04",
-  "generated": "2026-11-17T06:52:44+00:00",
+  "generated": "2026-11-17T07:41:34+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 8.46,
+    "staked": 0.08,
+    "returned": 0.0,
+    "bank_after": 8.38,
+    "bet": {
+      "horse": "Empirestateofmind",
+      "odds": "3/1",
+      "total": 29,
+      "race_time": "14:45",
+      "race_meeting": "Musselburgh",
+      "res": "PLACE"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

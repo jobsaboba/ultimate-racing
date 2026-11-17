@@ -1,7 +1,21 @@
 {
   "date": "2026-07-05",
-  "generated": "2026-11-17T06:52:43+00:00",
+  "generated": "2026-11-17T07:41:32+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 8.27,
+    "staked": 0.08,
+    "returned": 0.32,
+    "bank_after": 8.51,
+    "bet": {
+      "horse": "Jkr Cobbler",
+      "odds": "3/1",
+      "total": 25,
+      "race_time": "16:35",
+      "race_meeting": "Ayr",
+      "res": "WIN"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

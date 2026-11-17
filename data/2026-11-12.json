@@ -1,7 +1,21 @@
 {
   "date": "2026-11-12",
-  "generated": "2026-11-17T06:52:45+00:00",
+  "generated": "2026-11-17T07:41:34+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 8.18,
+    "staked": 0.08,
+    "returned": 0.2,
+    "bank_after": 8.3,
+    "bet": {
+      "horse": "Gunnery Sergeant",
+      "odds": "6/4",
+      "total": 35,
+      "race_time": "14:03",
+      "race_meeting": "Thurles",
+      "res": "WIN"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

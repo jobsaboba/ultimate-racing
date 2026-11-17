@@ -1,7 +1,21 @@
 {
   "date": "2026-04-20",
-  "generated": "2026-11-17T06:52:43+00:00",
+  "generated": "2026-11-17T07:41:31+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 8.11,
+    "staked": 0.08,
+    "returned": 0.0,
+    "bank_after": 8.03,
+    "bet": {
+      "horse": "Looking Splendid",
+      "odds": "2/1",
+      "total": 25,
+      "race_time": "14:00",
+      "race_meeting": "Kelso",
+      "res": "PLACE"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

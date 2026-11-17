@@ -1,7 +1,21 @@
 {
   "date": "2026-01-13",
-  "generated": "2026-11-17T06:52:42+00:00",
+  "generated": "2026-11-17T07:41:30+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 10.2,
+    "staked": 0.1,
+    "returned": 0.0,
+    "bank_after": 10.1,
+    "bet": {
+      "horse": "Kelvin Forlonge",
+      "odds": "3/1",
+      "total": 25,
+      "race_time": "13:48",
+      "race_meeting": "Ayr",
+      "res": "PLACE"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

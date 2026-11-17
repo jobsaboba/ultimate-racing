@@ -1,7 +1,21 @@
 {
   "date": "2026-10-09",
-  "generated": "2026-11-17T06:52:44+00:00",
+  "generated": "2026-11-17T07:41:33+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 9.11,
+    "staked": 0.09,
+    "returned": 0.0,
+    "bank_after": 9.02,
+    "bet": {
+      "horse": "Jaminska",
+      "odds": "4/1",
+      "total": 23,
+      "race_time": "15:17",
+      "race_meeting": "Chepstow",
+      "res": "PLACE"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"

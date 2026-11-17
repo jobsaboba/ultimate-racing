@@ -1,7 +1,21 @@
 {
   "date": "2026-06-10",
-  "generated": "2026-11-17T06:52:43+00:00",
+  "generated": "2026-11-17T07:41:32+00:00",
   "max": 55,
+  "money": {
+    "bank_start": 8.89,
+    "staked": 0.09,
+    "returned": 0.0,
+    "bank_after": 8.8,
+    "bet": {
+      "horse": "Perfidia",
+      "odds": "5/1",
+      "total": 23,
+      "race_time": "20:00",
+      "race_meeting": "Hamilton",
+      "res": "LOSE"
+    }
+  },
   "sources": {
     "timeform": "ok",
     "rp": "missing"
